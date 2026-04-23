@@ -1,0 +1,6524 @@
+{
+  "orders": [
+    {
+      "id": 1000001,
+      "order_number": 1,
+      "created_at": "2026-04-18T08:26:05.341025-05:00",
+      "updated_at": "2026-04-18T19:26:05.341025-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 87397,
+        "email": "alvaradogerardo@example.org",
+        "first_name": "Esparta",
+        "last_name": "Chávez"
+      },
+      "subtotal_price": "57.74",
+      "total_tax": "10.39",
+      "total_price": "68.13",
+      "line_items": [
+        {
+          "id": 101,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 1,
+          "price": "57.74",
+          "total_discount": "0.00",
+          "line_total": "57.74"
+        }
+      ]
+    },
+    {
+      "id": 1000002,
+      "order_number": 2,
+      "created_at": "2026-04-13T03:24:47.341203-05:00",
+      "updated_at": "2026-04-14T14:24:47.341203-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 10851,
+        "email": "trejoasuncion@example.net",
+        "first_name": "Luisa",
+        "last_name": "Aparicio"
+      },
+      "subtotal_price": "69.75",
+      "total_tax": "12.55",
+      "total_price": "82.30",
+      "line_items": [
+        {
+          "id": 201,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "87.19",
+          "total_discount": "17.44",
+          "line_total": "69.75"
+        }
+      ]
+    },
+    {
+      "id": 1000003,
+      "order_number": 3,
+      "created_at": "2026-04-03T05:45:48.341238-05:00",
+      "updated_at": "2026-04-05T01:45:48.341238-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 89131,
+        "email": "cabanesteban@example.org",
+        "first_name": "Natalia",
+        "last_name": "Zarate"
+      },
+      "subtotal_price": "30.69",
+      "total_tax": "5.52",
+      "total_price": "36.21",
+      "line_items": [
+        {
+          "id": 301,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "30.69",
+          "total_discount": "0.00",
+          "line_total": "30.69"
+        }
+      ]
+    },
+    {
+      "id": 1000004,
+      "order_number": 4,
+      "created_at": "2026-04-01T10:52:34.341261-05:00",
+      "updated_at": "2026-04-02T10:52:34.341261-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 19116,
+        "email": null,
+        "first_name": "Violeta",
+        "last_name": "Trejo"
+      },
+      "subtotal_price": "28.06",
+      "total_tax": "5.05",
+      "total_price": "33.11",
+      "line_items": [
+        {
+          "id": 401,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "35.08",
+          "total_discount": "7.02",
+          "line_total": "28.06"
+        }
+      ]
+    },
+    {
+      "id": 1000005,
+      "order_number": 5,
+      "created_at": "2026-04-09T16:59:00.341281-05:00",
+      "updated_at": "2026-04-09T23:59:00.341281-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 40021,
+        "email": "cgaray@example.net",
+        "first_name": "Germán",
+        "last_name": "Aguayo"
+      },
+      "subtotal_price": "214.99",
+      "total_tax": "38.70",
+      "total_price": "253.69",
+      "line_items": [
+        {
+          "id": 501,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "91.12",
+          "total_discount": "0.00",
+          "line_total": "91.12"
+        },
+        {
+          "id": 502,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "55.83",
+          "total_discount": "0.00",
+          "line_total": "55.83"
+        },
+        {
+          "id": 503,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "30.59",
+          "total_discount": "0.00",
+          "line_total": "30.59"
+        },
+        {
+          "id": 504,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "46.81",
+          "total_discount": "9.36",
+          "line_total": "37.45"
+        }
+      ]
+    },
+    {
+      "id": 1000006,
+      "order_number": 6,
+      "created_at": "2026-04-04T06:45:14.341307-05:00",
+      "updated_at": "2026-04-06T16:45:14.341307-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 28726,
+        "email": "luisamolina@example.com",
+        "first_name": "Cristal",
+        "last_name": "Galván"
+      },
+      "subtotal_price": "100.47",
+      "total_tax": "18.08",
+      "total_price": "118.55",
+      "line_items": [
+        {
+          "id": 601,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 2,
+          "price": "50.24",
+          "total_discount": "0.00",
+          "line_total": "100.47"
+        }
+      ]
+    },
+    {
+      "id": 1000007,
+      "order_number": 7,
+      "created_at": "2026-03-27T12:06:13.341326-05:00",
+      "updated_at": "2026-03-28T05:06:13.341326-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 76784,
+        "email": "benjamin16@example.org",
+        "first_name": "Jorge",
+        "last_name": "Montañez"
+      },
+      "subtotal_price": "37.34",
+      "total_tax": "6.72",
+      "total_price": "44.06",
+      "line_items": [
+        {
+          "id": 701,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "41.49",
+          "total_discount": "4.15",
+          "line_total": "37.34"
+        }
+      ]
+    },
+    {
+      "id": 1000008,
+      "order_number": 8,
+      "created_at": "2026-04-18T10:23:40.341346-05:00",
+      "updated_at": "2026-04-20T21:23:40.341346-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 79352,
+        "email": "alvaro78@example.org",
+        "first_name": "José María",
+        "last_name": "Berríos"
+      },
+      "subtotal_price": "49.51",
+      "total_tax": "8.91",
+      "total_price": "58.42",
+      "line_items": [
+        {
+          "id": 801,
+          "sku": "SHP-CAM001-BLU-M",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 1,
+          "price": "49.51",
+          "total_discount": "0.00",
+          "line_total": "49.51"
+        }
+      ]
+    },
+    {
+      "id": 1000009,
+      "order_number": 9,
+      "created_at": "2026-04-23T04:46:07.341363-05:00",
+      "updated_at": "2026-04-25T20:46:07.341363-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 23947,
+        "email": "soledad95@example.net",
+        "first_name": "Elisa",
+        "last_name": "Barrios"
+      },
+      "subtotal_price": "190.60",
+      "total_tax": "34.31",
+      "total_price": "224.91",
+      "line_items": [
+        {
+          "id": 901,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 2,
+          "price": "30.65",
+          "total_discount": "0.00",
+          "line_total": "61.30"
+        },
+        {
+          "id": 902,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "129.30",
+          "total_discount": "0.00",
+          "line_total": "129.30"
+        }
+      ]
+    },
+    {
+      "id": 1000010,
+      "order_number": 10,
+      "created_at": "2026-03-30T02:40:29.341381-05:00",
+      "updated_at": "2026-03-31T17:40:29.341381-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 41385,
+        "email": null,
+        "first_name": "Eugenia",
+        "last_name": "Campos"
+      },
+      "subtotal_price": "58.88",
+      "total_tax": "10.60",
+      "total_price": "69.48",
+      "line_items": [
+        {
+          "id": 1001,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "30.02",
+          "total_discount": "6.00",
+          "line_total": "24.02"
+        },
+        {
+          "id": 1002,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "34.86",
+          "total_discount": "0.00",
+          "line_total": "34.86"
+        }
+      ]
+    },
+    {
+      "id": 1000011,
+      "order_number": 11,
+      "created_at": "2026-04-19T22:23:10.341400-05:00",
+      "updated_at": "2026-04-22T10:23:10.341400-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 82063,
+        "email": "dledesma@example.net",
+        "first_name": "José",
+        "last_name": "Curiel"
+      },
+      "subtotal_price": "108.80",
+      "total_tax": "19.58",
+      "total_price": "128.38",
+      "line_items": [
+        {
+          "id": 1101,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 2,
+          "price": "68.00",
+          "total_discount": "27.20",
+          "line_total": "108.80"
+        }
+      ]
+    },
+    {
+      "id": 1000012,
+      "order_number": 12,
+      "created_at": "2026-03-25T07:24:42.341416-05:00",
+      "updated_at": "2026-03-27T06:24:42.341416-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 67422,
+        "email": "joaquin34@example.net",
+        "first_name": "Vicente",
+        "last_name": "Becerra"
+      },
+      "subtotal_price": "102.35",
+      "total_tax": "18.42",
+      "total_price": "120.77",
+      "line_items": [
+        {
+          "id": 1201,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 2,
+          "price": "51.17",
+          "total_discount": "0.00",
+          "line_total": "102.35"
+        }
+      ]
+    },
+    {
+      "id": 1000013,
+      "order_number": 13,
+      "created_at": "2026-04-11T17:18:50.341432-05:00",
+      "updated_at": "2026-04-12T00:18:50.341432-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 40007,
+        "email": null,
+        "first_name": "María Teresa",
+        "last_name": "Ojeda"
+      },
+      "subtotal_price": "56.22",
+      "total_tax": "10.12",
+      "total_price": "66.34",
+      "line_items": [
+        {
+          "id": 1301,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 1,
+          "price": "70.28",
+          "total_discount": "14.06",
+          "line_total": "56.22"
+        }
+      ]
+    },
+    {
+      "id": 1000014,
+      "order_number": 14,
+      "created_at": "2026-04-07T17:10:04.341447-05:00",
+      "updated_at": "2026-04-10T05:10:04.341447-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 41850,
+        "email": "timoteo83@example.net",
+        "first_name": "Irma",
+        "last_name": "Badillo"
+      },
+      "subtotal_price": "43.86",
+      "total_tax": "7.89",
+      "total_price": "51.75",
+      "line_items": [
+        {
+          "id": 1401,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "54.82",
+          "total_discount": "10.96",
+          "line_total": "43.86"
+        }
+      ]
+    },
+    {
+      "id": 1000015,
+      "order_number": 15,
+      "created_at": "2026-04-14T12:18:04.341461-05:00",
+      "updated_at": "2026-04-15T00:18:04.341461-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 17944,
+        "email": "alonsomata@example.com",
+        "first_name": "Gabriel",
+        "last_name": "Barraza"
+      },
+      "subtotal_price": "116.02",
+      "total_tax": "20.88",
+      "total_price": "136.90",
+      "line_items": [
+        {
+          "id": 1501,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "128.91",
+          "total_discount": "12.89",
+          "line_total": "116.02"
+        }
+      ]
+    },
+    {
+      "id": 1000016,
+      "order_number": 16,
+      "created_at": "2026-04-18T10:50:14.341477-05:00",
+      "updated_at": "2026-04-18T19:50:14.341477-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 68082,
+        "email": "raquelmascarenas@example.org",
+        "first_name": "Vanesa",
+        "last_name": "Sanabria"
+      },
+      "subtotal_price": "48.10",
+      "total_tax": "8.66",
+      "total_price": "56.76",
+      "line_items": [
+        {
+          "id": 1601,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "48.10",
+          "total_discount": "0.00",
+          "line_total": "48.10"
+        }
+      ]
+    },
+    {
+      "id": 1000017,
+      "order_number": 17,
+      "created_at": "2026-04-19T00:04:23.341492-05:00",
+      "updated_at": "2026-04-20T03:04:23.341492-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 62565,
+        "email": "jreynoso@example.com",
+        "first_name": "Clara",
+        "last_name": "Gurule"
+      },
+      "subtotal_price": "167.29",
+      "total_tax": "30.11",
+      "total_price": "197.40",
+      "line_items": [
+        {
+          "id": 1701,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 2,
+          "price": "83.65",
+          "total_discount": "0.00",
+          "line_total": "167.29"
+        }
+      ]
+    },
+    {
+      "id": 1000018,
+      "order_number": 18,
+      "created_at": "2026-04-23T15:38:01.341506-05:00",
+      "updated_at": "2026-04-23T23:38:01.341506-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 87992,
+        "email": null,
+        "first_name": "Jos",
+        "last_name": "Gaona"
+      },
+      "subtotal_price": "235.90",
+      "total_tax": "42.46",
+      "total_price": "278.36",
+      "line_items": [
+        {
+          "id": 1801,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 1,
+          "price": "61.08",
+          "total_discount": "12.22",
+          "line_total": "48.86"
+        },
+        {
+          "id": 1802,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "33.82",
+          "total_discount": "0.00",
+          "line_total": "33.82"
+        },
+        {
+          "id": 1803,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "60.15",
+          "total_discount": "0.00",
+          "line_total": "60.15"
+        },
+        {
+          "id": 1804,
+          "sku": " SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "93.07",
+          "total_discount": "0.00",
+          "line_total": "93.07"
+        }
+      ]
+    },
+    {
+      "id": 1000019,
+      "order_number": 19,
+      "created_at": "2026-04-04T03:42:44.341528-05:00",
+      "updated_at": "2026-04-07T03:42:44.341528-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 78522,
+        "email": "nancysalcido@example.org",
+        "first_name": "Amanda",
+        "last_name": "Carmona"
+      },
+      "subtotal_price": "25.10",
+      "total_tax": "4.52",
+      "total_price": "29.62",
+      "line_items": [
+        {
+          "id": 1901,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "25.10",
+          "total_discount": "0.00",
+          "line_total": "25.10"
+        }
+      ]
+    },
+    {
+      "id": 1000020,
+      "order_number": 20,
+      "created_at": "2026-04-08T12:05:39.341542-05:00",
+      "updated_at": "2026-04-08T21:05:39.341542-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 11220,
+        "email": "soledadcrespo@example.net",
+        "first_name": "Luisa",
+        "last_name": "Ybarra"
+      },
+      "subtotal_price": "40.99",
+      "total_tax": "7.38",
+      "total_price": "48.37",
+      "line_items": [
+        {
+          "id": 2001,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "45.55",
+          "total_discount": "4.56",
+          "line_total": "40.99"
+        }
+      ]
+    },
+    {
+      "id": 1000021,
+      "order_number": 21,
+      "created_at": "2026-04-18T21:39:30.341557-05:00",
+      "updated_at": "2026-04-20T20:39:30.341557-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 47353,
+        "email": "olmosjuana@example.net",
+        "first_name": "Mayte",
+        "last_name": "Tafoya"
+      },
+      "subtotal_price": "48.07",
+      "total_tax": "8.65",
+      "total_price": "56.72",
+      "line_items": [
+        {
+          "id": 2101,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "48.07",
+          "total_discount": "0.00",
+          "line_total": "48.07"
+        }
+      ]
+    },
+    {
+      "id": 1000022,
+      "order_number": 22,
+      "created_at": "2026-04-09T01:41:13.341574-05:00",
+      "updated_at": "2026-04-11T23:41:13.341574-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 30374,
+        "email": "perla01@example.net",
+        "first_name": "Omar",
+        "last_name": "Jaramillo"
+      },
+      "subtotal_price": "74.72",
+      "total_tax": "13.45",
+      "total_price": "88.17",
+      "line_items": [
+        {
+          "id": 2201,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "60.91",
+          "total_discount": "12.18",
+          "line_total": "48.73"
+        },
+        {
+          "id": 2202,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "25.99",
+          "total_discount": "0.00",
+          "line_total": "25.99"
+        }
+      ]
+    },
+    {
+      "id": 1000023,
+      "order_number": 23,
+      "created_at": "2026-04-07T02:39:37.341590-05:00",
+      "updated_at": "2026-04-07T13:39:37.341590-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 93136,
+        "email": "bruno46@example.org",
+        "first_name": "María Elena",
+        "last_name": "Acosta"
+      },
+      "subtotal_price": "49.83",
+      "total_tax": "8.97",
+      "total_price": "58.80",
+      "line_items": [
+        {
+          "id": 2301,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 2,
+          "price": "24.91",
+          "total_discount": "0.00",
+          "line_total": "49.83"
+        }
+      ]
+    },
+    {
+      "id": 1000024,
+      "order_number": 24,
+      "created_at": "2026-04-23T14:00:50.341604-05:00",
+      "updated_at": "2026-04-23T15:00:50.341604-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 24663,
+        "email": null,
+        "first_name": "Socorro",
+        "last_name": "Lugo"
+      },
+      "subtotal_price": "26.27",
+      "total_tax": "4.73",
+      "total_price": "31.00",
+      "line_items": [
+        {
+          "id": 2401,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "29.19",
+          "total_discount": "2.92",
+          "line_total": "26.27"
+        }
+      ]
+    },
+    {
+      "id": 1000025,
+      "order_number": 25,
+      "created_at": "2026-04-16T12:29:03.341618-05:00",
+      "updated_at": "2026-04-16T17:29:03.341618-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 56898,
+        "email": "cristiannino@example.org",
+        "first_name": "Paola",
+        "last_name": "Tamez"
+      },
+      "subtotal_price": "45.14",
+      "total_tax": "8.13",
+      "total_price": "53.27",
+      "line_items": [
+        {
+          "id": 2501,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "50.16",
+          "total_discount": "5.02",
+          "line_total": "45.14"
+        }
+      ]
+    },
+    {
+      "id": 1000026,
+      "order_number": 26,
+      "created_at": "2026-04-18T18:22:54.341634-05:00",
+      "updated_at": "2026-04-20T00:22:54.341634-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 31299,
+        "email": "zamudioirene@example.com",
+        "first_name": "Aida",
+        "last_name": "Carrasco"
+      },
+      "subtotal_price": "126.64",
+      "total_tax": "22.80",
+      "total_price": "149.44",
+      "line_items": [
+        {
+          "id": 2601,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 2,
+          "price": "79.15",
+          "total_discount": "31.66",
+          "line_total": "126.64"
+        }
+      ]
+    },
+    {
+      "id": 1000027,
+      "order_number": 27,
+      "created_at": "2026-04-03T17:47:13.341650-05:00",
+      "updated_at": "2026-04-05T00:47:13.341650-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 44970,
+        "email": "homero30@example.org",
+        "first_name": "Raquel",
+        "last_name": "Berríos"
+      },
+      "subtotal_price": "73.84",
+      "total_tax": "13.29",
+      "total_price": "87.13",
+      "line_items": [
+        {
+          "id": 2701,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 2,
+          "price": "41.03",
+          "total_discount": "8.21",
+          "line_total": "73.84"
+        }
+      ]
+    },
+    {
+      "id": 1000028,
+      "order_number": 28,
+      "created_at": "2026-04-05T04:27:05.341666-05:00",
+      "updated_at": "2026-04-07T21:27:05.341666-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 62386,
+        "email": "ruelasangela@example.net",
+        "first_name": "Carmen",
+        "last_name": "Cazares"
+      },
+      "subtotal_price": "210.47",
+      "total_tax": "37.88",
+      "total_price": "248.35",
+      "line_items": [
+        {
+          "id": 2801,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "93.66",
+          "total_discount": "0.00",
+          "line_total": "93.66"
+        },
+        {
+          "id": 2802,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 1,
+          "price": "63.13",
+          "total_discount": "0.00",
+          "line_total": "63.13"
+        },
+        {
+          "id": 2803,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "53.68",
+          "total_discount": "0.00",
+          "line_total": "53.68"
+        }
+      ]
+    },
+    {
+      "id": 1000029,
+      "order_number": 29,
+      "created_at": "2026-04-07T16:19:38.341684-05:00",
+      "updated_at": "2026-04-09T23:19:38.341684-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 10221,
+        "email": "kulloa@example.com",
+        "first_name": "Óliver",
+        "last_name": "Zepeda"
+      },
+      "subtotal_price": "101.70",
+      "total_tax": "18.31",
+      "total_price": "120.01",
+      "line_items": [
+        {
+          "id": 2901,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "31.28",
+          "total_discount": "0.00",
+          "line_total": "31.28"
+        },
+        {
+          "id": 2902,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "25.61",
+          "total_discount": "2.56",
+          "line_total": "23.05"
+        },
+        {
+          "id": 2903,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 1,
+          "price": "59.21",
+          "total_discount": "11.84",
+          "line_total": "47.37"
+        }
+      ]
+    },
+    {
+      "id": 1000030,
+      "order_number": 30,
+      "created_at": "2026-04-14T04:34:56.341702-05:00",
+      "updated_at": "2026-04-15T18:34:56.341702-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 76469,
+        "email": "igalarza@example.net",
+        "first_name": "Elvira",
+        "last_name": "Marrero"
+      },
+      "subtotal_price": "41.52",
+      "total_tax": "7.47",
+      "total_price": "48.99",
+      "line_items": [
+        {
+          "id": 3001,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 2,
+          "price": "25.95",
+          "total_discount": "10.38",
+          "line_total": "41.52"
+        }
+      ]
+    },
+    {
+      "id": 1000031,
+      "order_number": 31,
+      "created_at": "2026-04-04T05:18:52.341716-05:00",
+      "updated_at": "2026-04-05T19:18:52.341716-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 47606,
+        "email": "cnino@example.net",
+        "first_name": "María Cristina",
+        "last_name": "Casárez"
+      },
+      "subtotal_price": "133.59",
+      "total_tax": "24.05",
+      "total_price": "157.64",
+      "line_items": [
+        {
+          "id": 3101,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "81.22",
+          "total_discount": "8.12",
+          "line_total": "73.10"
+        },
+        {
+          "id": 3102,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 2,
+          "price": "30.25",
+          "total_discount": "0.00",
+          "line_total": "60.49"
+        }
+      ]
+    },
+    {
+      "id": 1000032,
+      "order_number": 32,
+      "created_at": "2026-03-25T07:19:58.341731-05:00",
+      "updated_at": "2026-03-26T13:19:58.341731-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 98184,
+        "email": "espartacobarela@example.com",
+        "first_name": "Alejandra",
+        "last_name": "Villalobos"
+      },
+      "subtotal_price": "195.28",
+      "total_tax": "35.15",
+      "total_price": "230.43",
+      "line_items": [
+        {
+          "id": 3201,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "89.66",
+          "total_discount": "0.00",
+          "line_total": "89.66"
+        },
+        {
+          "id": 3202,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "132.03",
+          "total_discount": "26.41",
+          "line_total": "105.62"
+        }
+      ]
+    },
+    {
+      "id": 1000033,
+      "order_number": 33,
+      "created_at": "2026-04-16T14:27:54.341748-05:00",
+      "updated_at": "2026-04-17T14:27:54.341748-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 60328,
+        "email": "rolandogaray@example.org",
+        "first_name": "Angélica",
+        "last_name": "Bahena"
+      },
+      "subtotal_price": "166.53",
+      "total_tax": "29.98",
+      "total_price": "196.51",
+      "line_items": [
+        {
+          "id": 3301,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 3,
+          "price": "55.51",
+          "total_discount": "0.00",
+          "line_total": "166.53"
+        }
+      ]
+    },
+    {
+      "id": 1000034,
+      "order_number": 34,
+      "created_at": "2026-04-23T11:41:05.341762-05:00",
+      "updated_at": "2026-04-25T03:41:05.341762-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 68008,
+        "email": "angelaparicio@example.com",
+        "first_name": "Angélica",
+        "last_name": "Serrano"
+      },
+      "subtotal_price": "149.71",
+      "total_tax": "26.95",
+      "total_price": "176.66",
+      "line_items": [
+        {
+          "id": 3401,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "89.23",
+          "total_discount": "0.00",
+          "line_total": "89.23"
+        },
+        {
+          "id": 3402,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "19.83",
+          "total_discount": "3.97",
+          "line_total": "15.86"
+        },
+        {
+          "id": 3403,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 2,
+          "price": "24.79",
+          "total_discount": "4.96",
+          "line_total": "44.62"
+        }
+      ]
+    },
+    {
+      "id": 1000035,
+      "order_number": 35,
+      "created_at": "2026-03-30T06:02:08.341780-05:00",
+      "updated_at": "2026-03-31T17:02:08.341780-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 78327,
+        "email": "germanruelas@example.org",
+        "first_name": "Paola",
+        "last_name": "Centeno"
+      },
+      "subtotal_price": "32.66",
+      "total_tax": "5.88",
+      "total_price": "38.54",
+      "line_items": [
+        {
+          "id": 3501,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "36.29",
+          "total_discount": "3.63",
+          "line_total": "32.66"
+        }
+      ]
+    },
+    {
+      "id": 1000036,
+      "order_number": 36,
+      "created_at": "2026-04-02T09:39:22.341796-05:00",
+      "updated_at": "2026-04-04T10:39:22.341796-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 30028,
+        "email": "yguerra@example.com",
+        "first_name": "Lorenzo",
+        "last_name": "Espinal"
+      },
+      "subtotal_price": "47.14",
+      "total_tax": "8.49",
+      "total_price": "55.63",
+      "line_items": [
+        {
+          "id": 3601,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "58.92",
+          "total_discount": "11.78",
+          "line_total": "47.14"
+        }
+      ]
+    },
+    {
+      "id": 1000037,
+      "order_number": 37,
+      "created_at": "2026-04-03T23:15:26.341810-05:00",
+      "updated_at": "2026-04-04T01:15:26.341810-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 85456,
+        "email": "calderonvictoria@example.com",
+        "first_name": "Joaquín",
+        "last_name": "Piña"
+      },
+      "subtotal_price": "78.53",
+      "total_tax": "14.14",
+      "total_price": "92.67",
+      "line_items": [
+        {
+          "id": 3701,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "87.26",
+          "total_discount": "8.73",
+          "line_total": "78.53"
+        }
+      ]
+    },
+    {
+      "id": 1000037,
+      "order_number": 37,
+      "created_at": "2026-04-03T23:15:26.341810-05:00",
+      "updated_at": "2026-04-04T01:15:26.341810-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 85456,
+        "email": "calderonvictoria@example.com",
+        "first_name": "Joaquín",
+        "last_name": "Piña"
+      },
+      "subtotal_price": "78.53",
+      "total_tax": "14.14",
+      "total_price": "92.67",
+      "line_items": [
+        {
+          "id": 3701,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "87.26",
+          "total_discount": "8.73",
+          "line_total": "78.53"
+        }
+      ]
+    },
+    {
+      "id": 1000038,
+      "order_number": 38,
+      "created_at": "2026-04-06T16:18:58.341825-05:00",
+      "updated_at": "2026-04-07T20:18:58.341825-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 73993,
+        "email": "urobles@example.org",
+        "first_name": "Zacarías",
+        "last_name": "Calvillo"
+      },
+      "subtotal_price": "84.48",
+      "total_tax": "15.21",
+      "total_price": "99.69",
+      "line_items": [
+        {
+          "id": 3801,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 2,
+          "price": "46.94",
+          "total_discount": "9.39",
+          "line_total": "84.48"
+        }
+      ]
+    },
+    {
+      "id": 1000039,
+      "order_number": 39,
+      "created_at": "2026-04-22T08:19:43.341840-05:00",
+      "updated_at": "2026-04-25T04:19:43.341840-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 13534,
+        "email": "padronivonne@example.org",
+        "first_name": "Felix",
+        "last_name": "Espinosa"
+      },
+      "subtotal_price": "128.66",
+      "total_tax": "23.16",
+      "total_price": "151.82",
+      "line_items": [
+        {
+          "id": 3901,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "128.66",
+          "total_discount": "0.00",
+          "line_total": "128.66"
+        }
+      ]
+    },
+    {
+      "id": 1000040,
+      "order_number": 40,
+      "created_at": "2026-04-22T10:34:07.341855-05:00",
+      "updated_at": "2026-04-24T20:34:07.341855-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 52840,
+        "email": "omarrangel@example.org",
+        "first_name": "Luisa",
+        "last_name": "Elizondo"
+      },
+      "subtotal_price": "149.33",
+      "total_tax": "26.88",
+      "total_price": "176.21",
+      "line_items": [
+        {
+          "id": 4001,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "149.33",
+          "total_discount": "0.00",
+          "line_total": "149.33"
+        }
+      ]
+    },
+    {
+      "id": 1000041,
+      "order_number": 41,
+      "created_at": "2026-04-10T05:57:09.341869-05:00",
+      "updated_at": "2026-04-10T10:57:09.341869-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 14067,
+        "email": "maria-teresa31@example.com",
+        "first_name": "Paulina",
+        "last_name": "Calvillo"
+      },
+      "subtotal_price": "204.48",
+      "total_tax": "36.81",
+      "total_price": "241.29",
+      "line_items": [
+        {
+          "id": 4101,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "47.81",
+          "total_discount": "0.00",
+          "line_total": "47.81"
+        },
+        {
+          "id": 4102,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "156.67",
+          "total_discount": "0.00",
+          "line_total": "156.67"
+        }
+      ]
+    },
+    {
+      "id": 1000042,
+      "order_number": 42,
+      "created_at": "2026-04-22T18:24:02.341886-05:00",
+      "updated_at": "2026-04-23T08:24:02.341886-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 31465,
+        "email": "toledoadela@example.org",
+        "first_name": "Eva",
+        "last_name": "de la Crúz"
+      },
+      "subtotal_price": "76.39",
+      "total_tax": "13.75",
+      "total_price": "90.14",
+      "line_items": [
+        {
+          "id": 4201,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "52.78",
+          "total_discount": "0.00",
+          "line_total": "52.78"
+        },
+        {
+          "id": 4202,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "29.51",
+          "total_discount": "5.90",
+          "line_total": "23.61"
+        }
+      ]
+    },
+    {
+      "id": 1000043,
+      "order_number": 43,
+      "created_at": "2026-04-22T12:13:38.341902-05:00",
+      "updated_at": "2026-04-24T11:13:38.341902-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 19038,
+        "email": "eruelas@example.org",
+        "first_name": "Karla",
+        "last_name": "Bahena"
+      },
+      "subtotal_price": "438.48",
+      "total_tax": "78.93",
+      "total_price": "517.41",
+      "line_items": [
+        {
+          "id": 4301,
+          "sku": "SHP-ZAP002-BLK-41 ",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 3,
+          "price": "98.87",
+          "total_discount": "0.00",
+          "line_total": "296.60"
+        },
+        {
+          "id": 4302,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "133.44",
+          "total_discount": "26.69",
+          "line_total": "106.75"
+        },
+        {
+          "id": 4303,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "35.13",
+          "total_discount": "0.00",
+          "line_total": "35.13"
+        }
+      ]
+    },
+    {
+      "id": 1000044,
+      "order_number": 44,
+      "created_at": "2026-04-03T08:44:27.341919-05:00",
+      "updated_at": "2026-04-05T21:44:27.341919-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 70931,
+        "email": "juanacevedo@example.com",
+        "first_name": "Gabino",
+        "last_name": "Rentería"
+      },
+      "subtotal_price": "235.23",
+      "total_tax": "42.34",
+      "total_price": "277.57",
+      "line_items": [
+        {
+          "id": 4401,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 3,
+          "price": "30.31",
+          "total_discount": "9.09",
+          "line_total": "81.83"
+        },
+        {
+          "id": 4402,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "153.40",
+          "total_discount": "0.00",
+          "line_total": "153.40"
+        }
+      ]
+    },
+    {
+      "id": 1000045,
+      "order_number": 45,
+      "created_at": "2026-04-10T17:26:29.341935-05:00",
+      "updated_at": "2026-04-12T17:26:29.341935-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 54092,
+        "email": null,
+        "first_name": "Elias",
+        "last_name": "Lucio"
+      },
+      "subtotal_price": "94.73",
+      "total_tax": "17.05",
+      "total_price": "111.78",
+      "line_items": [
+        {
+          "id": 4501,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 2,
+          "price": "52.63",
+          "total_discount": "10.53",
+          "line_total": "94.73"
+        }
+      ]
+    },
+    {
+      "id": 1000046,
+      "order_number": 46,
+      "created_at": "2026-04-14T22:17:10.341949-05:00",
+      "updated_at": "2026-04-14T23:17:10.341949-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 77715,
+        "email": "ana-luisavenegas@example.net",
+        "first_name": "Patricia",
+        "last_name": "Ballesteros"
+      },
+      "subtotal_price": "27.47",
+      "total_tax": "4.94",
+      "total_price": "32.41",
+      "line_items": [
+        {
+          "id": 4601,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "34.34",
+          "total_discount": "6.87",
+          "line_total": "27.47"
+        }
+      ]
+    },
+    {
+      "id": 1000047,
+      "order_number": 47,
+      "created_at": "2026-04-04T00:37:18.341964-05:00",
+      "updated_at": "2026-04-05T13:37:18.341964-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 39045,
+        "email": "ana-luisa09@example.com",
+        "first_name": "Nadia",
+        "last_name": "Tamez"
+      },
+      "subtotal_price": "17.86",
+      "total_tax": "3.21",
+      "total_price": "21.07",
+      "line_items": [
+        {
+          "id": 4701,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "19.85",
+          "total_discount": "1.99",
+          "line_total": "17.86"
+        }
+      ]
+    },
+    {
+      "id": 1000048,
+      "order_number": 48,
+      "created_at": "2026-03-26T12:35:01.341978-05:00",
+      "updated_at": "2026-03-27T22:35:01.341978-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 50189,
+        "email": "ana-luisasauceda@example.org",
+        "first_name": "Eduardo",
+        "last_name": "Barrientos"
+      },
+      "subtotal_price": "63.44",
+      "total_tax": "11.42",
+      "total_price": "74.86",
+      "line_items": [
+        {
+          "id": 4801,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "79.30",
+          "total_discount": "15.86",
+          "line_total": "63.44"
+        }
+      ]
+    },
+    {
+      "id": 1000049,
+      "order_number": 49,
+      "created_at": "2026-04-14T09:46:04.341993-05:00",
+      "updated_at": "2026-04-15T20:46:04.341993-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 87278,
+        "email": "gollumkarina@example.org",
+        "first_name": "Rebeca",
+        "last_name": "Gurule"
+      },
+      "subtotal_price": "40.95",
+      "total_tax": "7.37",
+      "total_price": "48.32",
+      "line_items": [
+        {
+          "id": 4901,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "40.95",
+          "total_discount": "0.00",
+          "line_total": "40.95"
+        }
+      ]
+    },
+    {
+      "id": 1000050,
+      "order_number": 50,
+      "created_at": "2026-04-10T00:25:39.342007-05:00",
+      "updated_at": "2026-04-10T06:25:39.342007-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 43092,
+        "email": "bonillalourdes@example.net",
+        "first_name": "Rodolfo",
+        "last_name": "Vallejo"
+      },
+      "subtotal_price": "191.06",
+      "total_tax": "34.39",
+      "total_price": "225.45",
+      "line_items": [
+        {
+          "id": 5001,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "48.91",
+          "total_discount": "9.78",
+          "line_total": "39.13"
+        },
+        {
+          "id": 5002,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "47.68",
+          "total_discount": "0.00",
+          "line_total": "47.68"
+        },
+        {
+          "id": 5003,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "62.11",
+          "total_discount": "6.21",
+          "line_total": "55.90"
+        },
+        {
+          "id": 5004,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "53.72",
+          "total_discount": "5.37",
+          "line_total": "48.35"
+        }
+      ]
+    },
+    {
+      "id": 1000051,
+      "order_number": 51,
+      "created_at": "2026-04-20T14:00:51.342027-05:00",
+      "updated_at": "2026-04-22T04:00:51.342027-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 21164,
+        "email": "francisca35@example.org",
+        "first_name": "Gabino",
+        "last_name": "Ortiz"
+      },
+      "subtotal_price": "25.36",
+      "total_tax": "4.56",
+      "total_price": "29.92",
+      "line_items": [
+        {
+          "id": 5101,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 1,
+          "price": "25.36",
+          "total_discount": "0.00",
+          "line_total": "25.36"
+        }
+      ]
+    },
+    {
+      "id": 1000052,
+      "order_number": 52,
+      "created_at": "2026-04-03T13:16:01.342041-05:00",
+      "updated_at": "2026-04-04T01:16:01.342041-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 37235,
+        "email": "yuridiamacias@example.com",
+        "first_name": "Ignacio",
+        "last_name": "Beltrán"
+      },
+      "subtotal_price": "135.67",
+      "total_tax": "24.42",
+      "total_price": "160.09",
+      "line_items": [
+        {
+          "id": 5201,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "60.04",
+          "total_discount": "6.00",
+          "line_total": "54.04"
+        },
+        {
+          "id": 5202,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "90.70",
+          "total_discount": "9.07",
+          "line_total": "81.63"
+        }
+      ]
+    },
+    {
+      "id": 1000053,
+      "order_number": 53,
+      "created_at": "2026-04-19T19:33:17.342058-05:00",
+      "updated_at": "2026-04-21T08:33:17.342058-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 14278,
+        "email": "reynososilvia@example.net",
+        "first_name": "Benito",
+        "last_name": "Benavides"
+      },
+      "subtotal_price": "43.37",
+      "total_tax": "7.81",
+      "total_price": "51.18",
+      "line_items": [
+        {
+          "id": 5301,
+          "sku": "SHP-CAM001-BLU-M",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 1,
+          "price": "48.19",
+          "total_discount": "4.82",
+          "line_total": "43.37"
+        }
+      ]
+    },
+    {
+      "id": 1000054,
+      "order_number": 54,
+      "created_at": "2026-04-01T17:09:36.342073-05:00",
+      "updated_at": "2026-04-03T23:09:36.342073-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 25043,
+        "email": "natividadjaimes@example.org",
+        "first_name": "Jaqueline",
+        "last_name": "Barrientos"
+      },
+      "subtotal_price": "90.37",
+      "total_tax": "16.27",
+      "total_price": "106.64",
+      "line_items": [
+        {
+          "id": 5401,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 2,
+          "price": "56.48",
+          "total_discount": "22.59",
+          "line_total": "90.37"
+        }
+      ]
+    },
+    {
+      "id": 1000055,
+      "order_number": 55,
+      "created_at": "2026-04-10T20:39:38.342087-05:00",
+      "updated_at": "2026-04-13T12:39:38.342087-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 80776,
+        "email": "jose-eduardolinares@example.org",
+        "first_name": "Marcela",
+        "last_name": "Tórrez"
+      },
+      "subtotal_price": "39.38",
+      "total_tax": "7.09",
+      "total_price": "46.47",
+      "line_items": [
+        {
+          "id": 5501,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 1,
+          "price": "24.42",
+          "total_discount": "4.88",
+          "line_total": "19.54"
+        },
+        {
+          "id": 5502,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "19.84",
+          "total_discount": "0.00",
+          "line_total": "19.84"
+        }
+      ]
+    },
+    {
+      "id": 1000056,
+      "order_number": 56,
+      "created_at": "2026-04-21T19:42:13.342104-05:00",
+      "updated_at": "2026-04-22T18:42:13.342104-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 86720,
+        "email": "sara80@example.net",
+        "first_name": "Perla",
+        "last_name": "Luna"
+      },
+      "subtotal_price": "171.95",
+      "total_tax": "30.95",
+      "total_price": "202.90",
+      "line_items": [
+        {
+          "id": 5601,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "38.27",
+          "total_discount": "7.65",
+          "line_total": "30.62"
+        },
+        {
+          "id": 5602,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 1,
+          "price": "71.75",
+          "total_discount": "0.00",
+          "line_total": "71.75"
+        },
+        {
+          "id": 5603,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "86.98",
+          "total_discount": "17.40",
+          "line_total": "69.58"
+        }
+      ]
+    },
+    {
+      "id": 1000057,
+      "order_number": 57,
+      "created_at": "2026-04-19T07:50:23.342122-05:00",
+      "updated_at": "2026-04-20T19:50:23.342122-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 96846,
+        "email": "cervantesgabino@example.org",
+        "first_name": "Bernabé",
+        "last_name": "Uribe"
+      },
+      "subtotal_price": "152.45",
+      "total_tax": "27.44",
+      "total_price": "179.89",
+      "line_items": [
+        {
+          "id": 5701,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "152.45",
+          "total_discount": "0.00",
+          "line_total": "152.45"
+        }
+      ]
+    },
+    {
+      "id": 1000058,
+      "order_number": 58,
+      "created_at": "2026-03-28T01:14:09.342170-05:00",
+      "updated_at": "2026-03-28T01:14:09.342170-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 96200,
+        "email": "georginalerma@example.net",
+        "first_name": "Enrique",
+        "last_name": "Montalvo"
+      },
+      "subtotal_price": "22.01",
+      "total_tax": "3.96",
+      "total_price": "25.97",
+      "line_items": [
+        {
+          "id": 5801,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 1,
+          "price": "24.46",
+          "total_discount": "2.45",
+          "line_total": "22.01"
+        }
+      ]
+    },
+    {
+      "id": 1000059,
+      "order_number": 59,
+      "created_at": "2026-04-21T02:59:33.342186-05:00",
+      "updated_at": "2026-04-24T00:59:33.342186-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 27172,
+        "email": "taniajaime@example.net",
+        "first_name": "Minerva",
+        "last_name": "Heredia"
+      },
+      "subtotal_price": "31.40",
+      "total_tax": "5.65",
+      "total_price": "37.05",
+      "line_items": [
+        {
+          "id": 5901,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "34.89",
+          "total_discount": "3.49",
+          "line_total": "31.40"
+        }
+      ]
+    },
+    {
+      "id": 1000060,
+      "order_number": 60,
+      "created_at": "2026-03-31T05:24:53.342200-05:00",
+      "updated_at": "2026-04-02T09:24:53.342200-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 22217,
+        "email": "caballerotania@example.com",
+        "first_name": "Gerónimo",
+        "last_name": "Armendáriz"
+      },
+      "subtotal_price": "24.25",
+      "total_tax": "4.37",
+      "total_price": "28.62",
+      "line_items": [
+        {
+          "id": 6001,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "24.25",
+          "total_discount": "0.00",
+          "line_total": "24.25"
+        }
+      ]
+    },
+    {
+      "id": 1000061,
+      "order_number": 61,
+      "created_at": "2026-04-18T05:57:11.342219-05:00",
+      "updated_at": "2026-04-20T18:57:11.342219-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 71894,
+        "email": "merinocatalina@example.net",
+        "first_name": "Frida",
+        "last_name": "Cuellar"
+      },
+      "subtotal_price": "28.87",
+      "total_tax": "5.20",
+      "total_price": "34.07",
+      "line_items": [
+        {
+          "id": 6101,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "28.87",
+          "total_discount": "0.00",
+          "line_total": "28.87"
+        }
+      ]
+    },
+    {
+      "id": 1000062,
+      "order_number": 62,
+      "created_at": "2026-04-05T03:14:05.342235-05:00",
+      "updated_at": "2026-04-07T08:14:05.342235-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 54548,
+        "email": "turena@example.com",
+        "first_name": "Ramiro",
+        "last_name": "Aguirre"
+      },
+      "subtotal_price": "93.31",
+      "total_tax": "16.80",
+      "total_price": "110.11",
+      "line_items": [
+        {
+          "id": 6201,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "93.31",
+          "total_discount": "0.00",
+          "line_total": "93.31"
+        }
+      ]
+    },
+    {
+      "id": 1000063,
+      "order_number": 63,
+      "created_at": "2026-04-23T15:09:22.342249-05:00",
+      "updated_at": "2026-04-26T04:09:22.342249-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 55236,
+        "email": "benitezconchita@example.net",
+        "first_name": "Alejandro",
+        "last_name": "Negrón"
+      },
+      "subtotal_price": "108.68",
+      "total_tax": "19.56",
+      "total_price": "128.24",
+      "line_items": [
+        {
+          "id": 6301,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 2,
+          "price": "60.38",
+          "total_discount": "12.08",
+          "line_total": "108.68"
+        }
+      ]
+    },
+    {
+      "id": 1000064,
+      "order_number": 64,
+      "created_at": "2026-04-05T10:39:48.342264-05:00",
+      "updated_at": "2026-04-07T14:39:48.342264-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 15720,
+        "email": "luis-manuelcavazos@example.org",
+        "first_name": "Homero",
+        "last_name": "Nava"
+      },
+      "subtotal_price": "146.52",
+      "total_tax": "26.37",
+      "total_price": "172.89",
+      "line_items": [
+        {
+          "id": 6401,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 2,
+          "price": "73.26",
+          "total_discount": "0.00",
+          "line_total": "146.52"
+        }
+      ]
+    },
+    {
+      "id": 1000065,
+      "order_number": 65,
+      "created_at": "2026-04-05T05:58:42.342279-05:00",
+      "updated_at": "2026-04-07T21:58:42.342279-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 87356,
+        "email": "munizenrique@example.net",
+        "first_name": "Felix",
+        "last_name": "Candelaria"
+      },
+      "subtotal_price": "131.87",
+      "total_tax": "23.74",
+      "total_price": "155.61",
+      "line_items": [
+        {
+          "id": 6501,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "131.87",
+          "total_discount": "0.00",
+          "line_total": "131.87"
+        }
+      ]
+    },
+    {
+      "id": 1000066,
+      "order_number": 66,
+      "created_at": "2026-04-02T09:09:03.342293-05:00",
+      "updated_at": "2026-04-02T18:09:03.342293-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 71537,
+        "email": "rafael69@example.net",
+        "first_name": "Cristal",
+        "last_name": "Granado"
+      },
+      "subtotal_price": "32.11",
+      "total_tax": "5.78",
+      "total_price": "37.89",
+      "line_items": [
+        {
+          "id": 6601,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "35.68",
+          "total_discount": "3.57",
+          "line_total": "32.11"
+        }
+      ]
+    },
+    {
+      "id": 1000067,
+      "order_number": 67,
+      "created_at": "2026-04-04T11:02:36.342307-05:00",
+      "updated_at": "2026-04-04T19:02:36.342307-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 40771,
+        "email": "dianapaz@example.org",
+        "first_name": "Diego",
+        "last_name": "Mercado"
+      },
+      "subtotal_price": "232.98",
+      "total_tax": "41.94",
+      "total_price": "274.92",
+      "line_items": [
+        {
+          "id": 6701,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 2,
+          "price": "93.13",
+          "total_discount": "18.63",
+          "line_total": "167.63"
+        },
+        {
+          "id": 6702,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 1,
+          "price": "72.61",
+          "total_discount": "7.26",
+          "line_total": "65.35"
+        }
+      ]
+    },
+    {
+      "id": 1000068,
+      "order_number": 68,
+      "created_at": "2026-04-12T17:06:15.342323-05:00",
+      "updated_at": "2026-04-14T14:06:15.342323-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 59131,
+        "email": "rguzman@example.org",
+        "first_name": "Bianca",
+        "last_name": "Olivas"
+      },
+      "subtotal_price": "184.07",
+      "total_tax": "33.13",
+      "total_price": "217.20",
+      "line_items": [
+        {
+          "id": 6801,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "152.96",
+          "total_discount": "0.00",
+          "line_total": "152.96"
+        },
+        {
+          "id": 6802,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "31.11",
+          "total_discount": "0.00",
+          "line_total": "31.11"
+        }
+      ]
+    },
+    {
+      "id": 1000069,
+      "order_number": 69,
+      "created_at": "2026-04-03T18:04:11.342339-05:00",
+      "updated_at": "2026-04-05T00:04:11.342339-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 75230,
+        "email": "rodrigezestela@example.org",
+        "first_name": "María Luisa",
+        "last_name": "Montez"
+      },
+      "subtotal_price": "46.36",
+      "total_tax": "8.34",
+      "total_price": "54.70",
+      "line_items": [
+        {
+          "id": 6901,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "57.95",
+          "total_discount": "11.59",
+          "line_total": "46.36"
+        }
+      ]
+    },
+    {
+      "id": 1000070,
+      "order_number": 70,
+      "created_at": "2026-04-01T08:51:59.342353-05:00",
+      "updated_at": "2026-04-02T22:51:59.342353-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 93746,
+        "email": "esperanza30@example.net",
+        "first_name": "Elisa",
+        "last_name": "Ozuna"
+      },
+      "subtotal_price": "136.20",
+      "total_tax": "24.52",
+      "total_price": "160.72",
+      "line_items": [
+        {
+          "id": 7001,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "93.49",
+          "total_discount": "9.35",
+          "line_total": "84.14"
+        },
+        {
+          "id": 7002,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 1,
+          "price": "57.85",
+          "total_discount": "5.79",
+          "line_total": "52.06"
+        }
+      ]
+    },
+    {
+      "id": 1000071,
+      "order_number": 71,
+      "created_at": "2026-04-01T13:53:33.342369-05:00",
+      "updated_at": "2026-04-04T13:53:33.342369-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 99889,
+        "email": "german14@example.com",
+        "first_name": "Tomás",
+        "last_name": "Saucedo"
+      },
+      "subtotal_price": "133.39",
+      "total_tax": "24.01",
+      "total_price": "157.40",
+      "line_items": [
+        {
+          "id": 7101,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 2,
+          "price": "47.94",
+          "total_discount": "9.59",
+          "line_total": "86.28"
+        },
+        {
+          "id": 7102,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "47.11",
+          "total_discount": "0.00",
+          "line_total": "47.11"
+        }
+      ]
+    },
+    {
+      "id": 1000072,
+      "order_number": 72,
+      "created_at": "2026-03-25T07:37:48.342385-05:00",
+      "updated_at": "2026-03-26T00:37:48.342385-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 92345,
+        "email": "vteran@example.org",
+        "first_name": "Camilo",
+        "last_name": "Ibarra"
+      },
+      "subtotal_price": "122.74",
+      "total_tax": "22.09",
+      "total_price": "144.83",
+      "line_items": [
+        {
+          "id": 7201,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 2,
+          "price": "51.28",
+          "total_discount": "0.00",
+          "line_total": "102.55"
+        },
+        {
+          "id": 7202,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "25.24",
+          "total_discount": "5.05",
+          "line_total": "20.19"
+        }
+      ]
+    },
+    {
+      "id": 1000073,
+      "order_number": 73,
+      "created_at": "2026-04-21T20:12:51.342401-05:00",
+      "updated_at": "2026-04-24T01:12:51.342401-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 33021,
+        "email": "robertojaimes@example.org",
+        "first_name": "Bianca",
+        "last_name": "Ybarra"
+      },
+      "subtotal_price": "88.69",
+      "total_tax": "15.96",
+      "total_price": "104.65",
+      "line_items": [
+        {
+          "id": 7301,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "88.69",
+          "total_discount": "0.00",
+          "line_total": "88.69"
+        }
+      ]
+    },
+    {
+      "id": 1000074,
+      "order_number": 74,
+      "created_at": "2026-04-05T23:53:24.342415-05:00",
+      "updated_at": "2026-04-07T18:53:24.342415-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 25095,
+        "email": "umontano@example.com",
+        "first_name": "Marco Antonio",
+        "last_name": "Zelaya"
+      },
+      "subtotal_price": "30.36",
+      "total_tax": "5.46",
+      "total_price": "35.82",
+      "line_items": [
+        {
+          "id": 7401,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "33.73",
+          "total_discount": "3.37",
+          "line_total": "30.36"
+        }
+      ]
+    },
+    {
+      "id": 1000075,
+      "order_number": 75,
+      "created_at": "2026-04-12T19:17:05.342429-05:00",
+      "updated_at": "2026-04-14T18:17:05.342429-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 24201,
+        "email": "olmosreynaldo@example.org",
+        "first_name": "Florencia",
+        "last_name": "Armendáriz"
+      },
+      "subtotal_price": "286.73",
+      "total_tax": "51.61",
+      "total_price": "338.34",
+      "line_items": [
+        {
+          "id": 7501,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 3,
+          "price": "41.12",
+          "total_discount": "0.00",
+          "line_total": "123.35"
+        },
+        {
+          "id": 7502,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "126.84",
+          "total_discount": "0.00",
+          "line_total": "126.84"
+        },
+        {
+          "id": 7503,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "45.67",
+          "total_discount": "9.13",
+          "line_total": "36.54"
+        }
+      ]
+    },
+    {
+      "id": 1000076,
+      "order_number": 76,
+      "created_at": "2026-03-27T12:03:28.342446-05:00",
+      "updated_at": "2026-03-29T16:03:28.342446-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 25292,
+        "email": "habreu@example.net",
+        "first_name": "Yuridia",
+        "last_name": "Estrada"
+      },
+      "subtotal_price": "77.37",
+      "total_tax": "13.93",
+      "total_price": "91.30",
+      "line_items": [
+        {
+          "id": 7601,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "85.97",
+          "total_discount": "8.60",
+          "line_total": "77.37"
+        }
+      ]
+    },
+    {
+      "id": 1000077,
+      "order_number": 77,
+      "created_at": "2026-04-08T23:32:04.342460-05:00",
+      "updated_at": "2026-04-10T22:32:04.342460-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 81364,
+        "email": "luis-manuel15@example.net",
+        "first_name": "Humberto",
+        "last_name": "Castellanos"
+      },
+      "subtotal_price": "201.35",
+      "total_tax": "36.24",
+      "total_price": "237.59",
+      "line_items": [
+        {
+          "id": 7701,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "29.76",
+          "total_discount": "5.95",
+          "line_total": "23.81"
+        },
+        {
+          "id": 7702,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "53.00",
+          "total_discount": "5.30",
+          "line_total": "47.70"
+        },
+        {
+          "id": 7703,
+          "sku": "shp-acc007-gry",
+          "title": "Bufanda Lana Gris",
+          "quantity": 2,
+          "price": "25.19",
+          "total_discount": "0.00",
+          "line_total": "50.38"
+        },
+        {
+          "id": 7704,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "79.46",
+          "total_discount": "0.00",
+          "line_total": "79.46"
+        }
+      ]
+    },
+    {
+      "id": 1000078,
+      "order_number": 78,
+      "created_at": "2026-04-20T19:35:56.342480-05:00",
+      "updated_at": "2026-04-20T21:35:56.342480-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 16629,
+        "email": "natividad46@example.com",
+        "first_name": "Karina",
+        "last_name": "Lucero"
+      },
+      "subtotal_price": "140.78",
+      "total_tax": "25.34",
+      "total_price": "166.12",
+      "line_items": [
+        {
+          "id": 7801,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 3,
+          "price": "52.14",
+          "total_discount": "15.64",
+          "line_total": "140.78"
+        }
+      ]
+    },
+    {
+      "id": 1000079,
+      "order_number": 79,
+      "created_at": "2026-04-17T15:25:58.342494-05:00",
+      "updated_at": "2026-04-19T02:25:58.342494-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 28964,
+        "email": "elisaperes@example.net",
+        "first_name": "Juan",
+        "last_name": "Delgado"
+      },
+      "subtotal_price": "129.22",
+      "total_tax": "23.26",
+      "total_price": "152.48",
+      "line_items": [
+        {
+          "id": 7901,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 2,
+          "price": "50.17",
+          "total_discount": "20.07",
+          "line_total": "80.27"
+        },
+        {
+          "id": 7902,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 2,
+          "price": "24.47",
+          "total_discount": "0.00",
+          "line_total": "48.95"
+        }
+      ]
+    },
+    {
+      "id": 1000080,
+      "order_number": 80,
+      "created_at": "2026-04-15T06:50:28.342510-05:00",
+      "updated_at": "2026-04-16T15:50:28.342510-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 16868,
+        "email": "leticia80@example.com",
+        "first_name": "Gonzalo",
+        "last_name": "Gaitán"
+      },
+      "subtotal_price": "85.54",
+      "total_tax": "15.40",
+      "total_price": "100.94",
+      "line_items": [
+        {
+          "id": 8001,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "85.54",
+          "total_discount": "0.00",
+          "line_total": "85.54"
+        }
+      ]
+    },
+    {
+      "id": 1000081,
+      "order_number": 81,
+      "created_at": "2026-04-18T05:44:02.342524-05:00",
+      "updated_at": "2026-04-18T08:44:02.342524-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 17972,
+        "email": "mvenegas@example.net",
+        "first_name": "Inés",
+        "last_name": "Rivero"
+      },
+      "subtotal_price": "137.73",
+      "total_tax": "24.79",
+      "total_price": "162.52",
+      "line_items": [
+        {
+          "id": 8101,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 1,
+          "price": "64.99",
+          "total_discount": "0.00",
+          "line_total": "64.99"
+        },
+        {
+          "id": 8102,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "90.93",
+          "total_discount": "18.19",
+          "line_total": "72.74"
+        }
+      ]
+    },
+    {
+      "id": 1000082,
+      "order_number": 82,
+      "created_at": "2026-04-03T01:30:00.342539-05:00",
+      "updated_at": "2026-04-04T18:30:00.342539-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 59925,
+        "email": "rquintanilla@example.org",
+        "first_name": "Nayeli",
+        "last_name": "Rojas"
+      },
+      "subtotal_price": "147.28",
+      "total_tax": "26.51",
+      "total_price": "173.79",
+      "line_items": [
+        {
+          "id": 8201,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 2,
+          "price": "62.13",
+          "total_discount": "0.00",
+          "line_total": "124.26"
+        },
+        {
+          "id": 8202,
+          "sku": "SHP-ACC001-BLK",
+          "title": "Correa Cuero Negra",
+          "quantity": 1,
+          "price": "28.78",
+          "total_discount": "5.76",
+          "line_total": "23.02"
+        }
+      ]
+    },
+    {
+      "id": 1000083,
+      "order_number": 83,
+      "created_at": "2026-04-01T17:31:41.342554-05:00",
+      "updated_at": "2026-04-04T02:31:41.342554-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 39949,
+        "email": "victoriabravo@example.com",
+        "first_name": "Noelia",
+        "last_name": "Meza"
+      },
+      "subtotal_price": "122.34",
+      "total_tax": "22.02",
+      "total_price": "144.36",
+      "line_items": [
+        {
+          "id": 8301,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "152.92",
+          "total_discount": "30.58",
+          "line_total": "122.34"
+        }
+      ]
+    },
+    {
+      "id": 1000084,
+      "order_number": 84,
+      "created_at": "2026-04-04T09:35:26.342568-05:00",
+      "updated_at": "2026-04-06T21:35:26.342568-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 18799,
+        "email": "gollumzacarias@example.com",
+        "first_name": "Espartaco",
+        "last_name": "Farías"
+      },
+      "subtotal_price": "29.34",
+      "total_tax": "5.28",
+      "total_price": "34.62",
+      "line_items": [
+        {
+          "id": 8401,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "29.34",
+          "total_discount": "0.00",
+          "line_total": "29.34"
+        }
+      ]
+    },
+    {
+      "id": 1000085,
+      "order_number": 85,
+      "created_at": "2026-04-02T18:58:20.342583-05:00",
+      "updated_at": "2026-04-04T12:58:20.342583-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 97819,
+        "email": "albertoarredondo@example.org",
+        "first_name": "Martín",
+        "last_name": "Beltrán"
+      },
+      "subtotal_price": "38.42",
+      "total_tax": "6.92",
+      "total_price": "45.34",
+      "line_items": [
+        {
+          "id": 8501,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "38.42",
+          "total_discount": "0.00",
+          "line_total": "38.42"
+        }
+      ]
+    },
+    {
+      "id": 1000086,
+      "order_number": 86,
+      "created_at": "2026-04-03T05:23:16.342597-05:00",
+      "updated_at": "2026-04-06T04:23:16.342597-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 91490,
+        "email": "opedroza@example.net",
+        "first_name": "Eloisa",
+        "last_name": "Olivo"
+      },
+      "subtotal_price": "108.90",
+      "total_tax": "19.60",
+      "total_price": "128.50",
+      "line_items": [
+        {
+          "id": 8601,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "39.31",
+          "total_discount": "7.86",
+          "line_total": "31.45"
+        },
+        {
+          "id": 8602,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "19.86",
+          "total_discount": "0.00",
+          "line_total": "19.86"
+        },
+        {
+          "id": 8603,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "57.59",
+          "total_discount": "0.00",
+          "line_total": "57.59"
+        }
+      ]
+    },
+    {
+      "id": 1000087,
+      "order_number": 87,
+      "created_at": "2026-04-22T11:33:25.342617-05:00",
+      "updated_at": "2026-04-24T14:33:25.342617-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 19120,
+        "email": "ppabon@example.org",
+        "first_name": "Vanesa",
+        "last_name": "Adame"
+      },
+      "subtotal_price": "172.88",
+      "total_tax": "31.12",
+      "total_price": "204.00",
+      "line_items": [
+        {
+          "id": 8701,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "123.78",
+          "total_discount": "0.00",
+          "line_total": "123.78"
+        },
+        {
+          "id": 8702,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "49.10",
+          "total_discount": "0.00",
+          "line_total": "49.10"
+        }
+      ]
+    },
+    {
+      "id": 1000088,
+      "order_number": 88,
+      "created_at": "2026-04-22T06:25:36.342633-05:00",
+      "updated_at": "2026-04-23T23:25:36.342633-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 84395,
+        "email": "pizarroestefania@example.org",
+        "first_name": "Norma",
+        "last_name": "Rivera"
+      },
+      "subtotal_price": "79.26",
+      "total_tax": "14.27",
+      "total_price": "93.53",
+      "line_items": [
+        {
+          "id": 8801,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "79.26",
+          "total_discount": "0.00",
+          "line_total": "79.26"
+        }
+      ]
+    },
+    {
+      "id": 1000089,
+      "order_number": 89,
+      "created_at": "2026-04-16T04:52:52.342648-05:00",
+      "updated_at": "2026-04-18T12:52:52.342648-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 64287,
+        "email": "valdesfelix@example.org",
+        "first_name": "María Eugenia",
+        "last_name": "Cepeda"
+      },
+      "subtotal_price": "77.53",
+      "total_tax": "13.96",
+      "total_price": "91.49",
+      "line_items": [
+        {
+          "id": 8901,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "86.14",
+          "total_discount": "8.61",
+          "line_total": "77.53"
+        }
+      ]
+    },
+    {
+      "id": 1000090,
+      "order_number": 90,
+      "created_at": "2026-04-18T05:32:16.342662-05:00",
+      "updated_at": "2026-04-19T09:32:16.342662-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 61807,
+        "email": "jtamez@example.net",
+        "first_name": "Ilse",
+        "last_name": "Quintero"
+      },
+      "subtotal_price": "27.39",
+      "total_tax": "4.93",
+      "total_price": "32.32",
+      "line_items": [
+        {
+          "id": 9001,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "30.43",
+          "total_discount": "3.04",
+          "line_total": "27.39"
+        }
+      ]
+    },
+    {
+      "id": 1000091,
+      "order_number": 91,
+      "created_at": "2026-04-13T19:58:29.342676-05:00",
+      "updated_at": "2026-04-16T02:58:29.342676-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 33028,
+        "email": "culibarri@example.org",
+        "first_name": "Martín",
+        "last_name": "Rascón"
+      },
+      "subtotal_price": "51.22",
+      "total_tax": "9.22",
+      "total_price": "60.44",
+      "line_items": [
+        {
+          "id": 9101,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "51.22",
+          "total_discount": "0.00",
+          "line_total": "51.22"
+        }
+      ]
+    },
+    {
+      "id": 1000092,
+      "order_number": 92,
+      "created_at": "2026-04-12T14:02:47.342689-05:00",
+      "updated_at": "2026-04-12T16:02:47.342689-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 70260,
+        "email": "fernando48@example.com",
+        "first_name": "Socorro",
+        "last_name": "Griego"
+      },
+      "subtotal_price": "44.25",
+      "total_tax": "7.96",
+      "total_price": "52.21",
+      "line_items": [
+        {
+          "id": 9201,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "49.17",
+          "total_discount": "4.92",
+          "line_total": "44.25"
+        }
+      ]
+    },
+    {
+      "id": 1000093,
+      "order_number": 93,
+      "created_at": "2026-03-26T19:20:13.342703-05:00",
+      "updated_at": "2026-03-27T16:20:13.342703-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 91018,
+        "email": "marcos14@example.org",
+        "first_name": "Georgina",
+        "last_name": "Meza"
+      },
+      "subtotal_price": "44.53",
+      "total_tax": "8.02",
+      "total_price": "52.55",
+      "line_items": [
+        {
+          "id": 9301,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "44.53",
+          "total_discount": "0.00",
+          "line_total": "44.53"
+        }
+      ]
+    },
+    {
+      "id": 1000094,
+      "order_number": 94,
+      "created_at": "2026-04-06T04:33:21.342717-05:00",
+      "updated_at": "2026-04-07T19:33:21.342717-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 54500,
+        "email": "paola12@example.org",
+        "first_name": "Esther",
+        "last_name": "Olivera"
+      },
+      "subtotal_price": "80.39",
+      "total_tax": "14.47",
+      "total_price": "94.86",
+      "line_items": [
+        {
+          "id": 9401,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "89.32",
+          "total_discount": "8.93",
+          "line_total": "80.39"
+        }
+      ]
+    },
+    {
+      "id": 1000095,
+      "order_number": 95,
+      "created_at": "2026-04-20T01:09:23.342732-05:00",
+      "updated_at": "2026-04-20T19:09:23.342732-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 40968,
+        "email": "ernestobarela@example.com",
+        "first_name": "Lorenzo",
+        "last_name": "Menéndez"
+      },
+      "subtotal_price": "28.98",
+      "total_tax": "5.22",
+      "total_price": "34.20",
+      "line_items": [
+        {
+          "id": 9501,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "28.98",
+          "total_discount": "0.00",
+          "line_total": "28.98"
+        }
+      ]
+    },
+    {
+      "id": 1000096,
+      "order_number": 96,
+      "created_at": "2026-04-15T08:00:14.342747-05:00",
+      "updated_at": "2026-04-17T01:00:14.342747-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 92210,
+        "email": "dpelayo@example.org",
+        "first_name": "Lucía",
+        "last_name": "Ordóñez"
+      },
+      "subtotal_price": "38.80",
+      "total_tax": "6.98",
+      "total_price": "45.78",
+      "line_items": [
+        {
+          "id": 9601,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "20.80",
+          "total_discount": "2.08",
+          "line_total": "18.72"
+        },
+        {
+          "id": 9602,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "25.10",
+          "total_discount": "5.02",
+          "line_total": "20.08"
+        }
+      ]
+    },
+    {
+      "id": 1000097,
+      "order_number": 97,
+      "created_at": "2026-03-31T23:48:44.342763-05:00",
+      "updated_at": "2026-04-03T08:48:44.342763-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 14929,
+        "email": null,
+        "first_name": "Abraham",
+        "last_name": "Mora"
+      },
+      "subtotal_price": "60.45",
+      "total_tax": "10.88",
+      "total_price": "71.33",
+      "line_items": [
+        {
+          "id": 9701,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "60.45",
+          "total_discount": "0.00",
+          "line_total": "60.45"
+        }
+      ]
+    },
+    {
+      "id": 1000098,
+      "order_number": 98,
+      "created_at": "2026-04-20T00:44:48.342777-05:00",
+      "updated_at": "2026-04-21T00:44:48.342777-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 52143,
+        "email": "julio68@example.net",
+        "first_name": "Patricio",
+        "last_name": "Zavala"
+      },
+      "subtotal_price": "157.44",
+      "total_tax": "28.34",
+      "total_price": "185.78",
+      "line_items": [
+        {
+          "id": 9801,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "89.96",
+          "total_discount": "9.00",
+          "line_total": "80.96"
+        },
+        {
+          "id": 9802,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 3,
+          "price": "25.49",
+          "total_discount": "0.00",
+          "line_total": "76.48"
+        }
+      ]
+    },
+    {
+      "id": 1000099,
+      "order_number": 99,
+      "created_at": "2026-04-20T18:03:24.342793-05:00",
+      "updated_at": "2026-04-22T01:03:24.342793-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 67377,
+        "email": "micaelagaona@example.com",
+        "first_name": "Marco Antonio",
+        "last_name": "Ruelas"
+      },
+      "subtotal_price": "117.92",
+      "total_tax": "21.23",
+      "total_price": "139.15",
+      "line_items": [
+        {
+          "id": 9901,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 2,
+          "price": "58.96",
+          "total_discount": "0.00",
+          "line_total": "117.92"
+        }
+      ]
+    },
+    {
+      "id": 1000100,
+      "order_number": 100,
+      "created_at": "2026-03-25T03:40:12.342807-05:00",
+      "updated_at": "2026-03-26T21:40:12.342807-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 18639,
+        "email": "ordonezivan@example.net",
+        "first_name": "Leticia",
+        "last_name": "de Jesús"
+      },
+      "subtotal_price": "69.01",
+      "total_tax": "12.42",
+      "total_price": "81.43",
+      "line_items": [
+        {
+          "id": 10001,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 2,
+          "price": "34.51",
+          "total_discount": "0.00",
+          "line_total": "69.01"
+        }
+      ]
+    },
+    {
+      "id": 1000101,
+      "order_number": 101,
+      "created_at": "2026-04-04T23:45:54.342821-05:00",
+      "updated_at": "2026-04-05T17:45:54.342821-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 55851,
+        "email": "ncavazos@example.net",
+        "first_name": "Aldonza",
+        "last_name": "Orta"
+      },
+      "subtotal_price": "66.81",
+      "total_tax": "12.03",
+      "total_price": "78.84",
+      "line_items": [
+        {
+          "id": 10101,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 2,
+          "price": "41.75",
+          "total_discount": "16.70",
+          "line_total": "66.81"
+        }
+      ]
+    },
+    {
+      "id": 1000102,
+      "order_number": 102,
+      "created_at": "2026-04-04T17:28:51.342835-05:00",
+      "updated_at": "2026-04-05T09:28:51.342835-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 97833,
+        "email": "botellotrinidad@example.com",
+        "first_name": "Celia",
+        "last_name": "Riojas"
+      },
+      "subtotal_price": "52.79",
+      "total_tax": "9.50",
+      "total_price": "62.29",
+      "line_items": [
+        {
+          "id": 10201,
+          "sku": "SHP-ACC001-BLK",
+          "title": "Correa Cuero Negra",
+          "quantity": 2,
+          "price": "29.33",
+          "total_discount": "5.87",
+          "line_total": "52.79"
+        }
+      ]
+    },
+    {
+      "id": 1000103,
+      "order_number": 103,
+      "created_at": "2026-03-29T04:51:08.342850-05:00",
+      "updated_at": "2026-03-30T23:51:08.342850-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 73736,
+        "email": "amadorhurtado@example.com",
+        "first_name": "Itzel",
+        "last_name": "Galarza"
+      },
+      "subtotal_price": "128.11",
+      "total_tax": "23.06",
+      "total_price": "151.17",
+      "line_items": [
+        {
+          "id": 10301,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "128.11",
+          "total_discount": "0.00",
+          "line_total": "128.11"
+        }
+      ]
+    },
+    {
+      "id": 1000104,
+      "order_number": 104,
+      "created_at": "2026-04-16T05:37:14.342864-05:00",
+      "updated_at": "2026-04-16T09:37:14.342864-05:00",
+      "currency": "USD",
+      "financial_status": "refunded",
+      "customer": {
+        "id": 96760,
+        "email": "vmena@example.com",
+        "first_name": "Germán",
+        "last_name": "Pérez"
+      },
+      "subtotal_price": "71.98",
+      "total_tax": "12.96",
+      "total_price": "84.94",
+      "line_items": [
+        {
+          "id": 10401,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "89.97",
+          "total_discount": "17.99",
+          "line_total": "71.98"
+        }
+      ]
+    },
+    {
+      "id": 1000105,
+      "order_number": 105,
+      "created_at": "2026-04-17T09:27:42.342877-05:00",
+      "updated_at": "2026-04-19T17:27:42.342877-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 15726,
+        "email": "ariadna70@example.net",
+        "first_name": "Paola",
+        "last_name": "Ávila"
+      },
+      "subtotal_price": "24.71",
+      "total_tax": "4.45",
+      "total_price": "29.16",
+      "line_items": [
+        {
+          "id": 10501,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "30.89",
+          "total_discount": "6.18",
+          "line_total": "24.71"
+        }
+      ]
+    },
+    {
+      "id": 1000106,
+      "order_number": 106,
+      "created_at": "2026-04-12T05:24:08.342890-05:00",
+      "updated_at": "2026-04-12T22:24:08.342890-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 42768,
+        "email": null,
+        "first_name": "Fernando",
+        "last_name": "Feliciano"
+      },
+      "subtotal_price": "280.42",
+      "total_tax": "50.48",
+      "total_price": "330.90",
+      "line_items": [
+        {
+          "id": 10601,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "87.51",
+          "total_discount": "0.00",
+          "line_total": "87.51"
+        },
+        {
+          "id": 10602,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 2,
+          "price": "59.71",
+          "total_discount": "0.00",
+          "line_total": "119.43"
+        },
+        {
+          "id": 10603,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 2,
+          "price": "20.86",
+          "total_discount": "4.17",
+          "line_total": "37.56"
+        },
+        {
+          "id": 10604,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "39.91",
+          "total_discount": "3.99",
+          "line_total": "35.92"
+        }
+      ]
+    },
+    {
+      "id": 1000107,
+      "order_number": 107,
+      "created_at": "2026-04-05T17:39:05.342909-05:00",
+      "updated_at": "2026-04-07T03:39:05.342909-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 68893,
+        "email": "corralevelio@example.org",
+        "first_name": "Mario",
+        "last_name": "Carrero"
+      },
+      "subtotal_price": "29.95",
+      "total_tax": "5.39",
+      "total_price": "35.34",
+      "line_items": [
+        {
+          "id": 10701,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "29.95",
+          "total_discount": "0.00",
+          "line_total": "29.95"
+        }
+      ]
+    },
+    {
+      "id": 1000108,
+      "order_number": 108,
+      "created_at": "2026-04-02T12:27:09.342925-05:00",
+      "updated_at": "2026-04-04T14:27:09.342925-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 75799,
+        "email": "marthahidalgo@example.com",
+        "first_name": "Daniela",
+        "last_name": "Zelaya"
+      },
+      "subtotal_price": "34.73",
+      "total_tax": "6.25",
+      "total_price": "40.98",
+      "line_items": [
+        {
+          "id": 10801,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "34.73",
+          "total_discount": "0.00",
+          "line_total": "34.73"
+        }
+      ]
+    },
+    {
+      "id": 1000109,
+      "order_number": 109,
+      "created_at": "2026-04-19T19:04:03.342940-05:00",
+      "updated_at": "2026-04-21T07:04:03.342940-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 71925,
+        "email": "davilahugo@example.org",
+        "first_name": "Ricardo",
+        "last_name": "Alvarez"
+      },
+      "subtotal_price": "19.10",
+      "total_tax": "3.44",
+      "total_price": "22.54",
+      "line_items": [
+        {
+          "id": 10901,
+          "sku": "SHP-POL001-BLK-M",
+          "title": "Polo Basico Negro M",
+          "quantity": 1,
+          "price": "19.10",
+          "total_discount": "0.00",
+          "line_total": "19.10"
+        }
+      ]
+    },
+    {
+      "id": 1000110,
+      "order_number": 110,
+      "created_at": "2026-03-31T23:35:31.342958-05:00",
+      "updated_at": "2026-04-03T18:35:31.342958-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 65476,
+        "email": "rene66@example.net",
+        "first_name": "Elvia",
+        "last_name": "Benítez"
+      },
+      "subtotal_price": "37.89",
+      "total_tax": "6.82",
+      "total_price": "44.71",
+      "line_items": [
+        {
+          "id": 11001,
+          "sku": "SHP-POL001-BLK-M",
+          "title": "Polo Basico Negro M",
+          "quantity": 2,
+          "price": "18.94",
+          "total_discount": "0.00",
+          "line_total": "37.89"
+        }
+      ]
+    },
+    {
+      "id": 1000111,
+      "order_number": 111,
+      "created_at": "2026-04-09T03:16:42.342975-05:00",
+      "updated_at": "2026-04-09T05:16:42.342975-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 92831,
+        "email": "benjaminmadera@example.net",
+        "first_name": "Ruby",
+        "last_name": "Casárez"
+      },
+      "subtotal_price": "50.86",
+      "total_tax": "9.15",
+      "total_price": "60.01",
+      "line_items": [
+        {
+          "id": 11101,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "56.51",
+          "total_discount": "5.65",
+          "line_total": "50.86"
+        }
+      ]
+    },
+    {
+      "id": 1000112,
+      "order_number": 112,
+      "created_at": "2026-04-16T18:51:57.342990-05:00",
+      "updated_at": "2026-04-19T13:51:57.342990-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 57265,
+        "email": null,
+        "first_name": "Virginia",
+        "last_name": "Nevárez"
+      },
+      "subtotal_price": "17.44",
+      "total_tax": "3.14",
+      "total_price": "20.58",
+      "line_items": [
+        {
+          "id": 11201,
+          "sku": "SHP-POL001-BLK-M",
+          "title": "Polo Basico Negro M",
+          "quantity": 1,
+          "price": "19.38",
+          "total_discount": "1.94",
+          "line_total": "17.44"
+        }
+      ]
+    },
+    {
+      "id": 1000113,
+      "order_number": 113,
+      "created_at": "2026-03-30T03:03:55.343005-05:00",
+      "updated_at": "2026-03-31T09:03:55.343005-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 96127,
+        "email": "santillanvicente@example.com",
+        "first_name": "Adán",
+        "last_name": "Peres"
+      },
+      "subtotal_price": "316.67",
+      "total_tax": "57.00",
+      "total_price": "373.67",
+      "line_items": [
+        {
+          "id": 11301,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "82.88",
+          "total_discount": "0.00",
+          "line_total": "82.88"
+        },
+        {
+          "id": 11302,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 3,
+          "price": "77.93",
+          "total_discount": "0.00",
+          "line_total": "233.79"
+        }
+      ]
+    },
+    {
+      "id": 1000114,
+      "order_number": 114,
+      "created_at": "2026-04-07T14:43:57.343022-05:00",
+      "updated_at": "2026-04-10T03:43:57.343022-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 92802,
+        "email": "bcaraballo@example.com",
+        "first_name": "Teresa",
+        "last_name": "Rico"
+      },
+      "subtotal_price": "35.99",
+      "total_tax": "6.48",
+      "total_price": "42.47",
+      "line_items": [
+        {
+          "id": 11401,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "35.99",
+          "total_discount": "0.00",
+          "line_total": "35.99"
+        }
+      ]
+    },
+    {
+      "id": 1000115,
+      "order_number": 115,
+      "created_at": "2026-04-01T12:54:34.343036-05:00",
+      "updated_at": "2026-04-03T14:54:34.343036-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 81176,
+        "email": "manueldel-valle@example.net",
+        "first_name": "Octavio",
+        "last_name": "Jimínez"
+      },
+      "subtotal_price": "48.40",
+      "total_tax": "8.71",
+      "total_price": "57.11",
+      "line_items": [
+        {
+          "id": 11501,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "48.40",
+          "total_discount": "0.00",
+          "line_total": "48.40"
+        }
+      ]
+    },
+    {
+      "id": 1000116,
+      "order_number": 116,
+      "created_at": "2026-04-14T11:29:36.343051-05:00",
+      "updated_at": "2026-04-16T18:29:36.343051-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 62431,
+        "email": "brivero@example.net",
+        "first_name": "Rosalia",
+        "last_name": "Jasso"
+      },
+      "subtotal_price": "93.19",
+      "total_tax": "16.77",
+      "total_price": "109.96",
+      "line_items": [
+        {
+          "id": 11601,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "93.19",
+          "total_discount": "0.00",
+          "line_total": "93.19"
+        }
+      ]
+    },
+    {
+      "id": 1000117,
+      "order_number": 117,
+      "created_at": "2026-04-04T23:40:16.343065-05:00",
+      "updated_at": "2026-04-07T05:40:16.343065-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 20345,
+        "email": "felipe14@example.com",
+        "first_name": "Federico",
+        "last_name": "Rivera"
+      },
+      "subtotal_price": "39.91",
+      "total_tax": "7.18",
+      "total_price": "47.09",
+      "line_items": [
+        {
+          "id": 11701,
+          "sku": "SHP-CAM001-BLU-M",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 1,
+          "price": "49.89",
+          "total_discount": "9.98",
+          "line_total": "39.91"
+        }
+      ]
+    },
+    {
+      "id": 1000118,
+      "order_number": 118,
+      "created_at": "2026-04-14T23:53:52.343079-05:00",
+      "updated_at": "2026-04-17T05:53:52.343079-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 31842,
+        "email": "bmiramontes@example.com",
+        "first_name": "Irma",
+        "last_name": "Echeverría"
+      },
+      "subtotal_price": "68.70",
+      "total_tax": "12.37",
+      "total_price": "81.07",
+      "line_items": [
+        {
+          "id": 11801,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 1,
+          "price": "68.70",
+          "total_discount": "0.00",
+          "line_total": "68.70"
+        }
+      ]
+    },
+    {
+      "id": 1000119,
+      "order_number": 119,
+      "created_at": "2026-04-21T16:47:51.343093-05:00",
+      "updated_at": "2026-04-24T00:47:51.343093-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 14561,
+        "email": "wgalindo@example.com",
+        "first_name": "Jacinto",
+        "last_name": "Lemus"
+      },
+      "subtotal_price": "70.62",
+      "total_tax": "12.71",
+      "total_price": "83.33",
+      "line_items": [
+        {
+          "id": 11901,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "34.67",
+          "total_discount": "0.00",
+          "line_total": "34.67"
+        },
+        {
+          "id": 11902,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "35.95",
+          "total_discount": "0.00",
+          "line_total": "35.95"
+        }
+      ]
+    },
+    {
+      "id": 1000120,
+      "order_number": 120,
+      "created_at": "2026-04-05T23:20:29.343108-05:00",
+      "updated_at": "2026-04-06T08:20:29.343108-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 85225,
+        "email": "pilar08@example.org",
+        "first_name": "Arturo",
+        "last_name": "Guardado"
+      },
+      "subtotal_price": "86.80",
+      "total_tax": "15.62",
+      "total_price": "102.42",
+      "line_items": [
+        {
+          "id": 12001,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "96.44",
+          "total_discount": "9.64",
+          "line_total": "86.80"
+        }
+      ]
+    },
+    {
+      "id": 1000121,
+      "order_number": 121,
+      "created_at": "2026-04-08T11:51:33.343122-05:00",
+      "updated_at": "2026-04-09T23:51:33.343122-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 74382,
+        "email": "jsaenz@example.org",
+        "first_name": "Martín",
+        "last_name": "Salas"
+      },
+      "subtotal_price": "71.73",
+      "total_tax": "12.91",
+      "total_price": "84.64",
+      "line_items": [
+        {
+          "id": 12101,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "53.18",
+          "total_discount": "10.64",
+          "line_total": "42.54"
+        },
+        {
+          "id": 12102,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "29.19",
+          "total_discount": "0.00",
+          "line_total": "29.19"
+        }
+      ]
+    },
+    {
+      "id": 1000122,
+      "order_number": 122,
+      "created_at": "2026-04-20T03:52:05.343138-05:00",
+      "updated_at": "2026-04-23T01:52:05.343138-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 81063,
+        "email": "falfaro@example.com",
+        "first_name": "Estela",
+        "last_name": "Palacios"
+      },
+      "subtotal_price": "26.14",
+      "total_tax": "4.71",
+      "total_price": "30.85",
+      "line_items": [
+        {
+          "id": 12201,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "26.14",
+          "total_discount": "0.00",
+          "line_total": "26.14"
+        }
+      ]
+    },
+    {
+      "id": 1000123,
+      "order_number": 123,
+      "created_at": "2026-04-16T02:38:17.343152-05:00",
+      "updated_at": "2026-04-19T00:38:17.343152-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 85009,
+        "email": "hildaverdugo@example.com",
+        "first_name": "Mario",
+        "last_name": "Uribe"
+      },
+      "subtotal_price": "121.06",
+      "total_tax": "21.79",
+      "total_price": "142.85",
+      "line_items": [
+        {
+          "id": 12301,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "35.93",
+          "total_discount": "7.19",
+          "line_total": "28.74"
+        },
+        {
+          "id": 12302,
+          "sku": "SHP-ACC001-BLK",
+          "title": "Correa Cuero Negra",
+          "quantity": 3,
+          "price": "30.77",
+          "total_discount": "0.00",
+          "line_total": "92.32"
+        }
+      ]
+    },
+    {
+      "id": 1000124,
+      "order_number": 124,
+      "created_at": "2026-03-27T23:25:47.343169-05:00",
+      "updated_at": "2026-03-28T08:25:47.343169-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 26426,
+        "email": "luz85@example.com",
+        "first_name": "María Elena",
+        "last_name": "Juárez"
+      },
+      "subtotal_price": "21.99",
+      "total_tax": "3.96",
+      "total_price": "25.95",
+      "line_items": [
+        {
+          "id": 12401,
+          "sku": "SHP-ACC007-GRY",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "24.43",
+          "total_discount": "2.44",
+          "line_total": "21.99"
+        }
+      ]
+    },
+    {
+      "id": 1000125,
+      "order_number": 125,
+      "created_at": "2026-04-01T21:53:12.343183-05:00",
+      "updated_at": "2026-04-02T13:53:12.343183-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 66704,
+        "email": "fidel31@example.net",
+        "first_name": "Elisa",
+        "last_name": "Mata"
+      },
+      "subtotal_price": "66.34",
+      "total_tax": "11.94",
+      "total_price": "78.28",
+      "line_items": [
+        {
+          "id": 12501,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "82.92",
+          "total_discount": "16.58",
+          "line_total": "66.34"
+        }
+      ]
+    },
+    {
+      "id": 1000126,
+      "order_number": 126,
+      "created_at": "2026-04-17T17:29:12.343197-05:00",
+      "updated_at": "2026-04-19T05:29:12.343197-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 20336,
+        "email": "tellodulce-maria@example.org",
+        "first_name": "Esmeralda",
+        "last_name": "Roybal"
+      },
+      "subtotal_price": "58.84",
+      "total_tax": "10.59",
+      "total_price": "69.43",
+      "line_items": [
+        {
+          "id": 12601,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "58.84",
+          "total_discount": "0.00",
+          "line_total": "58.84"
+        }
+      ]
+    },
+    {
+      "id": 1000127,
+      "order_number": 127,
+      "created_at": "2026-03-28T00:22:05.343213-05:00",
+      "updated_at": "2026-03-28T19:22:05.343213-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 32439,
+        "email": "rolando89@example.com",
+        "first_name": "Benito",
+        "last_name": "Esquibel"
+      },
+      "subtotal_price": "19.98",
+      "total_tax": "3.60",
+      "total_price": "23.58",
+      "line_items": [
+        {
+          "id": 12701,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "24.98",
+          "total_discount": "5.00",
+          "line_total": "19.98"
+        }
+      ]
+    },
+    {
+      "id": 1000128,
+      "order_number": 128,
+      "created_at": "2026-03-25T09:06:25.343227-05:00",
+      "updated_at": "2026-03-26T18:06:25.343227-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 95344,
+        "email": "esperanza52@example.com",
+        "first_name": "Adela",
+        "last_name": "Tejeda"
+      },
+      "subtotal_price": "36.04",
+      "total_tax": "6.49",
+      "total_price": "42.53",
+      "line_items": [
+        {
+          "id": 12801,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "36.04",
+          "total_discount": "0.00",
+          "line_total": "36.04"
+        }
+      ]
+    },
+    {
+      "id": 1000129,
+      "order_number": 129,
+      "created_at": "2026-04-22T06:51:33.343241-05:00",
+      "updated_at": "2026-04-24T09:51:33.343241-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 48985,
+        "email": "gerardoarmenta@example.org",
+        "first_name": "Perla",
+        "last_name": "Loya"
+      },
+      "subtotal_price": "25.25",
+      "total_tax": "4.54",
+      "total_price": "29.79",
+      "line_items": [
+        {
+          "id": 12901,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "25.25",
+          "total_discount": "0.00",
+          "line_total": "25.25"
+        }
+      ]
+    },
+    {
+      "id": 1000130,
+      "order_number": 130,
+      "created_at": "2026-04-16T01:58:04.343256-05:00",
+      "updated_at": "2026-04-17T21:58:04.343256-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 62260,
+        "email": "teodorosalas@example.org",
+        "first_name": "Adán",
+        "last_name": "Vela"
+      },
+      "subtotal_price": "63.86",
+      "total_tax": "11.49",
+      "total_price": "75.35",
+      "line_items": [
+        {
+          "id": 13001,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 1,
+          "price": "63.86",
+          "total_discount": "0.00",
+          "line_total": "63.86"
+        }
+      ]
+    },
+    {
+      "id": 1000131,
+      "order_number": 131,
+      "created_at": "2026-03-27T11:46:26.343270-05:00",
+      "updated_at": "2026-03-29T12:46:26.343270-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 90658,
+        "email": "mariano77@example.com",
+        "first_name": "Dulce María",
+        "last_name": "Ávalos"
+      },
+      "subtotal_price": "53.62",
+      "total_tax": "9.65",
+      "total_price": "63.27",
+      "line_items": [
+        {
+          "id": 13101,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "53.62",
+          "total_discount": "0.00",
+          "line_total": "53.62"
+        }
+      ]
+    },
+    {
+      "id": 1000132,
+      "order_number": 132,
+      "created_at": "2026-04-16T00:04:53.343284-05:00",
+      "updated_at": "2026-04-18T02:04:53.343284-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 76249,
+        "email": "mateo11@example.com",
+        "first_name": "Mitzy",
+        "last_name": "Benavides"
+      },
+      "subtotal_price": "133.71",
+      "total_tax": "24.07",
+      "total_price": "157.78",
+      "line_items": [
+        {
+          "id": 13201,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "33.82",
+          "total_discount": "0.00",
+          "line_total": "33.82"
+        },
+        {
+          "id": 13202,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "99.89",
+          "total_discount": "0.00",
+          "line_total": "99.89"
+        }
+      ]
+    },
+    {
+      "id": 1000133,
+      "order_number": 133,
+      "created_at": "2026-03-26T10:29:59.343299-05:00",
+      "updated_at": "2026-03-26T23:29:59.343299-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 66482,
+        "email": "coronadoconchita@example.net",
+        "first_name": "Hernán",
+        "last_name": "Briones"
+      },
+      "subtotal_price": "18.08",
+      "total_tax": "3.25",
+      "total_price": "21.33",
+      "line_items": [
+        {
+          "id": 13301,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "20.09",
+          "total_discount": "2.01",
+          "line_total": "18.08"
+        }
+      ]
+    },
+    {
+      "id": 1000134,
+      "order_number": 134,
+      "created_at": "2026-04-05T23:58:59.343314-05:00",
+      "updated_at": "2026-04-06T14:58:59.343314-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 26864,
+        "email": "caridadvaldez@example.com",
+        "first_name": "Samuel",
+        "last_name": "Ybarra"
+      },
+      "subtotal_price": "52.85",
+      "total_tax": "9.51",
+      "total_price": "62.36",
+      "line_items": [
+        {
+          "id": 13401,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "35.15",
+          "total_discount": "0.00",
+          "line_total": "35.15"
+        },
+        {
+          "id": 13402,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "19.67",
+          "total_discount": "1.97",
+          "line_total": "17.70"
+        }
+      ]
+    },
+    {
+      "id": 1000135,
+      "order_number": 135,
+      "created_at": "2026-04-07T07:04:55.343329-05:00",
+      "updated_at": "2026-04-07T11:04:55.343329-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 27961,
+        "email": "octavioolivares@example.com",
+        "first_name": "Margarita",
+        "last_name": "Luevano"
+      },
+      "subtotal_price": "27.08",
+      "total_tax": "4.87",
+      "total_price": "31.95",
+      "line_items": [
+        {
+          "id": 13501,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "33.85",
+          "total_discount": "6.77",
+          "line_total": "27.08"
+        }
+      ]
+    },
+    {
+      "id": 1000136,
+      "order_number": 136,
+      "created_at": "2026-03-29T13:04:42.343344-05:00",
+      "updated_at": "2026-03-31T03:04:42.343344-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 87820,
+        "email": "kmagana@example.net",
+        "first_name": "Ana María",
+        "last_name": "Camacho"
+      },
+      "subtotal_price": "138.66",
+      "total_tax": "24.96",
+      "total_price": "163.62",
+      "line_items": [
+        {
+          "id": 13601,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 2,
+          "price": "86.66",
+          "total_discount": "34.66",
+          "line_total": "138.66"
+        }
+      ]
+    },
+    {
+      "id": 1000137,
+      "order_number": 137,
+      "created_at": "2026-03-28T21:55:26.343358-05:00",
+      "updated_at": "2026-03-31T02:55:26.343358-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 86507,
+        "email": "socorrogalarza@example.com",
+        "first_name": "Virginia",
+        "last_name": "Bonilla"
+      },
+      "subtotal_price": "103.05",
+      "total_tax": "18.55",
+      "total_price": "121.60",
+      "line_items": [
+        {
+          "id": 13701,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "103.05",
+          "total_discount": "0.00",
+          "line_total": "103.05"
+        }
+      ]
+    },
+    {
+      "id": 1000138,
+      "order_number": 138,
+      "created_at": "2026-04-22T11:05:55.343372-05:00",
+      "updated_at": "2026-04-25T00:05:55.343372-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 32349,
+        "email": "eveliodelgadillo@example.net",
+        "first_name": "Antonio",
+        "last_name": "Cortez"
+      },
+      "subtotal_price": "147.82",
+      "total_tax": "26.61",
+      "total_price": "174.43",
+      "line_items": [
+        {
+          "id": 13801,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 3,
+          "price": "61.59",
+          "total_discount": "36.96",
+          "line_total": "147.82"
+        }
+      ]
+    },
+    {
+      "id": 1000139,
+      "order_number": 139,
+      "created_at": "2026-04-05T07:11:28.343386-05:00",
+      "updated_at": "2026-04-07T12:11:28.343386-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 29848,
+        "email": "paredesmaria-del-carmen@example.net",
+        "first_name": "Rosario",
+        "last_name": "Rodrígez"
+      },
+      "subtotal_price": "130.84",
+      "total_tax": "23.55",
+      "total_price": "154.39",
+      "line_items": [
+        {
+          "id": 13901,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "130.84",
+          "total_discount": "0.00",
+          "line_total": "130.84"
+        }
+      ]
+    },
+    {
+      "id": 1000140,
+      "order_number": 140,
+      "created_at": "2026-03-30T09:28:58.343402-05:00",
+      "updated_at": "2026-03-31T07:28:58.343402-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 70249,
+        "email": "alonso34@example.net",
+        "first_name": "Guillermina",
+        "last_name": "Rendón"
+      },
+      "subtotal_price": "130.22",
+      "total_tax": "23.44",
+      "total_price": "153.66",
+      "line_items": [
+        {
+          "id": 14001,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 2,
+          "price": "35.72",
+          "total_discount": "0.00",
+          "line_total": "71.45"
+        },
+        {
+          "id": 14002,
+          "sku": "SHP-CAS003-GRY-L",
+          "title": "Hoodie Gris L",
+          "quantity": 1,
+          "price": "65.30",
+          "total_discount": "6.53",
+          "line_total": "58.77"
+        }
+      ]
+    },
+    {
+      "id": 1000141,
+      "order_number": 141,
+      "created_at": "2026-04-06T13:22:14.343417-05:00",
+      "updated_at": "2026-04-08T03:22:14.343417-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 47880,
+        "email": "gonzalezgabino@example.net",
+        "first_name": "Rolando",
+        "last_name": "Fajardo"
+      },
+      "subtotal_price": "123.74",
+      "total_tax": "22.27",
+      "total_price": "146.01",
+      "line_items": [
+        {
+          "id": 14101,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "92.63",
+          "total_discount": "0.00",
+          "line_total": "92.63"
+        },
+        {
+          "id": 14102,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "38.89",
+          "total_discount": "7.78",
+          "line_total": "31.11"
+        }
+      ]
+    },
+    {
+      "id": 1000142,
+      "order_number": 142,
+      "created_at": "2026-03-31T00:24:54.343437-05:00",
+      "updated_at": "2026-04-02T21:24:54.343437-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 59767,
+        "email": "icarrero@example.org",
+        "first_name": "Vicente",
+        "last_name": "Córdova"
+      },
+      "subtotal_price": "36.42",
+      "total_tax": "6.56",
+      "total_price": "42.98",
+      "line_items": [
+        {
+          "id": 14201,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "36.42",
+          "total_discount": "0.00",
+          "line_total": "36.42"
+        }
+      ]
+    },
+    {
+      "id": 1000143,
+      "order_number": 143,
+      "created_at": "2026-04-07T00:02:02.343451-05:00",
+      "updated_at": "2026-04-07T06:02:02.343451-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 23133,
+        "email": "claudia10@example.org",
+        "first_name": "Homero",
+        "last_name": "Yáñez"
+      },
+      "subtotal_price": "174.38",
+      "total_tax": "31.39",
+      "total_price": "205.77",
+      "line_items": [
+        {
+          "id": 14301,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "61.18",
+          "total_discount": "0.00",
+          "line_total": "61.18"
+        },
+        {
+          "id": 14302,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "30.64",
+          "total_discount": "0.00",
+          "line_total": "30.64"
+        },
+        {
+          "id": 14303,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "62.49",
+          "total_discount": "0.00",
+          "line_total": "62.49"
+        },
+        {
+          "id": 14304,
+          "sku": "SHP-POL002-WHT-M ",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "20.07",
+          "total_discount": "0.00",
+          "line_total": "20.07"
+        }
+      ]
+    },
+    {
+      "id": 1000144,
+      "order_number": 144,
+      "created_at": "2026-04-18T21:00:06.343470-05:00",
+      "updated_at": "2026-04-20T09:00:06.343470-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 52096,
+        "email": "marcela17@example.net",
+        "first_name": "Hernán",
+        "last_name": "Padrón"
+      },
+      "subtotal_price": "131.17",
+      "total_tax": "23.61",
+      "total_price": "154.78",
+      "line_items": [
+        {
+          "id": 14401,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 3,
+          "price": "31.33",
+          "total_discount": "0.00",
+          "line_total": "93.99"
+        },
+        {
+          "id": 14402,
+          "sku": "SHP-POL001-BLK-M",
+          "title": "Polo Basico Negro M",
+          "quantity": 2,
+          "price": "20.65",
+          "total_discount": "4.13",
+          "line_total": "37.18"
+        }
+      ]
+    },
+    {
+      "id": 1000145,
+      "order_number": 145,
+      "created_at": "2026-04-19T09:54:56.343485-05:00",
+      "updated_at": "2026-04-21T11:54:56.343485-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 74930,
+        "email": "monica87@example.com",
+        "first_name": "Ariadna",
+        "last_name": "Zamora"
+      },
+      "subtotal_price": "139.77",
+      "total_tax": "25.16",
+      "total_price": "164.93",
+      "line_items": [
+        {
+          "id": 14501,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "56.82",
+          "total_discount": "0.00",
+          "line_total": "56.82"
+        },
+        {
+          "id": 14502,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "82.95",
+          "total_discount": "0.00",
+          "line_total": "82.95"
+        }
+      ]
+    },
+    {
+      "id": 1000146,
+      "order_number": 146,
+      "created_at": "2026-04-09T16:53:29.343501-05:00",
+      "updated_at": "2026-04-10T12:53:29.343501-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 70150,
+        "email": "preciadoirene@example.net",
+        "first_name": "Fidel",
+        "last_name": "Alvarez"
+      },
+      "subtotal_price": "283.12",
+      "total_tax": "50.96",
+      "total_price": "334.08",
+      "line_items": [
+        {
+          "id": 14601,
+          "sku": "SHP-POL001-BLK-M",
+          "title": "Polo Basico Negro M",
+          "quantity": 1,
+          "price": "20.75",
+          "total_discount": "0.00",
+          "line_total": "20.75"
+        },
+        {
+          "id": 14602,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 3,
+          "price": "60.16",
+          "total_discount": "18.05",
+          "line_total": "162.43"
+        },
+        {
+          "id": 14603,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "99.94",
+          "total_discount": "0.00",
+          "line_total": "99.94"
+        }
+      ]
+    },
+    {
+      "id": 1000147,
+      "order_number": 147,
+      "created_at": "2026-04-23T01:44:08.343519-05:00",
+      "updated_at": "2026-04-23T13:44:08.343519-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 34219,
+        "email": "gironzeferino@example.net",
+        "first_name": "Rodrigo",
+        "last_name": "Alonso"
+      },
+      "subtotal_price": "114.84",
+      "total_tax": "20.67",
+      "total_price": "135.51",
+      "line_items": [
+        {
+          "id": 14701,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "61.44",
+          "total_discount": "0.00",
+          "line_total": "61.44"
+        },
+        {
+          "id": 14702,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "59.33",
+          "total_discount": "5.93",
+          "line_total": "53.40"
+        }
+      ]
+    },
+    {
+      "id": 1000148,
+      "order_number": 148,
+      "created_at": "2026-04-11T17:08:57.343535-05:00",
+      "updated_at": "2026-04-11T18:08:57.343535-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 44282,
+        "email": "reynaldo02@example.com",
+        "first_name": "Norma",
+        "last_name": "Quintanilla"
+      },
+      "subtotal_price": "46.04",
+      "total_tax": "8.29",
+      "total_price": "54.33",
+      "line_items": [
+        {
+          "id": 14801,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "46.04",
+          "total_discount": "0.00",
+          "line_total": "46.04"
+        }
+      ]
+    },
+    {
+      "id": 1000149,
+      "order_number": 149,
+      "created_at": "2026-04-20T17:45:53.343549-05:00",
+      "updated_at": "2026-04-21T10:45:53.343549-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 72676,
+        "email": "dolores96@example.net",
+        "first_name": "Mitzy",
+        "last_name": "Bustos"
+      },
+      "subtotal_price": "154.11",
+      "total_tax": "27.74",
+      "total_price": "181.85",
+      "line_items": [
+        {
+          "id": 14901,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "91.57",
+          "total_discount": "0.00",
+          "line_total": "91.57"
+        },
+        {
+          "id": 14902,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "62.54",
+          "total_discount": "0.00",
+          "line_total": "62.54"
+        }
+      ]
+    },
+    {
+      "id": 1000150,
+      "order_number": 150,
+      "created_at": "2026-03-25T08:24:28.343565-05:00",
+      "updated_at": "2026-03-26T15:24:28.343565-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 99173,
+        "email": "amontero@example.com",
+        "first_name": "Inés",
+        "last_name": "Cantú"
+      },
+      "subtotal_price": "23.85",
+      "total_tax": "4.29",
+      "total_price": "28.14",
+      "line_items": [
+        {
+          "id": 15001,
+          "sku": "SHP-ACC001-BLK",
+          "title": "Correa Cuero Negra",
+          "quantity": 1,
+          "price": "29.81",
+          "total_discount": "5.96",
+          "line_total": "23.85"
+        }
+      ]
+    },
+    {
+      "id": 1000151,
+      "order_number": 151,
+      "created_at": "2026-04-19T18:45:33.343578-05:00",
+      "updated_at": "2026-04-22T10:45:33.343578-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 36497,
+        "email": "isaacpatino@example.net",
+        "first_name": "Miguel Ángel",
+        "last_name": "Lomeli"
+      },
+      "subtotal_price": "61.22",
+      "total_tax": "11.02",
+      "total_price": "72.24",
+      "line_items": [
+        {
+          "id": 15101,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "76.53",
+          "total_discount": "15.31",
+          "line_total": "61.22"
+        }
+      ]
+    },
+    {
+      "id": 1000152,
+      "order_number": 152,
+      "created_at": "2026-04-07T19:51:36.343593-05:00",
+      "updated_at": "2026-04-07T21:51:36.343593-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 61897,
+        "email": "curbina@example.com",
+        "first_name": "Augusto",
+        "last_name": "Mascareñas"
+      },
+      "subtotal_price": "230.96",
+      "total_tax": "41.57",
+      "total_price": "272.53",
+      "line_items": [
+        {
+          "id": 15201,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "90.65",
+          "total_discount": "0.00",
+          "line_total": "90.65"
+        },
+        {
+          "id": 15202,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "28.57",
+          "total_discount": "0.00",
+          "line_total": "28.57"
+        },
+        {
+          "id": 15203,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "124.16",
+          "total_discount": "12.42",
+          "line_total": "111.74"
+        }
+      ]
+    },
+    {
+      "id": 1000152,
+      "order_number": 152,
+      "created_at": "2026-04-07T19:51:36.343593-05:00",
+      "updated_at": "2026-04-07T21:51:36.343593-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 61897,
+        "email": "curbina@example.com",
+        "first_name": "Augusto",
+        "last_name": "Mascareñas"
+      },
+      "subtotal_price": "230.96",
+      "total_tax": "41.57",
+      "total_price": "272.53",
+      "line_items": [
+        {
+          "id": 15201,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "90.65",
+          "total_discount": "0.00",
+          "line_total": "90.65"
+        },
+        {
+          "id": 15202,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "28.57",
+          "total_discount": "0.00",
+          "line_total": "28.57"
+        },
+        {
+          "id": 15203,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "124.16",
+          "total_discount": "12.42",
+          "line_total": "111.74"
+        }
+      ]
+    },
+    {
+      "id": 1000153,
+      "order_number": 153,
+      "created_at": "2026-04-13T04:16:17.343609-05:00",
+      "updated_at": "2026-04-13T12:16:17.343609-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 71875,
+        "email": null,
+        "first_name": "Abel",
+        "last_name": "Torres"
+      },
+      "subtotal_price": "16.24",
+      "total_tax": "2.92",
+      "total_price": "19.16",
+      "line_items": [
+        {
+          "id": 15301,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "20.30",
+          "total_discount": "4.06",
+          "line_total": "16.24"
+        }
+      ]
+    },
+    {
+      "id": 1000154,
+      "order_number": 154,
+      "created_at": "2026-04-17T04:21:32.343623-05:00",
+      "updated_at": "2026-04-20T01:21:32.343623-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 27431,
+        "email": "dpedraza@example.org",
+        "first_name": "Norma",
+        "last_name": "Nájera"
+      },
+      "subtotal_price": "155.57",
+      "total_tax": "28.00",
+      "total_price": "183.57",
+      "line_items": [
+        {
+          "id": 15401,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 3,
+          "price": "39.40",
+          "total_discount": "11.82",
+          "line_total": "106.38"
+        },
+        {
+          "id": 15402,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 2,
+          "price": "24.59",
+          "total_discount": "0.00",
+          "line_total": "49.19"
+        }
+      ]
+    },
+    {
+      "id": 1000155,
+      "order_number": 155,
+      "created_at": "2026-04-15T02:12:29.343640-05:00",
+      "updated_at": "2026-04-15T04:12:29.343640-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 41544,
+        "email": "wquintanilla@example.org",
+        "first_name": "Emilia",
+        "last_name": "Jaramillo"
+      },
+      "subtotal_price": "312.38",
+      "total_tax": "56.23",
+      "total_price": "368.61",
+      "line_items": [
+        {
+          "id": 15501,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 3,
+          "price": "46.40",
+          "total_discount": "0.00",
+          "line_total": "139.21"
+        },
+        {
+          "id": 15502,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "81.65",
+          "total_discount": "8.17",
+          "line_total": "73.48"
+        },
+        {
+          "id": 15503,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 2,
+          "price": "29.15",
+          "total_discount": "0.00",
+          "line_total": "58.29"
+        },
+        {
+          "id": 15504,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "41.40",
+          "total_discount": "0.00",
+          "line_total": "41.40"
+        }
+      ]
+    },
+    {
+      "id": 1000156,
+      "order_number": 156,
+      "created_at": "2026-04-22T03:01:32.343659-05:00",
+      "updated_at": "2026-04-23T06:01:32.343659-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 17398,
+        "email": "gracielaquezada@example.net",
+        "first_name": "Mercedes",
+        "last_name": "Casas"
+      },
+      "subtotal_price": "124.04",
+      "total_tax": "22.33",
+      "total_price": "146.37",
+      "line_items": [
+        {
+          "id": 15601,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "124.04",
+          "total_discount": "0.00",
+          "line_total": "124.04"
+        }
+      ]
+    },
+    {
+      "id": 1000157,
+      "order_number": 157,
+      "created_at": "2026-04-12T09:19:37.343674-05:00",
+      "updated_at": "2026-04-12T16:19:37.343674-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 82970,
+        "email": "grijalvacristobal@example.com",
+        "first_name": "Pedro",
+        "last_name": "Alcaraz"
+      },
+      "subtotal_price": "207.89",
+      "total_tax": "37.42",
+      "total_price": "245.31",
+      "line_items": [
+        {
+          "id": 15701,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "40.29",
+          "total_discount": "0.00",
+          "line_total": "40.29"
+        },
+        {
+          "id": 15702,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 2,
+          "price": "104.75",
+          "total_discount": "41.90",
+          "line_total": "167.60"
+        }
+      ]
+    },
+    {
+      "id": 1000158,
+      "order_number": 158,
+      "created_at": "2026-04-15T06:06:00.343690-05:00",
+      "updated_at": "2026-04-18T02:06:00.343690-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 72065,
+        "email": "ocaban@example.org",
+        "first_name": "María Teresa",
+        "last_name": "Carvajal"
+      },
+      "subtotal_price": "220.51",
+      "total_tax": "39.69",
+      "total_price": "260.20",
+      "line_items": [
+        {
+          "id": 15801,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "156.98",
+          "total_discount": "15.70",
+          "line_total": "141.28"
+        },
+        {
+          "id": 15802,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "79.23",
+          "total_discount": "0.00",
+          "line_total": "79.23"
+        }
+      ]
+    },
+    {
+      "id": 1000159,
+      "order_number": 159,
+      "created_at": "2026-04-16T17:57:46.343706-05:00",
+      "updated_at": "2026-04-18T16:57:46.343706-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 22119,
+        "email": "modestolovato@example.net",
+        "first_name": "Georgina",
+        "last_name": "Pelayo"
+      },
+      "subtotal_price": "48.63",
+      "total_tax": "8.75",
+      "total_price": "57.38",
+      "line_items": [
+        {
+          "id": 15901,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "36.53",
+          "total_discount": "7.31",
+          "line_total": "29.22"
+        },
+        {
+          "id": 15902,
+          "sku": "SHP-POL002-WHT-M",
+          "title": "Polo Basico Blanco M",
+          "quantity": 1,
+          "price": "19.41",
+          "total_discount": "0.00",
+          "line_total": "19.41"
+        }
+      ]
+    },
+    {
+      "id": 1000160,
+      "order_number": 160,
+      "created_at": "2026-04-21T06:06:01.343722-05:00",
+      "updated_at": "2026-04-24T05:06:01.343722-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 38444,
+        "email": "prodriquez@example.com",
+        "first_name": "Pedro",
+        "last_name": "Colunga"
+      },
+      "subtotal_price": "123.92",
+      "total_tax": "22.31",
+      "total_price": "146.23",
+      "line_items": [
+        {
+          "id": 16001,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "123.92",
+          "total_discount": "0.00",
+          "line_total": "123.92"
+        }
+      ]
+    },
+    {
+      "id": 1000161,
+      "order_number": 161,
+      "created_at": "2026-04-07T14:12:48.343735-05:00",
+      "updated_at": "2026-04-08T21:12:48.343735-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 89220,
+        "email": "mespino@example.net",
+        "first_name": "Celia",
+        "last_name": "Barrios"
+      },
+      "subtotal_price": "36.43",
+      "total_tax": "6.56",
+      "total_price": "42.99",
+      "line_items": [
+        {
+          "id": 16101,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "36.43",
+          "total_discount": "0.00",
+          "line_total": "36.43"
+        }
+      ]
+    },
+    {
+      "id": 1000162,
+      "order_number": 162,
+      "created_at": "2026-04-12T03:18:15.343749-05:00",
+      "updated_at": "2026-04-14T18:18:15.343749-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 71080,
+        "email": "linda58@example.com",
+        "first_name": "Abelardo",
+        "last_name": "Leyva"
+      },
+      "subtotal_price": "19.83",
+      "total_tax": "3.57",
+      "total_price": "23.40",
+      "line_items": [
+        {
+          "id": 16201,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "19.83",
+          "total_discount": "0.00",
+          "line_total": "19.83"
+        }
+      ]
+    },
+    {
+      "id": 1000163,
+      "order_number": 163,
+      "created_at": "2026-03-31T23:08:56.343762-05:00",
+      "updated_at": "2026-04-03T04:08:56.343762-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 48691,
+        "email": "rodrigo97@example.org",
+        "first_name": "Marisela",
+        "last_name": "Tijerina"
+      },
+      "subtotal_price": "102.25",
+      "total_tax": "18.40",
+      "total_price": "120.65",
+      "line_items": [
+        {
+          "id": 16301,
+          "sku": "SHP-PAN003-BLU-30",
+          "title": "Jean Slim Azul 30",
+          "quantity": 1,
+          "price": "68.59",
+          "total_discount": "0.00",
+          "line_total": "68.59"
+        },
+        {
+          "id": 16302,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "33.66",
+          "total_discount": "0.00",
+          "line_total": "33.66"
+        }
+      ]
+    },
+    {
+      "id": 1000164,
+      "order_number": 164,
+      "created_at": "2026-04-05T07:35:58.343779-05:00",
+      "updated_at": "2026-04-07T21:35:58.343779-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 70401,
+        "email": "vmontano@example.net",
+        "first_name": "Pamela",
+        "last_name": "Ocasio"
+      },
+      "subtotal_price": "55.75",
+      "total_tax": "10.04",
+      "total_price": "65.79",
+      "line_items": [
+        {
+          "id": 16401,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "55.75",
+          "total_discount": "0.00",
+          "line_total": "55.75"
+        }
+      ]
+    },
+    {
+      "id": 1000165,
+      "order_number": 165,
+      "created_at": "2026-04-15T12:56:10.343794-05:00",
+      "updated_at": "2026-04-18T07:56:10.343794-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 14433,
+        "email": "mmedina@example.net",
+        "first_name": "Evelio",
+        "last_name": "Vázquez"
+      },
+      "subtotal_price": "66.58",
+      "total_tax": "11.98",
+      "total_price": "78.56",
+      "line_items": [
+        {
+          "id": 16501,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "83.23",
+          "total_discount": "16.65",
+          "line_total": "66.58"
+        }
+      ]
+    },
+    {
+      "id": 1000166,
+      "order_number": 166,
+      "created_at": "2026-04-21T09:37:17.343807-05:00",
+      "updated_at": "2026-04-21T11:37:17.343807-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 10866,
+        "email": "xgonzalez@example.com",
+        "first_name": "Alvaro",
+        "last_name": "Matías"
+      },
+      "subtotal_price": "315.95",
+      "total_tax": "56.87",
+      "total_price": "372.82",
+      "line_items": [
+        {
+          "id": 16601,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 2,
+          "price": "145.87",
+          "total_discount": "0.00",
+          "line_total": "291.75"
+        },
+        {
+          "id": 16602,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "30.25",
+          "total_discount": "6.05",
+          "line_total": "24.20"
+        }
+      ]
+    },
+    {
+      "id": 1000167,
+      "order_number": 167,
+      "created_at": "2026-04-22T22:39:27.343823-05:00",
+      "updated_at": "2026-04-23T20:39:27.343823-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 24026,
+        "email": "yolivarez@example.net",
+        "first_name": "Uriel",
+        "last_name": "Coronado"
+      },
+      "subtotal_price": "46.90",
+      "total_tax": "8.44",
+      "total_price": "55.34",
+      "line_items": [
+        {
+          "id": 16701,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 1,
+          "price": "58.62",
+          "total_discount": "11.72",
+          "line_total": "46.90"
+        }
+      ]
+    },
+    {
+      "id": 1000168,
+      "order_number": 168,
+      "created_at": "2026-04-12T01:23:45.343837-05:00",
+      "updated_at": "2026-04-13T08:23:45.343837-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 39603,
+        "email": "iarce@example.net",
+        "first_name": "Rosa",
+        "last_name": "Meraz"
+      },
+      "subtotal_price": "70.87",
+      "total_tax": "12.76",
+      "total_price": "83.63",
+      "line_items": [
+        {
+          "id": 16801,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "78.74",
+          "total_discount": "7.87",
+          "line_total": "70.87"
+        }
+      ]
+    },
+    {
+      "id": 1000169,
+      "order_number": 169,
+      "created_at": "2026-04-19T20:13:10.343851-05:00",
+      "updated_at": "2026-04-21T14:13:10.343851-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 84167,
+        "email": "quinonezbenito@example.net",
+        "first_name": "María Eugenia",
+        "last_name": "Alejandro"
+      },
+      "subtotal_price": "102.87",
+      "total_tax": "18.52",
+      "total_price": "121.39",
+      "line_items": [
+        {
+          "id": 16901,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "86.25",
+          "total_discount": "8.62",
+          "line_total": "77.63"
+        },
+        {
+          "id": 16902,
+          "sku": "SHP-ZAP004-BLK-42",
+          "title": "Sandalia Playa Negra 42",
+          "quantity": 1,
+          "price": "25.24",
+          "total_discount": "0.00",
+          "line_total": "25.24"
+        }
+      ]
+    },
+    {
+      "id": 1000170,
+      "order_number": 170,
+      "created_at": "2026-03-29T02:47:41.343867-05:00",
+      "updated_at": "2026-03-31T04:47:41.343867-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 20084,
+        "email": "lucascorrea@example.org",
+        "first_name": "Mariano",
+        "last_name": "Jaimes"
+      },
+      "subtotal_price": "228.03",
+      "total_tax": "41.05",
+      "total_price": "269.08",
+      "line_items": [
+        {
+          "id": 17001,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 2,
+          "price": "57.03",
+          "total_discount": "11.41",
+          "line_total": "102.65"
+        },
+        {
+          "id": 17002,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 2,
+          "price": "50.82",
+          "total_discount": "0.00",
+          "line_total": "101.64"
+        },
+        {
+          "id": 17003,
+          "sku": "SHP-ACC007-GRY ",
+          "title": "Bufanda Lana Gris",
+          "quantity": 1,
+          "price": "23.74",
+          "total_discount": "0.00",
+          "line_total": "23.74"
+        }
+      ]
+    },
+    {
+      "id": 1000171,
+      "order_number": 171,
+      "created_at": "2026-03-27T05:53:47.343885-05:00",
+      "updated_at": "2026-03-27T14:53:47.343885-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 54642,
+        "email": "sofia61@example.com",
+        "first_name": "Zeferino",
+        "last_name": "Tejeda"
+      },
+      "subtotal_price": "212.71",
+      "total_tax": "38.29",
+      "total_price": "251.00",
+      "line_items": [
+        {
+          "id": 17101,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 2,
+          "price": "44.14",
+          "total_discount": "0.00",
+          "line_total": "88.29"
+        },
+        {
+          "id": 17102,
+          "sku": "SHP-ZAP005-BRN-43",
+          "title": "Bota Trekking Marron 43",
+          "quantity": 1,
+          "price": "124.42",
+          "total_discount": "0.00",
+          "line_total": "124.42"
+        }
+      ]
+    },
+    {
+      "id": 1000172,
+      "order_number": 172,
+      "created_at": "2026-03-25T20:12:38.343902-05:00",
+      "updated_at": "2026-03-27T20:12:38.343902-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 66603,
+        "email": "omateo@example.net",
+        "first_name": "Micaela",
+        "last_name": "Toro"
+      },
+      "subtotal_price": "18.15",
+      "total_tax": "3.27",
+      "total_price": "21.42",
+      "line_items": [
+        {
+          "id": 17201,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "20.17",
+          "total_discount": "2.02",
+          "line_total": "18.15"
+        }
+      ]
+    },
+    {
+      "id": 1000173,
+      "order_number": 173,
+      "created_at": "2026-04-05T07:19:41.343915-05:00",
+      "updated_at": "2026-04-06T02:19:41.343915-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 61068,
+        "email": "barrientoseugenio@example.net",
+        "first_name": "Graciela",
+        "last_name": "Gaytán"
+      },
+      "subtotal_price": "87.62",
+      "total_tax": "15.77",
+      "total_price": "103.39",
+      "line_items": [
+        {
+          "id": 17301,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 1,
+          "price": "87.62",
+          "total_discount": "0.00",
+          "line_total": "87.62"
+        }
+      ]
+    },
+    {
+      "id": 1000174,
+      "order_number": 174,
+      "created_at": "2026-04-23T12:05:31.343930-05:00",
+      "updated_at": "2026-04-25T16:05:31.343930-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 60829,
+        "email": "puenteberta@example.net",
+        "first_name": "Benito",
+        "last_name": "Quiroz"
+      },
+      "subtotal_price": "141.63",
+      "total_tax": "25.49",
+      "total_price": "167.12",
+      "line_items": [
+        {
+          "id": 17401,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "86.60",
+          "total_discount": "0.00",
+          "line_total": "86.60"
+        },
+        {
+          "id": 17402,
+          "sku": "shp-pan004-blk-m",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "34.94",
+          "total_discount": "0.00",
+          "line_total": "34.94"
+        },
+        {
+          "id": 17403,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "20.09",
+          "total_discount": "0.00",
+          "line_total": "20.09"
+        }
+      ]
+    },
+    {
+      "id": 1000175,
+      "order_number": 175,
+      "created_at": "2026-03-27T14:14:15.343947-05:00",
+      "updated_at": "2026-03-30T05:14:15.343947-05:00",
+      "currency": "USD",
+      "financial_status": "partially_refunded",
+      "customer": {
+        "id": 87831,
+        "email": "helenaanaya@example.org",
+        "first_name": "Irma",
+        "last_name": "Badillo"
+      },
+      "subtotal_price": "230.38",
+      "total_tax": "41.47",
+      "total_price": "271.85",
+      "line_items": [
+        {
+          "id": 17501,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "54.25",
+          "total_discount": "0.00",
+          "line_total": "54.25"
+        },
+        {
+          "id": 17502,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "96.36",
+          "total_discount": "0.00",
+          "line_total": "96.36"
+        },
+        {
+          "id": 17503,
+          "sku": "SHP-CAS004-BLK-M",
+          "title": "Chompa Lana Negra M",
+          "quantity": 1,
+          "price": "79.77",
+          "total_discount": "0.00",
+          "line_total": "79.77"
+        }
+      ]
+    },
+    {
+      "id": 1000176,
+      "order_number": 176,
+      "created_at": "2026-04-17T04:17:17.343964-05:00",
+      "updated_at": "2026-04-17T21:17:17.343964-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 49378,
+        "email": "jorge56@example.org",
+        "first_name": "Felipe",
+        "last_name": "Tamez"
+      },
+      "subtotal_price": "45.44",
+      "total_tax": "8.18",
+      "total_price": "53.62",
+      "line_items": [
+        {
+          "id": 17601,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "45.44",
+          "total_discount": "0.00",
+          "line_total": "45.44"
+        }
+      ]
+    },
+    {
+      "id": 1000177,
+      "order_number": 177,
+      "created_at": "2026-04-14T00:08:09.343978-05:00",
+      "updated_at": "2026-04-15T07:08:09.343978-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 52714,
+        "email": "rvalles@example.org",
+        "first_name": "David",
+        "last_name": "del Río"
+      },
+      "subtotal_price": "156.72",
+      "total_tax": "28.21",
+      "total_price": "184.93",
+      "line_items": [
+        {
+          "id": 17701,
+          "sku": "SHP-CAM001-BLU-M",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 3,
+          "price": "52.24",
+          "total_discount": "0.00",
+          "line_total": "156.72"
+        }
+      ]
+    },
+    {
+      "id": 1000178,
+      "order_number": 178,
+      "created_at": "2026-04-04T16:20:32.343991-05:00",
+      "updated_at": "2026-04-04T19:20:32.343991-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 70505,
+        "email": "olivassilvano@example.net",
+        "first_name": "Fabiola",
+        "last_name": "Salinas"
+      },
+      "subtotal_price": "28.18",
+      "total_tax": "5.07",
+      "total_price": "33.25",
+      "line_items": [
+        {
+          "id": 17801,
+          "sku": "SHP-ACC008-BLK",
+          "title": "Guantes Cuero Negros",
+          "quantity": 1,
+          "price": "35.22",
+          "total_discount": "7.04",
+          "line_total": "28.18"
+        }
+      ]
+    },
+    {
+      "id": 1000179,
+      "order_number": 179,
+      "created_at": "2026-04-09T14:43:10.344006-05:00",
+      "updated_at": "2026-04-09T23:43:10.344006-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 68860,
+        "email": "estherriojas@example.net",
+        "first_name": "Florencia",
+        "last_name": "Rico"
+      },
+      "subtotal_price": "94.81",
+      "total_tax": "17.07",
+      "total_price": "111.88",
+      "line_items": [
+        {
+          "id": 17901,
+          "sku": "SHP-POL003-BLU-L",
+          "title": "Polo Estampado Azul L",
+          "quantity": 2,
+          "price": "25.63",
+          "total_discount": "5.13",
+          "line_total": "46.14"
+        },
+        {
+          "id": 17902,
+          "sku": "SHP-ACC005",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "48.67",
+          "total_discount": "0.00",
+          "line_total": "48.67"
+        }
+      ]
+    },
+    {
+      "id": 1000180,
+      "order_number": 180,
+      "created_at": "2026-04-04T07:10:23.344021-05:00",
+      "updated_at": "2026-04-07T03:10:23.344021-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 87833,
+        "email": "yeni07@example.com",
+        "first_name": "Zoé",
+        "last_name": "Treviño"
+      },
+      "subtotal_price": "56.91",
+      "total_tax": "10.24",
+      "total_price": "67.15",
+      "line_items": [
+        {
+          "id": 18001,
+          "sku": "shp-acc008-blk",
+          "title": "Guantes Cuero Negros",
+          "quantity": 2,
+          "price": "35.57",
+          "total_discount": "14.23",
+          "line_total": "56.91"
+        }
+      ]
+    },
+    {
+      "id": 1000181,
+      "order_number": 181,
+      "created_at": "2026-04-11T16:56:05.344035-05:00",
+      "updated_at": "2026-04-14T10:56:05.344035-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 83137,
+        "email": "antoniaquintanilla@example.com",
+        "first_name": "Rodrigo",
+        "last_name": "Luna"
+      },
+      "subtotal_price": "81.36",
+      "total_tax": "14.64",
+      "total_price": "96.00",
+      "line_items": [
+        {
+          "id": 18101,
+          "sku": "SHP-PAN004-BLK-M",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "33.31",
+          "total_discount": "3.33",
+          "line_total": "29.98"
+        },
+        {
+          "id": 18102,
+          "sku": "shp-cam001-blu-m",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 1,
+          "price": "51.38",
+          "total_discount": "0.00",
+          "line_total": "51.38"
+        }
+      ]
+    },
+    {
+      "id": 1000182,
+      "order_number": 182,
+      "created_at": "2026-04-02T02:46:31.344056-05:00",
+      "updated_at": "2026-04-04T15:46:31.344056-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 23703,
+        "email": "dhenriquez@example.com",
+        "first_name": "Elvia",
+        "last_name": "Olivo"
+      },
+      "subtotal_price": "72.56",
+      "total_tax": "13.06",
+      "total_price": "85.62",
+      "line_items": [
+        {
+          "id": 18201,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "90.70",
+          "total_discount": "18.14",
+          "line_total": "72.56"
+        }
+      ]
+    },
+    {
+      "id": 1000183,
+      "order_number": 183,
+      "created_at": "2026-04-19T14:07:00.344071-05:00",
+      "updated_at": "2026-04-21T10:07:00.344071-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 72411,
+        "email": "pcarbajal@example.com",
+        "first_name": "Reina",
+        "last_name": "Muñoz"
+      },
+      "subtotal_price": "35.24",
+      "total_tax": "6.34",
+      "total_price": "41.58",
+      "line_items": [
+        {
+          "id": 18301,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "39.15",
+          "total_discount": "3.91",
+          "line_total": "35.24"
+        }
+      ]
+    },
+    {
+      "id": 1000184,
+      "order_number": 184,
+      "created_at": "2026-04-01T19:00:20.344084-05:00",
+      "updated_at": "2026-04-02T16:00:20.344084-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 41970,
+        "email": "gustavo06@example.com",
+        "first_name": "Abril",
+        "last_name": "Valles"
+      },
+      "subtotal_price": "61.16",
+      "total_tax": "11.01",
+      "total_price": "72.17",
+      "line_items": [
+        {
+          "id": 18401,
+          "sku": "SHP-PAN002-BLK-32",
+          "title": "Pantalon Chino Negro 32",
+          "quantity": 1,
+          "price": "61.16",
+          "total_discount": "0.00",
+          "line_total": "61.16"
+        }
+      ]
+    },
+    {
+      "id": 1000185,
+      "order_number": 185,
+      "created_at": "2026-04-07T16:30:50.344098-05:00",
+      "updated_at": "2026-04-09T18:30:50.344098-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 13826,
+        "email": "zelayamiriam@example.com",
+        "first_name": "Estela",
+        "last_name": "Zepeda"
+      },
+      "subtotal_price": "89.05",
+      "total_tax": "16.03",
+      "total_price": "105.08",
+      "line_items": [
+        {
+          "id": 18501,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "89.05",
+          "total_discount": "0.00",
+          "line_total": "89.05"
+        }
+      ]
+    },
+    {
+      "id": 1000186,
+      "order_number": 186,
+      "created_at": "2026-04-01T22:21:07.344112-05:00",
+      "updated_at": "2026-04-02T06:21:07.344112-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 85674,
+        "email": "estefania39@example.com",
+        "first_name": "Victoria",
+        "last_name": "Chapa"
+      },
+      "subtotal_price": "43.62",
+      "total_tax": "7.85",
+      "total_price": "51.47",
+      "line_items": [
+        {
+          "id": 18601,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "43.62",
+          "total_discount": "0.00",
+          "line_total": "43.62"
+        }
+      ]
+    },
+    {
+      "id": 1000187,
+      "order_number": 187,
+      "created_at": "2026-04-14T16:19:15.344126-05:00",
+      "updated_at": "2026-04-16T17:19:15.344126-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 90125,
+        "email": "arenashoracio@example.com",
+        "first_name": "Aldo",
+        "last_name": "Venegas"
+      },
+      "subtotal_price": "43.84",
+      "total_tax": "7.89",
+      "total_price": "51.73",
+      "line_items": [
+        {
+          "id": 18701,
+          "sku": "SHP-CAM002-WHT-L",
+          "title": "Camisa Oxford Blanca L",
+          "quantity": 1,
+          "price": "48.71",
+          "total_discount": "4.87",
+          "line_total": "43.84"
+        }
+      ]
+    },
+    {
+      "id": 1000188,
+      "order_number": 188,
+      "created_at": "2026-04-06T16:03:10.344140-05:00",
+      "updated_at": "2026-04-07T15:03:10.344140-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 58929,
+        "email": "cesar14@example.com",
+        "first_name": "Linda",
+        "last_name": "del Río"
+      },
+      "subtotal_price": "234.26",
+      "total_tax": "42.17",
+      "total_price": "276.43",
+      "line_items": [
+        {
+          "id": 18801,
+          "sku": "SHP-ZAP003-BRN-42",
+          "title": "Mocasin Marron 42",
+          "quantity": 2,
+          "price": "91.75",
+          "total_discount": "0.00",
+          "line_total": "183.50"
+        },
+        {
+          "id": 18802,
+          "sku": "SHP-CAM001-BLU-M",
+          "title": "Camisa Oxford Azul M",
+          "quantity": 1,
+          "price": "50.76",
+          "total_discount": "0.00",
+          "line_total": "50.76"
+        }
+      ]
+    },
+    {
+      "id": 1000189,
+      "order_number": 189,
+      "created_at": "2026-04-03T10:51:40.344155-05:00",
+      "updated_at": "2026-04-04T08:51:40.344155-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 82733,
+        "email": "cesartirado@example.com",
+        "first_name": "Olga",
+        "last_name": "Sánchez"
+      },
+      "subtotal_price": "77.41",
+      "total_tax": "13.93",
+      "total_price": "91.34",
+      "line_items": [
+        {
+          "id": 18901,
+          "sku": "SHP-ZAP002-BLK-41",
+          "title": "Zapatilla Running Negra 41",
+          "quantity": 1,
+          "price": "96.76",
+          "total_discount": "19.35",
+          "line_total": "77.41"
+        }
+      ]
+    },
+    {
+      "id": 1000190,
+      "order_number": 190,
+      "created_at": "2026-04-14T16:09:33.344170-05:00",
+      "updated_at": "2026-04-16T17:09:33.344170-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 83607,
+        "email": "daniel47@example.com",
+        "first_name": "Ivonne",
+        "last_name": "Carrero"
+      },
+      "subtotal_price": "93.19",
+      "total_tax": "16.77",
+      "total_price": "109.96",
+      "line_items": [
+        {
+          "id": 19001,
+          "sku": "SHP-CAS002-BLU-M",
+          "title": "Casaca Jean Azul M",
+          "quantity": 1,
+          "price": "93.19",
+          "total_discount": "0.00",
+          "line_total": "93.19"
+        }
+      ]
+    },
+    {
+      "id": 1000191,
+      "order_number": 191,
+      "created_at": "2026-03-30T21:14:34.344184-05:00",
+      "updated_at": "2026-04-01T08:14:34.344184-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 39470,
+        "email": "jbenitez@example.org",
+        "first_name": "Zoé",
+        "last_name": "Osorio"
+      },
+      "subtotal_price": "38.59",
+      "total_tax": "6.95",
+      "total_price": "45.54",
+      "line_items": [
+        {
+          "id": 19101,
+          "sku": "SHP-ACC005 ",
+          "title": "Lentes Sol Aviador",
+          "quantity": 1,
+          "price": "48.24",
+          "total_discount": "9.65",
+          "line_total": "38.59"
+        }
+      ]
+    },
+    {
+      "id": 1000192,
+      "order_number": 192,
+      "created_at": "2026-04-01T13:19:37.344198-05:00",
+      "updated_at": "2026-04-04T10:19:37.344198-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 58085,
+        "email": "aurora60@example.com",
+        "first_name": "Omar",
+        "last_name": "Castañeda"
+      },
+      "subtotal_price": "20.00",
+      "total_tax": "3.60",
+      "total_price": "23.60",
+      "line_items": [
+        {
+          "id": 19201,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 1,
+          "price": "20.00",
+          "total_discount": "0.00",
+          "line_total": "20.00"
+        }
+      ]
+    },
+    {
+      "id": 1000193,
+      "order_number": 193,
+      "created_at": "2026-04-02T07:54:56.344211-05:00",
+      "updated_at": "2026-04-04T16:54:56.344211-05:00",
+      "currency": "USD",
+      "financial_status": "pending",
+      "customer": {
+        "id": 44447,
+        "email": "rnegrete@example.net",
+        "first_name": "Zacarías",
+        "last_name": "Iglesias"
+      },
+      "subtotal_price": "154.85",
+      "total_tax": "27.87",
+      "total_price": "182.72",
+      "line_items": [
+        {
+          "id": 19301,
+          "sku": "SHP-CAS001-BLK-L",
+          "title": "Casaca Cuero Negra L",
+          "quantity": 1,
+          "price": "154.85",
+          "total_discount": "0.00",
+          "line_total": "154.85"
+        }
+      ]
+    },
+    {
+      "id": 1000194,
+      "order_number": 194,
+      "created_at": "2026-04-02T10:35:29.344225-05:00",
+      "updated_at": "2026-04-05T06:35:29.344225-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 46842,
+        "email": "gnieto@example.net",
+        "first_name": "Eugenia",
+        "last_name": "Rodríguez"
+      },
+      "subtotal_price": "119.02",
+      "total_tax": "21.42",
+      "total_price": "140.44",
+      "line_items": [
+        {
+          "id": 19401,
+          "sku": "SHP-POL004-RED-M",
+          "title": "Polo Deportivo Rojo M",
+          "quantity": 1,
+          "price": "30.83",
+          "total_discount": "6.17",
+          "line_total": "24.66"
+        },
+        {
+          "id": 19402,
+          "sku": "SHP-ACC003-BLK",
+          "title": "Gorra Logo Negra",
+          "quantity": 2,
+          "price": "20.12",
+          "total_discount": "4.02",
+          "line_total": "36.22"
+        },
+        {
+          "id": 19403,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "58.14",
+          "total_discount": "0.00",
+          "line_total": "58.14"
+        }
+      ]
+    },
+    {
+      "id": 1000195,
+      "order_number": 195,
+      "created_at": "2026-04-09T13:12:03.344241-05:00",
+      "updated_at": "2026-04-11T17:12:03.344241-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 17770,
+        "email": "valentinitzel@example.net",
+        "first_name": "Estela",
+        "last_name": "Barajas"
+      },
+      "subtotal_price": "179.96",
+      "total_tax": "32.39",
+      "total_price": "212.35",
+      "line_items": [
+        {
+          "id": 19501,
+          "sku": "SHP-PAN001-BEI-32",
+          "title": "Pantalon Chino Beige 32",
+          "quantity": 3,
+          "price": "59.99",
+          "total_discount": "0.00",
+          "line_total": "179.96"
+        }
+      ]
+    },
+    {
+      "id": 1000196,
+      "order_number": 196,
+      "created_at": "2026-04-17T14:18:34.344257-05:00",
+      "updated_at": "2026-04-19T14:18:34.344257-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 69243,
+        "email": null,
+        "first_name": "Camilo",
+        "last_name": "Cintrón"
+      },
+      "subtotal_price": "73.24",
+      "total_tax": "13.18",
+      "total_price": "86.42",
+      "line_items": [
+        {
+          "id": 19601,
+          "sku": "SHP-POL005-BLU-L",
+          "title": "Polo Deportivo Azul L",
+          "quantity": 1,
+          "price": "29.37",
+          "total_discount": "0.00",
+          "line_total": "29.37"
+        },
+        {
+          "id": 19602,
+          "sku": "SHP-CAM003-BEI-M",
+          "title": "Camisa Lino Beige M",
+          "quantity": 1,
+          "price": "54.84",
+          "total_discount": "10.97",
+          "line_total": "43.87"
+        }
+      ]
+    },
+    {
+      "id": 1000197,
+      "order_number": 197,
+      "created_at": "2026-04-19T05:40:54.344272-05:00",
+      "updated_at": "2026-04-19T05:40:54.344272-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 22208,
+        "email": "archuletahernan@example.com",
+        "first_name": "Camilo",
+        "last_name": "Calderón"
+      },
+      "subtotal_price": "41.64",
+      "total_tax": "7.50",
+      "total_price": "49.14",
+      "line_items": [
+        {
+          "id": 19701,
+          "sku": "SHP-ACC002-BRN",
+          "title": "Billetera Cuero Marron",
+          "quantity": 1,
+          "price": "41.64",
+          "total_discount": "0.00",
+          "line_total": "41.64"
+        }
+      ]
+    },
+    {
+      "id": 1000198,
+      "order_number": 198,
+      "created_at": "2026-04-06T08:47:06.344289-05:00",
+      "updated_at": "2026-04-06T13:47:06.344289-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 23051,
+        "email": "pablocervantez@example.com",
+        "first_name": "María Elena",
+        "last_name": "Nevárez"
+      },
+      "subtotal_price": "166.85",
+      "total_tax": "30.03",
+      "total_price": "196.88",
+      "line_items": [
+        {
+          "id": 19801,
+          "sku": "SHP-ACC004-GRY",
+          "title": "Mochila Urbana Gris",
+          "quantity": 1,
+          "price": "59.48",
+          "total_discount": "0.00",
+          "line_total": "59.48"
+        },
+        {
+          "id": 19802,
+          "sku": "SHP-ZAP001-WHT-42",
+          "title": "Zapatilla Urbana Blanca 42",
+          "quantity": 1,
+          "price": "78.17",
+          "total_discount": "15.63",
+          "line_total": "62.54"
+        },
+        {
+          "id": 19803,
+          "sku": "SHP-PAN005-GRN-32",
+          "title": "Bermuda Cargo Verde 32",
+          "quantity": 1,
+          "price": "44.83",
+          "total_discount": "0.00",
+          "line_total": "44.83"
+        }
+      ]
+    },
+    {
+      "id": 1000199,
+      "order_number": 199,
+      "created_at": "2026-04-22T23:10:33.344307-05:00",
+      "updated_at": "2026-04-23T15:10:33.344307-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 95196,
+        "email": "vvillagomez@example.net",
+        "first_name": "Cristal",
+        "last_name": "Pedroza"
+      },
+      "subtotal_price": "80.56",
+      "total_tax": "14.50",
+      "total_price": "95.06",
+      "line_items": [
+        {
+          "id": 19901,
+          "sku": "SHP-ACC006-BLK",
+          "title": "Reloj Deportivo Negro",
+          "quantity": 1,
+          "price": "89.51",
+          "total_discount": "8.95",
+          "line_total": "80.56"
+        }
+      ]
+    },
+    {
+      "id": 1000200,
+      "order_number": 200,
+      "created_at": "2026-04-10T10:53:21.344324-05:00",
+      "updated_at": "2026-04-11T15:53:21.344324-05:00",
+      "currency": "USD",
+      "financial_status": "paid",
+      "customer": {
+        "id": 66260,
+        "email": "saizsergio@example.com",
+        "first_name": "Gilberto",
+        "last_name": "Apodaca"
+      },
+      "subtotal_price": "34.45",
+      "total_tax": "6.20",
+      "total_price": "40.65",
+      "line_items": [
+        {
+          "id": 20001,
+          "sku": "shp-pan004-blk-m",
+          "title": "Short Deportivo Negro M",
+          "quantity": 1,
+          "price": "34.45",
+          "total_discount": "0.00",
+          "line_total": "34.45"
+        }
+      ]
+    }
+  ]
+}

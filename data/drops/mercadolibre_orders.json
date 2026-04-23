@@ -1,0 +1,5308 @@
+{
+  "results": [
+    {
+      "id": 2000001,
+      "date_created": "2026-04-21T21:13:43.414474-05:00",
+      "date_closed": "2026-04-23T05:13:43.414474-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 96.58,
+      "paid_amount": 96.58,
+      "buyer": {
+        "id": 89821,
+        "nickname": "liraclaudio",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP804272",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 76.58,
+          "full_unit_price": 76.58,
+          "sale_fee": 9.96
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000002,
+      "date_created": "2026-04-05T16:17:49.414701-05:00",
+      "date_closed": "2026-04-06T17:17:49.414701-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 322.12,
+      "paid_amount": 322.12,
+      "buyer": {
+        "id": 30115,
+        "nickname": "rendonrufino",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP513071",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 322.12,
+          "full_unit_price": 322.12,
+          "sale_fee": 41.88
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000003,
+      "date_created": "2026-03-30T16:17:22.414736-05:00",
+      "date_closed": "2026-03-30T20:17:22.414736-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 193.54,
+      "paid_amount": 193.54,
+      "buyer": {
+        "id": 34460,
+        "nickname": "sofia86",
+        "email": "ddel-valle@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP703097",
+            "seller_sku": "MLA-bermuda-cargo-verde-32",
+            "title": "Bermuda Cargo Verde 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 173.54,
+          "full_unit_price": 173.54,
+          "sale_fee": 22.56
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000004,
+      "date_created": "2026-04-09T09:05:37.414762-05:00",
+      "date_closed": "2026-04-09T16:05:37.414762-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 92.47,
+      "paid_amount": 92.47,
+      "buyer": {
+        "id": 91624,
+        "nickname": "nunezcristian",
+        "email": "cruznelly@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP997253",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 92.47,
+          "full_unit_price": 92.47,
+          "sale_fee": 12.02
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000005,
+      "date_created": "2026-04-07T16:10:53.414784-05:00",
+      "date_closed": "2026-04-08T10:10:53.414784-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 505.51,
+      "paid_amount": 505.51,
+      "buyer": {
+        "id": 58241,
+        "nickname": "juliazambrano",
+        "email": "rene26@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP989569",
+            "seller_sku": "MLA-bota-trekking-marron-43",
+            "title": "Bota Trekking Marron 43",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 485.51,
+          "full_unit_price": 485.51,
+          "sale_fee": 63.12
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000006,
+      "date_created": "2026-04-20T08:10:48.414805-05:00",
+      "date_closed": "2026-04-21T07:10:48.414805-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 806.98,
+      "paid_amount": 806.98,
+      "buyer": {
+        "id": 26666,
+        "nickname": "venegasanel",
+        "email": "anelde-jesus@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP916979",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 308.46,
+          "full_unit_price": 308.46,
+          "sale_fee": 40.1
+        },
+        {
+          "item": {
+            "id": "MLP596042",
+            "seller_sku": "MLA-bota-trekking-marron-43",
+            "title": "Bota Trekking Marron 43",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 498.52,
+          "full_unit_price": 498.52,
+          "sale_fee": 64.81
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000007,
+      "date_created": "2026-04-16T06:36:00.414828-05:00",
+      "date_closed": "2026-04-16T14:36:00.414828-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 232.15,
+      "paid_amount": 232.15,
+      "buyer": {
+        "id": 26519,
+        "nickname": "araceli89",
+        "email": "vieraursula@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP564599",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 232.15,
+          "full_unit_price": 232.15,
+          "sale_fee": 30.18
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000008,
+      "date_created": "2026-04-07T08:45:52.414847-05:00",
+      "date_closed": "2026-04-07T14:45:52.414847-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 336.72,
+      "paid_amount": 336.72,
+      "buyer": {
+        "id": 14378,
+        "nickname": "cabrerasilvia",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP837169",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 321.72,
+          "full_unit_price": 321.72,
+          "sale_fee": 41.82
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000009,
+      "date_created": "2026-04-04T02:40:53.414865-05:00",
+      "date_closed": "2026-04-05T01:40:53.414865-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 146.66,
+      "paid_amount": 146.66,
+      "buyer": {
+        "id": 16794,
+        "nickname": "ide-la-cruz",
+        "email": "mayaamador@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP714805",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 131.66,
+          "full_unit_price": 131.66,
+          "sale_fee": 17.12
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000010,
+      "date_created": "2026-04-14T15:23:48.414883-05:00",
+      "date_closed": "2026-04-15T16:23:48.414883-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 95.29,
+      "paid_amount": 95.29,
+      "buyer": {
+        "id": 39473,
+        "nickname": "jose-carlos29",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP332715",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 80.29,
+          "full_unit_price": 80.29,
+          "sale_fee": 10.44
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000011,
+      "date_created": "2026-04-19T02:18:39.414903-05:00",
+      "date_closed": "2026-04-20T01:18:39.414903-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 339.01,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 44536,
+        "nickname": "miguel-angel56",
+        "email": "rojaslinda@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP628125",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 319.01,
+          "full_unit_price": 319.01,
+          "sale_fee": 41.47
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000012,
+      "date_created": "2026-04-04T18:28:51.414922-05:00",
+      "date_closed": "2026-04-05T01:28:51.414922-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 89.77,
+      "paid_amount": 89.77,
+      "buyer": {
+        "id": 11931,
+        "nickname": "munizcarolina",
+        "email": "corralesrenato@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP693746",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 74.77,
+          "full_unit_price": 74.77,
+          "sale_fee": 9.72
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000013,
+      "date_created": "2026-04-08T13:55:38.414940-05:00",
+      "date_closed": "2026-04-09T20:55:38.414940-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 121.58,
+      "paid_amount": 121.58,
+      "buyer": {
+        "id": 45819,
+        "nickname": "telloluz",
+        "email": "cvillagomez@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP354320",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 111.58,
+          "full_unit_price": 111.58,
+          "sale_fee": 14.51
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000014,
+      "date_created": "2026-03-31T08:52:26.414958-05:00",
+      "date_closed": "2026-04-01T21:52:26.414958-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 119.99,
+      "paid_amount": 119.99,
+      "buyer": {
+        "id": 97615,
+        "nickname": "caraballocarlota",
+        "email": "adrianamiranda@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP317578",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 109.99,
+          "full_unit_price": 109.99,
+          "sale_fee": 14.3
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000015,
+      "date_created": "2026-04-02T04:46:54.414978-05:00",
+      "date_closed": "2026-04-03T17:46:54.414978-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 96.77,
+      "paid_amount": 96.77,
+      "buyer": {
+        "id": 19238,
+        "nickname": "whuerta",
+        "email": "ymolina@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP675916",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 76.77,
+          "full_unit_price": 76.77,
+          "sale_fee": 9.98
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000016,
+      "date_created": "2026-04-16T06:39:04.414996-05:00",
+      "date_closed": "2026-04-16T19:39:04.414996-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 79.09,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 35879,
+        "nickname": "cabanemiliano",
+        "email": "resquibel@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP768801",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 79.09,
+          "full_unit_price": 79.09,
+          "sale_fee": 10.28
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000017,
+      "date_created": "2026-03-29T16:16:30.415014-05:00",
+      "date_closed": "2026-03-31T00:16:30.415014-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 202.03,
+      "paid_amount": 202.03,
+      "buyer": {
+        "id": 28264,
+        "nickname": "mhurtado",
+        "email": "zmenchaca@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP411662",
+            "seller_sku": "MLA-CAMISA-OXFORD-AZUL-M",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 192.03,
+          "full_unit_price": 192.03,
+          "sale_fee": 24.96
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000018,
+      "date_created": "2026-04-07T14:24:01.415031-05:00",
+      "date_closed": "2026-04-08T20:24:01.415031-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 242.38,
+      "paid_amount": 242.38,
+      "buyer": {
+        "id": 33875,
+        "nickname": "escamillapablo",
+        "email": "elenaavalos@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP442384",
+            "seller_sku": "MLA-mochila-urbana-gris",
+            "title": "Mochila Urbana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 242.38,
+          "full_unit_price": 242.38,
+          "sale_fee": 31.51
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000019,
+      "date_created": "2026-04-12T02:37:45.415049-05:00",
+      "date_closed": "2026-04-14T00:37:45.415049-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 561.47,
+      "paid_amount": 561.47,
+      "buyer": {
+        "id": 34871,
+        "nickname": "helenagaribay",
+        "email": "elena36@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP417647",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 241.44,
+          "full_unit_price": 241.44,
+          "sale_fee": 31.39
+        },
+        {
+          "item": {
+            "id": "MLP287242",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 300.03,
+          "full_unit_price": 300.03,
+          "sale_fee": 39.0
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000020,
+      "date_created": "2026-03-28T23:41:56.415069-05:00",
+      "date_closed": "2026-03-29T19:41:56.415069-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 237.51,
+      "paid_amount": 237.51,
+      "buyer": {
+        "id": 75676,
+        "nickname": "anelreynoso",
+        "email": "calderaaldonza@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP882705",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 222.51,
+          "full_unit_price": 222.51,
+          "sale_fee": 28.93
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000021,
+      "date_created": "2026-04-16T06:37:20.415087-05:00",
+      "date_closed": "2026-04-18T00:37:20.415087-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 324.9,
+      "paid_amount": 324.9,
+      "buyer": {
+        "id": 23966,
+        "nickname": "velizjaime",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP560613",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 304.9,
+          "full_unit_price": 304.9,
+          "sale_fee": 39.64
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000022,
+      "date_created": "2026-03-31T09:08:03.415105-05:00",
+      "date_closed": "2026-04-01T02:08:03.415105-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 339.41,
+      "paid_amount": 339.41,
+      "buyer": {
+        "id": 53390,
+        "nickname": "felixaguayo",
+        "email": "gaonacarlota@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP832973",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 224.75,
+          "full_unit_price": 224.75,
+          "sale_fee": 29.22
+        },
+        {
+          "item": {
+            "id": "MLP254503",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 114.66,
+          "full_unit_price": 114.66,
+          "sale_fee": 14.91
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000023,
+      "date_created": "2026-03-27T18:08:42.415125-05:00",
+      "date_closed": "2026-03-29T10:08:42.415125-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 260.44,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 37720,
+        "nickname": "yfernandez",
+        "email": "acaraballo@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP996581",
+            "seller_sku": "MLA-camisa-oxford-azul-m",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 187.22,
+          "full_unit_price": 187.22,
+          "sale_fee": 24.34
+        },
+        {
+          "item": {
+            "id": "MLP831387",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 73.22,
+          "full_unit_price": 73.22,
+          "sale_fee": 9.52
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000024,
+      "date_created": "2026-04-21T20:18:54.415144-05:00",
+      "date_closed": "2026-04-22T07:18:54.415144-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 351.68,
+      "paid_amount": 351.68,
+      "buyer": {
+        "id": 91942,
+        "nickname": "vcarrion",
+        "email": "francisca82@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP626161",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 116.79,
+          "full_unit_price": 116.79,
+          "sale_fee": 15.18
+        },
+        {
+          "item": {
+            "id": "MLP335402",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 234.89,
+          "full_unit_price": 234.89,
+          "sale_fee": 30.54
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000025,
+      "date_created": "2026-03-26T22:10:36.415162-05:00",
+      "date_closed": "2026-03-28T03:10:36.415162-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 95.3,
+      "paid_amount": 95.3,
+      "buyer": {
+        "id": 67257,
+        "nickname": "federicofeliciano",
+        "email": "alvarobustamante@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP444878",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 95.3,
+          "full_unit_price": 95.3,
+          "sale_fee": 12.39
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000026,
+      "date_created": "2026-04-22T22:33:25.415180-05:00",
+      "date_closed": "2026-04-24T03:33:25.415180-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 183.99,
+      "paid_amount": 183.99,
+      "buyer": {
+        "id": 20151,
+        "nickname": "plaboy",
+        "email": "rosarioivonne@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP706685",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 183.99,
+          "full_unit_price": 183.99,
+          "sale_fee": 23.92
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000027,
+      "date_created": "2026-04-11T13:12:53.415202-05:00",
+      "date_closed": "2026-04-13T04:12:53.415202-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 418.2,
+      "paid_amount": 418.2,
+      "buyer": {
+        "id": 19445,
+        "nickname": "esparta03",
+        "email": "scornejo@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP620405",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 95.19,
+          "full_unit_price": 95.19,
+          "sale_fee": 12.37
+        },
+        {
+          "item": {
+            "id": "MLP207322",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 303.01,
+          "full_unit_price": 303.01,
+          "sale_fee": 39.39
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000028,
+      "date_created": "2026-04-21T21:50:11.415227-05:00",
+      "date_closed": "2026-04-22T20:50:11.415227-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 185.31,
+      "paid_amount": 185.31,
+      "buyer": {
+        "id": 85784,
+        "nickname": "uluna",
+        "email": "tquiroz@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP682309",
+            "seller_sku": "MLA-camisa-oxford-blanca-l",
+            "title": "Camisa Oxford Blanca L",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 185.31,
+          "full_unit_price": 185.31,
+          "sale_fee": 24.09
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000029,
+      "date_created": "2026-04-03T02:21:20.415245-05:00",
+      "date_closed": "2026-04-04T13:21:20.415245-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 343.37,
+      "paid_amount": 343.37,
+      "buyer": {
+        "id": 49120,
+        "nickname": "nulloa",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP742349",
+            "seller_sku": " MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 333.37,
+          "full_unit_price": 333.37,
+          "sale_fee": 43.34
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000030,
+      "date_created": "2026-04-22T04:24:09.415262-05:00",
+      "date_closed": "2026-04-23T15:24:09.415262-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 98.82,
+      "paid_amount": 98.82,
+      "buyer": {
+        "id": 26235,
+        "nickname": "gallardosessa",
+        "email": "samuelalvarado@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP891177",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 98.82,
+          "full_unit_price": 98.82,
+          "sale_fee": 12.85
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000031,
+      "date_created": "2026-04-01T23:31:41.415280-05:00",
+      "date_closed": "2026-04-03T06:31:41.415280-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 130.53,
+      "paid_amount": 130.53,
+      "buyer": {
+        "id": 32743,
+        "nickname": "buenoursula",
+        "email": "elenafajardo@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP295878",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 115.53,
+          "full_unit_price": 115.53,
+          "sale_fee": 15.02
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000032,
+      "date_created": "2026-04-10T19:38:22.415299-05:00",
+      "date_closed": "2026-04-12T04:38:22.415299-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 120.56,
+      "paid_amount": 120.56,
+      "buyer": {
+        "id": 76995,
+        "nickname": "hidalgodario",
+        "email": "arios@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP435937",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 100.56,
+          "full_unit_price": 100.56,
+          "sale_fee": 13.07
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000033,
+      "date_created": "2026-03-31T08:51:26.415317-05:00",
+      "date_closed": "2026-03-31T10:51:26.415317-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 79.08,
+      "paid_amount": 79.08,
+      "buyer": {
+        "id": 92748,
+        "nickname": "monroymaria-jose",
+        "email": "fjaramillo@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP505341",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 79.08,
+          "full_unit_price": 79.08,
+          "sale_fee": 10.28
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000034,
+      "date_created": "2026-04-14T12:31:31.415334-05:00",
+      "date_closed": "2026-04-16T02:31:31.415334-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 356.17,
+      "paid_amount": 356.17,
+      "buyer": {
+        "id": 11001,
+        "nickname": "medinajorge",
+        "email": "jose16@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP642806",
+            "seller_sku": "MLA-reloj-deportivo-negro",
+            "title": "Reloj Deportivo Negro",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 341.17,
+          "full_unit_price": 341.17,
+          "sale_fee": 44.35
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000035,
+      "date_created": "2026-03-27T18:08:39.415352-05:00",
+      "date_closed": "2026-03-28T02:08:39.415352-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 330.69,
+      "paid_amount": 330.69,
+      "buyer": {
+        "id": 69303,
+        "nickname": "tmena",
+        "email": "evarivas@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP625960",
+            "seller_sku": "MLA-mocasin-marron-42",
+            "title": "Mocasin Marron 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 330.69,
+          "full_unit_price": 330.69,
+          "sale_fee": 42.99
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000036,
+      "date_created": "2026-04-16T13:57:03.415370-05:00",
+      "date_closed": "2026-04-16T16:57:03.415370-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 93.81,
+      "paid_amount": 93.81,
+      "buyer": {
+        "id": 31876,
+        "nickname": "hermelinda63",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP375546",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 73.81,
+          "full_unit_price": 73.81,
+          "sale_fee": 9.6
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000037,
+      "date_created": "2026-03-25T18:24:44.415387-05:00",
+      "date_closed": "2026-03-26T00:24:44.415387-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 207.48,
+      "paid_amount": 207.48,
+      "buyer": {
+        "id": 97780,
+        "nickname": "cristalgallardo",
+        "email": "diegovillalobos@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP172357",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 197.48,
+          "full_unit_price": 197.48,
+          "sale_fee": 25.67
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000038,
+      "date_created": "2026-04-18T10:17:25.415405-05:00",
+      "date_closed": "2026-04-20T01:17:25.415405-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 261.98,
+      "paid_amount": 261.98,
+      "buyer": {
+        "id": 87331,
+        "nickname": "franciscasanabria",
+        "email": "ltamez@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP164168",
+            "seller_sku": "MLA-hoodie-gris-l",
+            "title": "Hoodie Gris L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 246.98,
+          "full_unit_price": 246.98,
+          "sale_fee": 32.11
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000039,
+      "date_created": "2026-03-27T06:29:15.415422-05:00",
+      "date_closed": "2026-03-29T04:29:15.415422-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 414.08,
+      "paid_amount": 414.08,
+      "buyer": {
+        "id": 93578,
+        "nickname": "serratojos",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP120336",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 137.39,
+          "full_unit_price": 137.39,
+          "sale_fee": 17.86
+        },
+        {
+          "item": {
+            "id": "MLP779480",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 261.69,
+          "full_unit_price": 261.69,
+          "sale_fee": 34.02
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000040,
+      "date_created": "2026-04-09T08:46:25.415445-05:00",
+      "date_closed": "2026-04-10T05:46:25.415445-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 213.1,
+      "paid_amount": 213.1,
+      "buyer": {
+        "id": 40162,
+        "nickname": "barbara29",
+        "email": "yavalos@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP645026",
+            "seller_sku": "MLA-camisa-lino-beige-m",
+            "title": "Camisa Lino Beige M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 213.1,
+          "full_unit_price": 213.1,
+          "sale_fee": 27.7
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000041,
+      "date_created": "2026-04-08T07:09:12.415504-05:00",
+      "date_closed": "2026-04-08T11:09:12.415504-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 341.42,
+      "paid_amount": 341.42,
+      "buyer": {
+        "id": 14215,
+        "nickname": "jrico",
+        "email": "ptorres@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP142606",
+            "seller_sku": "mla-bufanda-lana-gris",
+            "title": "Bufanda Lana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 92.67,
+          "full_unit_price": 92.67,
+          "sale_fee": 12.05
+        },
+        {
+          "item": {
+            "id": "MLP712800",
+            "seller_sku": "MLA-hoodie-gris-l",
+            "title": "Hoodie Gris L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 238.75,
+          "full_unit_price": 238.75,
+          "sale_fee": 31.04
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000042,
+      "date_created": "2026-04-12T04:54:10.415524-05:00",
+      "date_closed": "2026-04-12T20:54:10.415524-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 177.18,
+      "paid_amount": 177.18,
+      "buyer": {
+        "id": 25669,
+        "nickname": "ruizmauricio",
+        "email": "loerabianca@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP697383",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 2,
+          "unit_price": 78.59,
+          "full_unit_price": 78.59,
+          "sale_fee": 20.43
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000043,
+      "date_created": "2026-04-01T18:20:49.415542-05:00",
+      "date_closed": "2026-04-03T14:20:49.415542-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 240.34,
+      "paid_amount": 240.34,
+      "buyer": {
+        "id": 94478,
+        "nickname": "marisolbrito",
+        "email": "jroque@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP882081",
+            "seller_sku": "MLA-camisa-lino-beige-m",
+            "title": "Camisa Lino Beige M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 220.34,
+          "full_unit_price": 220.34,
+          "sale_fee": 28.64
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000044,
+      "date_created": "2026-04-05T13:19:55.415559-05:00",
+      "date_closed": "2026-04-06T03:19:55.415559-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 787.9,
+      "paid_amount": 787.9,
+      "buyer": {
+        "id": 22326,
+        "nickname": "abraham14",
+        "email": "alma18@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP469268",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 2,
+          "unit_price": 93.76,
+          "full_unit_price": 93.76,
+          "sale_fee": 24.38
+        },
+        {
+          "item": {
+            "id": "MLP893395",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 600.38,
+          "full_unit_price": 600.38,
+          "sale_fee": 78.05
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000045,
+      "date_created": "2026-04-01T15:09:10.415577-05:00",
+      "date_closed": "2026-04-02T12:09:10.415577-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 457.36,
+      "paid_amount": 457.36,
+      "buyer": {
+        "id": 63026,
+        "nickname": "agustinmoya",
+        "email": "irmacasillas@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP636998",
+            "seller_sku": "MLA-mochila-urbana-gris",
+            "title": "Mochila Urbana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 236.55,
+          "full_unit_price": 236.55,
+          "sale_fee": 30.75
+        },
+        {
+          "item": {
+            "id": "MLP272204",
+            "seller_sku": "MLA-camisa-oxford-azul-m ",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 200.81,
+          "full_unit_price": 200.81,
+          "sale_fee": 26.11
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000046,
+      "date_created": "2026-04-15T04:26:48.415597-05:00",
+      "date_closed": "2026-04-16T16:26:48.415597-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 89.02,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 93467,
+        "nickname": "abahena",
+        "email": "gaonabernardo@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP975571",
+            "seller_sku": " MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 79.02,
+          "full_unit_price": 79.02,
+          "sale_fee": 10.27
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000047,
+      "date_created": "2026-04-07T17:19:12.415614-05:00",
+      "date_closed": "2026-04-09T08:19:12.415614-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 730.02,
+      "paid_amount": 730.02,
+      "buyer": {
+        "id": 60412,
+        "nickname": "felipearias",
+        "email": "harenas@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP747059",
+            "seller_sku": "MLA-reloj-deportivo-negro",
+            "title": "Reloj Deportivo Negro",
+            "category_id": "Accesorios"
+          },
+          "quantity": 2,
+          "unit_price": 355.01,
+          "full_unit_price": 355.01,
+          "sale_fee": 92.3
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000048,
+      "date_created": "2026-04-09T21:41:14.415631-05:00",
+      "date_closed": "2026-04-09T22:41:14.415631-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 249.56,
+      "paid_amount": 249.56,
+      "buyer": {
+        "id": 13215,
+        "nickname": "aldonza19",
+        "email": "francisco-javierledesma@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP585168",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 135.26,
+          "full_unit_price": 135.26,
+          "sale_fee": 17.58
+        },
+        {
+          "item": {
+            "id": "MLP693086",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 99.3,
+          "full_unit_price": 99.3,
+          "sale_fee": 12.91
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000049,
+      "date_created": "2026-04-15T20:11:38.415650-05:00",
+      "date_closed": "2026-04-17T01:11:38.415650-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 191.69,
+      "paid_amount": 191.69,
+      "buyer": {
+        "id": 78681,
+        "nickname": "dariomayorga",
+        "email": "avela@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP624518",
+            "seller_sku": "MLA-bermuda-cargo-verde-32",
+            "title": "Bermuda Cargo Verde 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 171.69,
+          "full_unit_price": 171.69,
+          "sale_fee": 22.32
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000050,
+      "date_created": "2026-03-27T15:46:33.415672-05:00",
+      "date_closed": "2026-03-29T01:46:33.415672-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 196.3,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 11642,
+        "nickname": "dmendez",
+        "email": "rosa37@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP424254",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 2,
+          "unit_price": 93.15,
+          "full_unit_price": 93.15,
+          "sale_fee": 24.22
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000051,
+      "date_created": "2026-04-20T05:59:39.415690-05:00",
+      "date_closed": "2026-04-20T07:59:39.415690-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 257.46,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 26023,
+        "nickname": "halfaro",
+        "email": "marcosapodaca@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP824683",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 73.77,
+          "full_unit_price": 73.77,
+          "sale_fee": 9.59
+        },
+        {
+          "item": {
+            "id": "MLP392401",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 183.69,
+          "full_unit_price": 183.69,
+          "sale_fee": 23.88
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000052,
+      "date_created": "2026-03-25T07:06:16.415710-05:00",
+      "date_closed": "2026-03-25T23:06:16.415710-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 339.28,
+      "paid_amount": 339.28,
+      "buyer": {
+        "id": 53756,
+        "nickname": "brunobenitez",
+        "email": "dbernal@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP452192",
+            "seller_sku": " MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 339.28,
+          "full_unit_price": 339.28,
+          "sale_fee": 44.11
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000053,
+      "date_created": "2026-04-04T12:05:37.415728-05:00",
+      "date_closed": "2026-04-05T01:05:37.415728-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 268.33,
+      "paid_amount": 268.33,
+      "buyer": {
+        "id": 35664,
+        "nickname": "almontesonia",
+        "email": "vanesa88@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP424579",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 147.13,
+          "full_unit_price": 147.13,
+          "sale_fee": 19.13
+        },
+        {
+          "item": {
+            "id": "MLP736850",
+            "seller_sku": "MLA-correa-cuero-negra",
+            "title": "Correa Cuero Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 111.2,
+          "full_unit_price": 111.2,
+          "sale_fee": 14.46
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000054,
+      "date_created": "2026-03-26T00:04:12.415749-05:00",
+      "date_closed": "2026-03-26T12:04:12.415749-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 78.99,
+      "paid_amount": 78.99,
+      "buyer": {
+        "id": 13204,
+        "nickname": "miriamalba",
+        "email": "humbertonavarrete@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP870749",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 78.99,
+          "full_unit_price": 78.99,
+          "sale_fee": 10.27
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000055,
+      "date_created": "2026-04-18T02:41:43.415767-05:00",
+      "date_closed": "2026-04-19T22:41:43.415767-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 156.86,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 28513,
+        "nickname": "ibriseno",
+        "email": "solorzanorufino@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP869621",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 146.86,
+          "full_unit_price": 146.86,
+          "sale_fee": 19.09
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000056,
+      "date_created": "2026-04-17T19:38:28.415784-05:00",
+      "date_closed": "2026-04-19T12:38:28.415784-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 78.92,
+      "paid_amount": 78.92,
+      "buyer": {
+        "id": 45960,
+        "nickname": "preciadoalfonso",
+        "email": "fierrovictor@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP337941",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 78.92,
+          "full_unit_price": 78.92,
+          "sale_fee": 10.26
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000057,
+      "date_created": "2026-04-01T06:55:09.415802-05:00",
+      "date_closed": "2026-04-02T03:55:09.415802-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 235.37,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 81975,
+        "nickname": "bsaucedo",
+        "email": "ricardo55@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP298581",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 220.37,
+          "full_unit_price": 220.37,
+          "sale_fee": 28.65
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000058,
+      "date_created": "2026-04-22T20:11:08.415818-05:00",
+      "date_closed": "2026-04-24T20:11:08.415818-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 115.58,
+      "paid_amount": 115.58,
+      "buyer": {
+        "id": 49038,
+        "nickname": "btorrez",
+        "email": "bbueno@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP852227",
+            "seller_sku": "MLA-correa-cuero-negra",
+            "title": "Correa Cuero Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 115.58,
+          "full_unit_price": 115.58,
+          "sale_fee": 15.03
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000059,
+      "date_created": "2026-04-06T15:59:14.415835-05:00",
+      "date_closed": "2026-04-07T20:59:14.415835-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 248.76,
+      "paid_amount": 248.76,
+      "buyer": {
+        "id": 43921,
+        "nickname": "bahenaalejandra",
+        "email": "qjuarez@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP855095",
+            "seller_sku": "MLA-mochila-urbana-gris",
+            "title": "Mochila Urbana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 233.76,
+          "full_unit_price": 233.76,
+          "sale_fee": 30.39
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000060,
+      "date_created": "2026-04-05T03:32:58.415852-05:00",
+      "date_closed": "2026-04-07T02:32:58.415852-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 599.56,
+      "paid_amount": 599.56,
+      "buyer": {
+        "id": 64873,
+        "nickname": "aldonza57",
+        "email": "alonso16@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP979793",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 579.56,
+          "full_unit_price": 579.56,
+          "sale_fee": 75.34
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000061,
+      "date_created": "2026-04-21T00:41:40.415868-05:00",
+      "date_closed": "2026-04-22T09:41:40.415868-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 201.69,
+      "paid_amount": 201.69,
+      "buyer": {
+        "id": 55688,
+        "nickname": "humberto15",
+        "email": "galvezpatricia@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP462170",
+            "seller_sku": "MLA-camisa-oxford-azul-m",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 201.69,
+          "full_unit_price": 201.69,
+          "sale_fee": 26.22
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000062,
+      "date_created": "2026-03-25T21:37:36.415886-05:00",
+      "date_closed": "2026-03-26T01:37:36.415886-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 271.83,
+      "paid_amount": 271.83,
+      "buyer": {
+        "id": 11713,
+        "nickname": "xmenendez",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP513158",
+            "seller_sku": "MLA-correa-cuero-negra",
+            "title": "Correa Cuero Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 115.33,
+          "full_unit_price": 115.33,
+          "sale_fee": 14.99
+        },
+        {
+          "item": {
+            "id": "MLP900144",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 2,
+          "unit_price": 78.25,
+          "full_unit_price": 78.25,
+          "sale_fee": 20.35
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000063,
+      "date_created": "2026-03-27T06:06:56.415905-05:00",
+      "date_closed": "2026-03-28T23:06:56.415905-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 80.17,
+      "paid_amount": 80.17,
+      "buyer": {
+        "id": 23347,
+        "nickname": "nadia21",
+        "email": "bpineda@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP392864",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 80.17,
+          "full_unit_price": 80.17,
+          "sale_fee": 10.42
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000064,
+      "date_created": "2026-03-28T19:23:52.415922-05:00",
+      "date_closed": "2026-03-30T10:23:52.415922-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 377.66,
+      "paid_amount": 377.66,
+      "buyer": {
+        "id": 65338,
+        "nickname": "estelazamudio",
+        "email": "francisco-javier76@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP456714",
+            "seller_sku": "MLA-camisa-oxford-blanca-l",
+            "title": "Camisa Oxford Blanca L",
+            "category_id": "Camisas"
+          },
+          "quantity": 2,
+          "unit_price": 188.83,
+          "full_unit_price": 188.83,
+          "sale_fee": 49.1
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000064,
+      "date_created": "2026-03-28T19:23:52.415922-05:00",
+      "date_closed": "2026-03-30T10:23:52.415922-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 377.66,
+      "paid_amount": 377.66,
+      "buyer": {
+        "id": 65338,
+        "nickname": "estelazamudio",
+        "email": "francisco-javier76@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP456714",
+            "seller_sku": "MLA-camisa-oxford-blanca-l",
+            "title": "Camisa Oxford Blanca L",
+            "category_id": "Camisas"
+          },
+          "quantity": 2,
+          "unit_price": 188.83,
+          "full_unit_price": 188.83,
+          "sale_fee": 49.1
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000065,
+      "date_created": "2026-03-26T16:51:40.415946-05:00",
+      "date_closed": "2026-03-27T03:51:40.415946-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 488.79,
+      "paid_amount": 488.79,
+      "buyer": {
+        "id": 17022,
+        "nickname": "ines41",
+        "email": "eurias@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP653881",
+            "seller_sku": " MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 116.48,
+          "full_unit_price": 116.48,
+          "sale_fee": 15.14
+        },
+        {
+          "item": {
+            "id": "MLP965336",
+            "seller_sku": "MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 357.31,
+          "full_unit_price": 357.31,
+          "sale_fee": 46.45
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000066,
+      "date_created": "2026-03-29T14:28:26.415965-05:00",
+      "date_closed": "2026-03-31T07:28:26.415965-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 218.43,
+      "paid_amount": 218.43,
+      "buyer": {
+        "id": 31328,
+        "nickname": "virginia66",
+        "email": "alonsosusana@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP985816",
+            "seller_sku": "MLA-camisa-oxford-blanca-l",
+            "title": "Camisa Oxford Blanca L",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 198.43,
+          "full_unit_price": 198.43,
+          "sale_fee": 25.8
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000067,
+      "date_created": "2026-04-12T05:50:31.415983-05:00",
+      "date_closed": "2026-04-13T22:50:31.415983-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 237.48,
+      "paid_amount": 237.48,
+      "buyer": {
+        "id": 62680,
+        "nickname": "gregorioespinal",
+        "email": "sofia52@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP590587",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 2,
+          "unit_price": 113.74,
+          "full_unit_price": 113.74,
+          "sale_fee": 29.57
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000068,
+      "date_created": "2026-04-09T06:55:15.416000-05:00",
+      "date_closed": "2026-04-10T12:55:15.416000-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 113.84,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 86826,
+        "nickname": "lpedraza",
+        "email": "jimineztania@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP214931",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 113.84,
+          "full_unit_price": 113.84,
+          "sale_fee": 14.8
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000069,
+      "date_created": "2026-04-01T22:25:20.416018-05:00",
+      "date_closed": "2026-04-03T16:25:20.416018-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 285.82,
+      "paid_amount": 285.82,
+      "buyer": {
+        "id": 80094,
+        "nickname": "hernan90",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP947667",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 265.82,
+          "full_unit_price": 265.82,
+          "sale_fee": 34.56
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000070,
+      "date_created": "2026-04-09T14:15:59.416036-05:00",
+      "date_closed": "2026-04-09T22:15:59.416036-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 208.81,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 89590,
+        "nickname": "carlaregalado",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP702666",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 74.1,
+          "full_unit_price": 74.1,
+          "sale_fee": 9.63
+        },
+        {
+          "item": {
+            "id": "MLP789032",
+            "seller_sku": " MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 134.71,
+          "full_unit_price": 134.71,
+          "sale_fee": 17.51
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000071,
+      "date_created": "2026-03-27T15:56:54.416055-05:00",
+      "date_closed": "2026-03-29T01:56:54.416055-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 448.97,
+      "paid_amount": 448.97,
+      "buyer": {
+        "id": 17967,
+        "nickname": "jaquezfrida",
+        "email": "renatoquintana@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP301112",
+            "seller_sku": " MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 360.16,
+          "full_unit_price": 360.16,
+          "sale_fee": 46.82
+        },
+        {
+          "item": {
+            "id": "MLP181978",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 78.81,
+          "full_unit_price": 78.81,
+          "sale_fee": 10.25
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000072,
+      "date_created": "2026-04-19T15:14:01.416075-05:00",
+      "date_closed": "2026-04-20T08:14:01.416075-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 362.06,
+      "paid_amount": 362.06,
+      "buyer": {
+        "id": 54516,
+        "nickname": "de-la-cruzaurelio",
+        "email": "iluna@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP902946",
+            "seller_sku": "MLA-reloj-deportivo-negro",
+            "title": "Reloj Deportivo Negro",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 342.06,
+          "full_unit_price": 342.06,
+          "sale_fee": 44.47
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000073,
+      "date_created": "2026-03-25T04:50:18.416092-05:00",
+      "date_closed": "2026-03-27T00:50:18.416092-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 138.06,
+      "paid_amount": 138.06,
+      "buyer": {
+        "id": 80595,
+        "nickname": "oliviamurillo",
+        "email": "nietosergio@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP424988",
+            "seller_sku": "MLA-polo-deportivo-azul-l ",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 118.06,
+          "full_unit_price": 118.06,
+          "sale_fee": 15.35
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000074,
+      "date_created": "2026-04-05T10:47:59.416110-05:00",
+      "date_closed": "2026-04-07T10:47:59.416110-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 223.88,
+      "paid_amount": 223.88,
+      "buyer": {
+        "id": 68669,
+        "nickname": "ariadna79",
+        "email": "carmonacristian@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP934988",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 129.55,
+          "full_unit_price": 129.55,
+          "sale_fee": 16.84
+        },
+        {
+          "item": {
+            "id": "MLP831632",
+            "seller_sku": "MLA-bufanda-lana-gris",
+            "title": "Bufanda Lana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 94.33,
+          "full_unit_price": 94.33,
+          "sale_fee": 12.26
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000075,
+      "date_created": "2026-04-05T14:47:42.416128-05:00",
+      "date_closed": "2026-04-06T19:47:42.416128-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 137.44,
+      "paid_amount": 137.44,
+      "buyer": {
+        "id": 88524,
+        "nickname": "spelayo",
+        "email": "georgina06@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP463362",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 137.44,
+          "full_unit_price": 137.44,
+          "sale_fee": 17.87
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000076,
+      "date_created": "2026-03-29T10:24:31.416144-05:00",
+      "date_closed": "2026-03-29T12:24:31.416144-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 593.06,
+      "paid_amount": 593.06,
+      "buyer": {
+        "id": 10343,
+        "nickname": "svillegas",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP180752",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 578.06,
+          "full_unit_price": 578.06,
+          "sale_fee": 75.15
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000077,
+      "date_created": "2026-04-18T07:13:43.416161-05:00",
+      "date_closed": "2026-04-20T03:13:43.416161-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 319.93,
+      "paid_amount": 319.93,
+      "buyer": {
+        "id": 42750,
+        "nickname": "dulcemiranda",
+        "email": "trevinomaria@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP965624",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 319.93,
+          "full_unit_price": 319.93,
+          "sale_fee": 41.59
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000078,
+      "date_created": "2026-04-06T02:08:15.416180-05:00",
+      "date_closed": "2026-04-06T17:08:15.416180-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 437.54,
+      "paid_amount": 437.54,
+      "buyer": {
+        "id": 47580,
+        "nickname": "olivarezisrael",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP155438",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 269.38,
+          "full_unit_price": 269.38,
+          "sale_fee": 35.02
+        },
+        {
+          "item": {
+            "id": "MLP755385",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 158.16,
+          "full_unit_price": 158.16,
+          "sale_fee": 20.56
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000079,
+      "date_created": "2026-04-20T07:52:19.416199-05:00",
+      "date_closed": "2026-04-20T11:52:19.416199-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 135.29,
+      "paid_amount": 135.29,
+      "buyer": {
+        "id": 89231,
+        "nickname": "lurena",
+        "email": "omendez@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP586910",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 120.29,
+          "full_unit_price": 120.29,
+          "sale_fee": 15.64
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000080,
+      "date_created": "2026-04-10T21:29:14.416215-05:00",
+      "date_closed": "2026-04-11T10:29:14.416215-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 208.91,
+      "paid_amount": 208.91,
+      "buyer": {
+        "id": 29338,
+        "nickname": "indiragodinez",
+        "email": "sbotello@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP990796",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 113.3,
+          "full_unit_price": 113.3,
+          "sale_fee": 14.73
+        },
+        {
+          "item": {
+            "id": "MLP503360",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 75.61,
+          "full_unit_price": 75.61,
+          "sale_fee": 9.83
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000081,
+      "date_created": "2026-04-15T05:35:54.416234-05:00",
+      "date_closed": "2026-04-16T02:35:54.416234-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 173.32,
+      "paid_amount": 173.32,
+      "buyer": {
+        "id": 36072,
+        "nickname": "rosarioitzel",
+        "email": "ocasioalfredo@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP133583",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 158.32,
+          "full_unit_price": 158.32,
+          "sale_fee": 20.58
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000082,
+      "date_created": "2026-04-12T04:48:29.416252-05:00",
+      "date_closed": "2026-04-13T01:48:29.416252-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 311.42,
+      "paid_amount": 311.42,
+      "buyer": {
+        "id": 54653,
+        "nickname": "itzel34",
+        "email": "orellanarocio@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP741145",
+            "seller_sku": "MLA-correa-cuero-negra",
+            "title": "Correa Cuero Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 113.35,
+          "full_unit_price": 113.35,
+          "sale_fee": 14.74
+        },
+        {
+          "item": {
+            "id": "MLP685963",
+            "seller_sku": "MLA-camisa-oxford-blanca-l",
+            "title": "Camisa Oxford Blanca L",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 198.07,
+          "full_unit_price": 198.07,
+          "sale_fee": 25.75
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000083,
+      "date_created": "2026-03-30T05:06:58.416272-05:00",
+      "date_closed": "2026-03-31T08:06:58.416272-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 207.62,
+      "paid_amount": 207.62,
+      "buyer": {
+        "id": 79700,
+        "nickname": "ana-luisa07",
+        "email": "pcastellanos@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP677799",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 192.62,
+          "full_unit_price": 192.62,
+          "sale_fee": 25.04
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000084,
+      "date_created": "2026-04-06T18:08:55.416289-05:00",
+      "date_closed": "2026-04-06T21:08:55.416289-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 198.1,
+      "paid_amount": 198.1,
+      "buyer": {
+        "id": 59615,
+        "nickname": "ana-luisavargas",
+        "email": "fmontero@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP777800",
+            "seller_sku": "MLA-bufanda-lana-gris",
+            "title": "Bufanda Lana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 2,
+          "unit_price": 91.55,
+          "full_unit_price": 91.55,
+          "sale_fee": 23.8
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000085,
+      "date_created": "2026-04-10T07:58:02.416306-05:00",
+      "date_closed": "2026-04-11T03:58:02.416306-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 723.67,
+      "paid_amount": 723.67,
+      "buyer": {
+        "id": 60884,
+        "nickname": "carlaleal",
+        "email": "regaladobeatriz@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP792133",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 591.71,
+          "full_unit_price": 591.71,
+          "sale_fee": 76.92
+        },
+        {
+          "item": {
+            "id": "MLP692706",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 131.96,
+          "full_unit_price": 131.96,
+          "sale_fee": 17.15
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000086,
+      "date_created": "2026-04-21T10:03:09.416325-05:00",
+      "date_closed": "2026-04-23T03:03:09.416325-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 115.8,
+      "paid_amount": 115.8,
+      "buyer": {
+        "id": 13073,
+        "nickname": "mercedes96",
+        "email": "victor51@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP314610",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 115.8,
+          "full_unit_price": 115.8,
+          "sale_fee": 15.05
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000087,
+      "date_created": "2026-04-07T18:31:02.416341-05:00",
+      "date_closed": "2026-04-08T12:31:02.416341-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 194.66,
+      "paid_amount": 194.66,
+      "buyer": {
+        "id": 61121,
+        "nickname": "fabiola59",
+        "email": "krodarte@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP898987",
+            "seller_sku": "MLA-bermuda-cargo-verde-32",
+            "title": "Bermuda Cargo Verde 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 174.66,
+          "full_unit_price": 174.66,
+          "sale_fee": 22.71
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000088,
+      "date_created": "2026-03-26T16:44:31.416358-05:00",
+      "date_closed": "2026-03-26T22:44:31.416358-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 106.38,
+      "paid_amount": 106.38,
+      "buyer": {
+        "id": 28537,
+        "nickname": "francobarbara",
+        "email": "mlozada@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP429847",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 96.38,
+          "full_unit_price": 96.38,
+          "sale_fee": 12.53
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000089,
+      "date_created": "2026-03-27T09:30:01.416376-05:00",
+      "date_closed": "2026-03-29T05:30:01.416376-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 262.21,
+      "paid_amount": 262.21,
+      "buyer": {
+        "id": 53243,
+        "nickname": "vdavila",
+        "email": "montoyadaniel@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP486907",
+            "seller_sku": "MLA-mochila-urbana-gris",
+            "title": "Mochila Urbana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 242.21,
+          "full_unit_price": 242.21,
+          "sale_fee": 31.49
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000090,
+      "date_created": "2026-04-21T12:04:40.416393-05:00",
+      "date_closed": "2026-04-23T04:04:40.416393-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 106.54,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 70098,
+        "nickname": "pguardado",
+        "email": "urrutiaitzel@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP796945",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 96.54,
+          "full_unit_price": 96.54,
+          "sale_fee": 12.55
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000091,
+      "date_created": "2026-04-21T08:37:40.416410-05:00",
+      "date_closed": "2026-04-22T14:37:40.416410-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 447.5,
+      "paid_amount": 447.5,
+      "buyer": {
+        "id": 34515,
+        "nickname": "david76",
+        "email": "maytetrevino@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP771443",
+            "seller_sku": "MLA-bermuda-cargo-verde-32",
+            "title": "Bermuda Cargo Verde 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 165.63,
+          "full_unit_price": 165.63,
+          "sale_fee": 21.53
+        },
+        {
+          "item": {
+            "id": "MLP894368",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 261.87,
+          "full_unit_price": 261.87,
+          "sale_fee": 34.04
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000092,
+      "date_created": "2026-04-20T19:52:24.416428-05:00",
+      "date_closed": "2026-04-22T03:52:24.416428-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 697.13,
+      "paid_amount": 697.13,
+      "buyer": {
+        "id": 56472,
+        "nickname": "renteriaveronica",
+        "email": "pedrazaabraham@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP517155",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 78.14,
+          "full_unit_price": 78.14,
+          "sale_fee": 10.16
+        },
+        {
+          "item": {
+            "id": "MLP336597",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 598.99,
+          "full_unit_price": 598.99,
+          "sale_fee": 77.87
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000093,
+      "date_created": "2026-03-28T10:05:05.416448-05:00",
+      "date_closed": "2026-03-29T08:05:05.416448-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 95.55,
+      "paid_amount": 95.55,
+      "buyer": {
+        "id": 78799,
+        "nickname": "rafael74",
+        "email": "isabelgaytan@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP310366",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 80.55,
+          "full_unit_price": 80.55,
+          "sale_fee": 10.47
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000094,
+      "date_created": "2026-04-10T18:56:50.416465-05:00",
+      "date_closed": "2026-04-12T06:56:50.416465-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 98.22,
+      "paid_amount": 98.22,
+      "buyer": {
+        "id": 60130,
+        "nickname": "nurbina",
+        "email": "olga96@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP233319",
+            "seller_sku": "MLA-bufanda-lana-gris",
+            "title": "Bufanda Lana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 98.22,
+          "full_unit_price": 98.22,
+          "sale_fee": 12.77
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000095,
+      "date_created": "2026-04-12T10:46:21.416481-05:00",
+      "date_closed": "2026-04-13T17:46:21.416481-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 200.53,
+      "paid_amount": 200.53,
+      "buyer": {
+        "id": 67703,
+        "nickname": "gonzalo52",
+        "email": "omar77@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP340609",
+            "seller_sku": "MLA-camisa-oxford-azul-m",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 200.53,
+          "full_unit_price": 200.53,
+          "sale_fee": 26.07
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000096,
+      "date_created": "2026-04-05T20:21:20.416497-05:00",
+      "date_closed": "2026-04-07T10:21:20.416497-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 258.1,
+      "paid_amount": 258.1,
+      "buyer": {
+        "id": 79112,
+        "nickname": "vallescristobal",
+        "email": "urenamarco-antonio@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP991547",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 130.8,
+          "full_unit_price": 130.8,
+          "sale_fee": 17.0
+        },
+        {
+          "item": {
+            "id": "MLP571652",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 112.3,
+          "full_unit_price": 112.3,
+          "sale_fee": 14.6
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000097,
+      "date_created": "2026-04-10T20:34:08.416517-05:00",
+      "date_closed": "2026-04-12T15:34:08.416517-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 78.45,
+      "paid_amount": 78.45,
+      "buyer": {
+        "id": 31289,
+        "nickname": "vanegashernan",
+        "email": "curielnoemi@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP720416",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 78.45,
+          "full_unit_price": 78.45,
+          "sale_fee": 10.2
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000098,
+      "date_created": "2026-04-12T18:19:44.416534-05:00",
+      "date_closed": "2026-04-14T16:19:44.416534-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 268.45,
+      "paid_amount": 268.45,
+      "buyer": {
+        "id": 71811,
+        "nickname": "zgalvez",
+        "email": "jsanches@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP976470",
+            "seller_sku": "MLA-hoodie-gris-l",
+            "title": "Hoodie Gris L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 248.45,
+          "full_unit_price": 248.45,
+          "sale_fee": 32.3
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000099,
+      "date_created": "2026-03-31T18:02:51.416550-05:00",
+      "date_closed": "2026-04-02T06:02:51.416550-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 114.18,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 70228,
+        "nickname": "nsoria",
+        "email": "del-vallefederico@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP714057",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 94.18,
+          "full_unit_price": 94.18,
+          "sale_fee": 12.24
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000100,
+      "date_created": "2026-04-10T19:57:19.416567-05:00",
+      "date_closed": "2026-04-11T15:57:19.416567-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 225.88,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 49437,
+        "nickname": "augusto12",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP604232",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 225.88,
+          "full_unit_price": 225.88,
+          "sale_fee": 29.36
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000101,
+      "date_created": "2026-04-19T03:51:25.416583-05:00",
+      "date_closed": "2026-04-19T19:51:25.416583-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 105.89,
+      "paid_amount": 105.89,
+      "buyer": {
+        "id": 64935,
+        "nickname": "rendonjose-eduardo",
+        "email": "montoyaangelica@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP504653",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 95.89,
+          "full_unit_price": 95.89,
+          "sale_fee": 12.47
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000102,
+      "date_created": "2026-04-19T00:34:13.416601-05:00",
+      "date_closed": "2026-04-19T18:34:13.416601-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 120.28,
+      "paid_amount": 120.28,
+      "buyer": {
+        "id": 59443,
+        "nickname": "lugoarturo",
+        "email": "gabinoverduzco@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP376084",
+            "seller_sku": "MLA-correa-cuero-negra",
+            "title": "Correa Cuero Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 120.28,
+          "full_unit_price": 120.28,
+          "sale_fee": 15.64
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000103,
+      "date_created": "2026-04-16T01:39:33.416618-05:00",
+      "date_closed": "2026-04-16T11:39:33.416618-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 337.33,
+      "paid_amount": 337.33,
+      "buyer": {
+        "id": 72789,
+        "nickname": "liliana30",
+        "email": "galvezivonne@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP671201",
+            "seller_sku": "MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 337.33,
+          "full_unit_price": 337.33,
+          "sale_fee": 43.85
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000104,
+      "date_created": "2026-04-01T19:06:42.416635-05:00",
+      "date_closed": "2026-04-02T10:06:42.416635-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 625.29,
+      "paid_amount": 625.29,
+      "buyer": {
+        "id": 93046,
+        "nickname": "hestevez",
+        "email": "israel04@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP794902",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 116.04,
+          "full_unit_price": 116.04,
+          "sale_fee": 15.09
+        },
+        {
+          "item": {
+            "id": "MLP989033",
+            "seller_sku": "MLA-bota-trekking-marron-43",
+            "title": "Bota Trekking Marron 43",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 494.25,
+          "full_unit_price": 494.25,
+          "sale_fee": 64.25
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000105,
+      "date_created": "2026-04-15T23:22:21.416653-05:00",
+      "date_closed": "2026-04-16T22:22:21.416653-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 769.44,
+      "paid_amount": 769.44,
+      "buyer": {
+        "id": 25098,
+        "nickname": "palonzo",
+        "email": "santiago34@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP253242",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 223.73,
+          "full_unit_price": 223.73,
+          "sale_fee": 29.08
+        },
+        {
+          "item": {
+            "id": "MLP990973",
+            "seller_sku": "MLA-bota-trekking-marron-43",
+            "title": "Bota Trekking Marron 43",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 525.71,
+          "full_unit_price": 525.71,
+          "sale_fee": 68.34
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000106,
+      "date_created": "2026-03-27T02:53:07.416672-05:00",
+      "date_closed": "2026-03-28T06:53:07.416672-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 359.62,
+      "paid_amount": 359.62,
+      "buyer": {
+        "id": 71723,
+        "nickname": "azuniga",
+        "email": "maresmaria-del-carmen@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP228862",
+            "seller_sku": "MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 359.62,
+          "full_unit_price": 359.62,
+          "sale_fee": 46.75
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000107,
+      "date_created": "2026-03-31T12:21:23.416691-05:00",
+      "date_closed": "2026-03-31T18:21:23.416691-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 562.18,
+      "paid_amount": 562.18,
+      "buyer": {
+        "id": 21514,
+        "nickname": "pcarvajal",
+        "email": "banuelosmarisol@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP194103",
+            "seller_sku": "MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 356.47,
+          "full_unit_price": 356.47,
+          "sale_fee": 46.34
+        },
+        {
+          "item": {
+            "id": "MLP407806",
+            "seller_sku": "MLA-camisa-lino-beige-m",
+            "title": "Camisa Lino Beige M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 205.71,
+          "full_unit_price": 205.71,
+          "sale_fee": 26.74
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000108,
+      "date_created": "2026-04-04T20:52:59.416711-05:00",
+      "date_closed": "2026-04-04T22:52:59.416711-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 271.66,
+      "paid_amount": 271.66,
+      "buyer": {
+        "id": 13870,
+        "nickname": "elsa36",
+        "email": "lcasarez@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP988477",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 2,
+          "unit_price": 135.83,
+          "full_unit_price": 135.83,
+          "sale_fee": 35.32
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000109,
+      "date_created": "2026-04-07T17:49:24.416730-05:00",
+      "date_closed": "2026-04-09T07:49:24.416730-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 237.21,
+      "paid_amount": 237.21,
+      "buyer": {
+        "id": 72060,
+        "nickname": "julio32",
+        "email": "gomezaraceli@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP555940",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 227.21,
+          "full_unit_price": 227.21,
+          "sale_fee": 29.54
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000110,
+      "date_created": "2026-03-27T06:33:23.416750-05:00",
+      "date_closed": "2026-03-28T11:33:23.416750-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 798.72,
+      "paid_amount": 798.72,
+      "buyer": {
+        "id": 80064,
+        "nickname": "larreola",
+        "email": "reynajose-eduardo@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP959307",
+            "seller_sku": "MLA-zapatilla-running-negra-41",
+            "title": "Zapatilla Running Negra 41",
+            "category_id": "Calzado"
+          },
+          "quantity": 2,
+          "unit_price": 394.36,
+          "full_unit_price": 394.36,
+          "sale_fee": 102.53
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000111,
+      "date_created": "2026-03-29T02:34:02.416771-05:00",
+      "date_closed": "2026-03-31T01:34:02.416771-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 559.94,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 19704,
+        "nickname": "estelamarquez",
+        "email": "ocasioanel@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP832808",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 313.58,
+          "full_unit_price": 313.58,
+          "sale_fee": 40.77
+        },
+        {
+          "item": {
+            "id": "MLP721349",
+            "seller_sku": "MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 236.36,
+          "full_unit_price": 236.36,
+          "sale_fee": 30.73
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000112,
+      "date_created": "2026-04-07T18:10:36.416797-05:00",
+      "date_closed": "2026-04-09T12:10:36.416797-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 492.89,
+      "paid_amount": 492.89,
+      "buyer": {
+        "id": 80312,
+        "nickname": "juan53",
+        "email": "susanalara@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP573320",
+            "seller_sku": "MLA-polo-deportivo-azul-l",
+            "title": "Polo Deportivo Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 117.43,
+          "full_unit_price": 117.43,
+          "sale_fee": 15.27
+        },
+        {
+          "item": {
+            "id": "MLP825507",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 2,
+          "unit_price": 187.73,
+          "full_unit_price": 187.73,
+          "sale_fee": 48.81
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000113,
+      "date_created": "2026-03-25T08:26:58.416815-05:00",
+      "date_closed": "2026-03-25T23:26:58.416815-05:00",
+      "status": "refunded",
+      "currency_id": "PEN",
+      "total_amount": 140.26,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 59584,
+        "nickname": "maria-teresaarredondo",
+        "email": "laboymariano@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP147761",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 140.26,
+          "full_unit_price": 140.26,
+          "sale_fee": 18.23
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000114,
+      "date_created": "2026-04-01T20:06:59.416833-05:00",
+      "date_closed": "2026-04-03T17:06:59.416833-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 202.25,
+      "paid_amount": 202.25,
+      "buyer": {
+        "id": 45155,
+        "nickname": "merazelena",
+        "email": "maria-cristinamascarenas@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP971553",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 187.25,
+          "full_unit_price": 187.25,
+          "sale_fee": 24.34
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000115,
+      "date_created": "2026-04-14T23:54:25.416852-05:00",
+      "date_closed": "2026-04-16T20:54:25.416852-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 223.73,
+      "paid_amount": 223.73,
+      "buyer": {
+        "id": 25512,
+        "nickname": "monicaalmaraz",
+        "email": "nadia18@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP310344",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 223.73,
+          "full_unit_price": 223.73,
+          "sale_fee": 29.08
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000116,
+      "date_created": "2026-04-22T12:05:31.416868-05:00",
+      "date_closed": "2026-04-23T11:05:31.416868-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 74.74,
+      "paid_amount": 74.74,
+      "buyer": {
+        "id": 67351,
+        "nickname": "mmadrid",
+        "email": "luevanocecilia@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP360448",
+            "seller_sku": "MLA-gorra-logo-negra",
+            "title": "Gorra Logo Negra",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 74.74,
+          "full_unit_price": 74.74,
+          "sale_fee": 9.72
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000117,
+      "date_created": "2026-04-15T16:28:44.416885-05:00",
+      "date_closed": "2026-04-16T09:28:44.416885-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 417.62,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 62205,
+        "nickname": "jos76",
+        "email": "zepedaalta-gracia@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP654691",
+            "seller_sku": " MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 300.57,
+          "full_unit_price": 300.57,
+          "sale_fee": 39.07
+        },
+        {
+          "item": {
+            "id": "MLP582649",
+            "seller_sku": "MLA-bufanda-lana-gris",
+            "title": "Bufanda Lana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 97.05,
+          "full_unit_price": 97.05,
+          "sale_fee": 12.62
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000118,
+      "date_created": "2026-04-07T17:42:42.416904-05:00",
+      "date_closed": "2026-04-09T05:42:42.416904-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 612.59,
+      "paid_amount": 612.59,
+      "buyer": {
+        "id": 83745,
+        "nickname": "ralarcon",
+        "email": "mitzyquinones@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP331644",
+            "seller_sku": "MLA-casaca-cuero-negra-l",
+            "title": "Casaca Cuero Negra L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 597.59,
+          "full_unit_price": 597.59,
+          "sale_fee": 77.69
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000119,
+      "date_created": "2026-03-28T09:39:19.416920-05:00",
+      "date_closed": "2026-03-29T01:39:19.416920-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 153.69,
+      "paid_amount": 153.69,
+      "buyer": {
+        "id": 84684,
+        "nickname": "juan-carlos66",
+        "email": "aldo87@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP783968",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 153.69,
+          "full_unit_price": 153.69,
+          "sale_fee": 19.98
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000119,
+      "date_created": "2026-03-28T09:39:19.416920-05:00",
+      "date_closed": "2026-03-29T01:39:19.416920-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 153.69,
+      "paid_amount": 153.69,
+      "buyer": {
+        "id": 84684,
+        "nickname": "juan-carlos66",
+        "email": "aldo87@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP783968",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 153.69,
+          "full_unit_price": 153.69,
+          "sale_fee": 19.98
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000120,
+      "date_created": "2026-04-03T09:40:44.416937-05:00",
+      "date_closed": "2026-04-04T07:40:44.416937-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 307.33,
+      "paid_amount": 307.33,
+      "buyer": {
+        "id": 76040,
+        "nickname": "verduzcolourdes",
+        "email": "camachoabel@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP616677",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 307.33,
+          "full_unit_price": 307.33,
+          "sale_fee": 39.95
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000121,
+      "date_created": "2026-03-31T10:14:56.416954-05:00",
+      "date_closed": "2026-03-31T14:14:56.416954-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 335.91,
+      "paid_amount": 335.91,
+      "buyer": {
+        "id": 97781,
+        "nickname": "miriam58",
+        "email": "ernestobetancourt@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP301202",
+            "seller_sku": "MLA-casaca-jean-azul-m",
+            "title": "Casaca Jean Azul M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 335.91,
+          "full_unit_price": 335.91,
+          "sale_fee": 43.67
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000122,
+      "date_created": "2026-04-03T14:40:35.416971-05:00",
+      "date_closed": "2026-04-03T19:40:35.416971-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 277.06,
+      "paid_amount": 277.06,
+      "buyer": {
+        "id": 91288,
+        "nickname": "ilse19",
+        "email": "angulocristina@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP634758",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 2,
+          "unit_price": 131.03,
+          "full_unit_price": 131.03,
+          "sale_fee": 34.07
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000122,
+      "date_created": "2026-04-03T14:40:35.416971-05:00",
+      "date_closed": "2026-04-03T19:40:35.416971-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 277.06,
+      "paid_amount": 277.06,
+      "buyer": {
+        "id": 91288,
+        "nickname": "ilse19",
+        "email": "angulocristina@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP634758",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 2,
+          "unit_price": 131.03,
+          "full_unit_price": 131.03,
+          "sale_fee": 34.07
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000123,
+      "date_created": "2026-04-06T07:29:09.416988-05:00",
+      "date_closed": "2026-04-06T13:29:09.416988-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 186.72,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 60670,
+        "nickname": "laura28",
+        "email": "indiraaltamirano@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP535318",
+            "seller_sku": "MLA-lentes-sol-aviador",
+            "title": "Lentes Sol Aviador",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 186.72,
+          "full_unit_price": 186.72,
+          "sale_fee": 24.27
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000124,
+      "date_created": "2026-03-25T17:18:27.417004-05:00",
+      "date_closed": "2026-03-27T05:18:27.417004-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 401.36,
+      "paid_amount": 401.36,
+      "buyer": {
+        "id": 72689,
+        "nickname": "calderaclaudia",
+        "email": "raquel81@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP451822",
+            "seller_sku": "MLA-camisa-oxford-azul-m",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 2,
+          "unit_price": 200.68,
+          "full_unit_price": 200.68,
+          "sale_fee": 52.18
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000125,
+      "date_created": "2026-03-27T01:30:55.417021-05:00",
+      "date_closed": "2026-03-29T00:30:55.417021-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 112.64,
+      "paid_amount": 112.64,
+      "buyer": {
+        "id": 37283,
+        "nickname": "salvador38",
+        "email": "socorrocanales@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP914700",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 92.64,
+          "full_unit_price": 92.64,
+          "sale_fee": 12.04
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000126,
+      "date_created": "2026-04-17T15:13:39.417039-05:00",
+      "date_closed": "2026-04-19T14:13:39.417039-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 390.29,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 40279,
+        "nickname": "mvargas",
+        "email": "amelia54@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP729911",
+            "seller_sku": "MLA-zapatilla-running-negra-41",
+            "title": "Zapatilla Running Negra 41",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 390.29,
+          "full_unit_price": 390.29,
+          "sale_fee": 50.74
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000127,
+      "date_created": "2026-04-19T18:52:25.417056-05:00",
+      "date_closed": "2026-04-21T05:52:25.417056-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 86.14,
+      "paid_amount": 86.14,
+      "buyer": {
+        "id": 19611,
+        "nickname": "ybarraluisa",
+        "email": "acordero@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP443397",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 76.14,
+          "full_unit_price": 76.14,
+          "sale_fee": 9.9
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000128,
+      "date_created": "2026-04-18T20:58:46.417075-05:00",
+      "date_closed": "2026-04-19T14:58:46.417075-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 106.99,
+      "paid_amount": 106.99,
+      "buyer": {
+        "id": 51749,
+        "nickname": "quinonesdalia",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP708618",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 96.99,
+          "full_unit_price": 96.99,
+          "sale_fee": 12.61
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000129,
+      "date_created": "2026-04-23T06:29:33.417094-05:00",
+      "date_closed": "2026-04-23T13:29:33.417094-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 838.3,
+      "paid_amount": 838.3,
+      "buyer": {
+        "id": 50630,
+        "nickname": "reynosoaurora",
+        "email": "brunoamador@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP596071",
+            "seller_sku": "MLA-zapatilla-running-negra-41",
+            "title": "Zapatilla Running Negra 41",
+            "category_id": "Calzado"
+          },
+          "quantity": 2,
+          "unit_price": 370.07,
+          "full_unit_price": 370.07,
+          "sale_fee": 96.22
+        },
+        {
+          "item": {
+            "id": "MLP963056",
+            "seller_sku": "MLA-sandalia-playa-negra-42",
+            "title": "Sandalia Playa Negra 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 98.16,
+          "full_unit_price": 98.16,
+          "sale_fee": 12.76
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000130,
+      "date_created": "2026-03-28T19:14:55.417116-05:00",
+      "date_closed": "2026-03-30T00:14:55.417116-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 538.06,
+      "paid_amount": 538.06,
+      "buyer": {
+        "id": 80285,
+        "nickname": "dcruz",
+        "email": "veronica24@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP643355",
+            "seller_sku": "MLA-guantes-cuero-negros",
+            "title": "Guantes Cuero Negros",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 139.66,
+          "full_unit_price": 139.66,
+          "sale_fee": 18.16
+        },
+        {
+          "item": {
+            "id": "MLP577669",
+            "seller_sku": "MLA-ZAPATILLA-RUNNING-NEGRA-41",
+            "title": "Zapatilla Running Negra 41",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 398.4,
+          "full_unit_price": 398.4,
+          "sale_fee": 51.79
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000131,
+      "date_created": "2026-04-02T11:24:43.417137-05:00",
+      "date_closed": "2026-04-03T06:24:43.417137-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 151.13,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 48026,
+        "nickname": "ernesto16",
+        "email": "pascualjaramillo@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP263058",
+            "seller_sku": "MLA-billetera-cuero-marron",
+            "title": "Billetera Cuero Marron",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 151.13,
+          "full_unit_price": 151.13,
+          "sale_fee": 19.65
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000132,
+      "date_created": "2026-04-23T16:35:51.417160-05:00",
+      "date_closed": "2026-04-25T04:35:51.417160-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 75.57,
+      "paid_amount": 75.57,
+      "buyer": {
+        "id": 71668,
+        "nickname": "soledadtovar",
+        "email": "juanaocampo@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP620882",
+            "seller_sku": "MLA-polo-basico-negro-m",
+            "title": "Polo Basico Negro M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 75.57,
+          "full_unit_price": 75.57,
+          "sale_fee": 9.82
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000133,
+      "date_created": "2026-04-03T15:27:32.417179-05:00",
+      "date_closed": "2026-04-04T12:27:32.417179-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 269.06,
+      "paid_amount": 269.06,
+      "buyer": {
+        "id": 84315,
+        "nickname": "geronimo79",
+        "email": "leonorleal@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP693779",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 259.06,
+          "full_unit_price": 259.06,
+          "sale_fee": 33.68
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000134,
+      "date_created": "2026-04-19T22:15:21.417197-05:00",
+      "date_closed": "2026-04-20T22:15:21.417197-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 332.58,
+      "paid_amount": 332.58,
+      "buyer": {
+        "id": 45813,
+        "nickname": "rozuna",
+        "email": "beatriz12@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP631099",
+            "seller_sku": "MLA-zapatilla-urbana-blanca-42",
+            "title": "Zapatilla Urbana Blanca 42",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 322.58,
+          "full_unit_price": 322.58,
+          "sale_fee": 41.94
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000135,
+      "date_created": "2026-04-08T23:37:14.417214-05:00",
+      "date_closed": "2026-04-09T12:37:14.417214-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 232.93,
+      "paid_amount": 232.93,
+      "buyer": {
+        "id": 84728,
+        "nickname": "amalia17",
+        "email": "jaime07@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP187445",
+            "seller_sku": " MLA-pantalon-chino-negro-32",
+            "title": "Pantalon Chino Negro 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 232.93,
+          "full_unit_price": 232.93,
+          "sale_fee": 30.28
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000136,
+      "date_created": "2026-04-20T20:55:23.417230-05:00",
+      "date_closed": "2026-04-20T23:55:23.417230-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 365.94,
+      "paid_amount": 365.94,
+      "buyer": {
+        "id": 27463,
+        "nickname": "valentinpatricia",
+        "email": "cnazario@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP963218",
+            "seller_sku": "MLA-reloj-deportivo-negro",
+            "title": "Reloj Deportivo Negro",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 355.94,
+          "full_unit_price": 355.94,
+          "sale_fee": 46.27
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000137,
+      "date_created": "2026-03-31T15:59:26.417247-05:00",
+      "date_closed": "2026-04-01T12:59:26.417247-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 131.6,
+      "paid_amount": 131.6,
+      "buyer": {
+        "id": 69614,
+        "nickname": "elena62",
+        "email": "raquel80@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP827078",
+            "seller_sku": "MLA-short-deportivo-negro-m",
+            "title": "Short Deportivo Negro M",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 131.6,
+          "full_unit_price": 131.6,
+          "sale_fee": 17.11
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000138,
+      "date_created": "2026-04-07T10:16:00.417262-05:00",
+      "date_closed": "2026-04-08T17:16:00.417262-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 362.73,
+      "paid_amount": 362.73,
+      "buyer": {
+        "id": 80095,
+        "nickname": "guillermo90",
+        "email": "rocioceballos@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP486079",
+            "seller_sku": "MLA-reloj-deportivo-negro",
+            "title": "Reloj Deportivo Negro",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 362.73,
+          "full_unit_price": 362.73,
+          "sale_fee": 47.15
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000139,
+      "date_created": "2026-04-14T13:14:10.417279-05:00",
+      "date_closed": "2026-04-15T13:14:10.417279-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 538.32,
+      "paid_amount": 538.32,
+      "buyer": {
+        "id": 80879,
+        "nickname": "fmeza",
+        "email": "oliveraaugusto@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP605137",
+            "seller_sku": "MLA-polo-basico-blanco-m",
+            "title": "Polo Basico Blanco M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 77.62,
+          "full_unit_price": 77.62,
+          "sale_fee": 10.09
+        },
+        {
+          "item": {
+            "id": "MLP525500",
+            "seller_sku": "MLA-pantalon-chino-beige-32",
+            "title": "Pantalon Chino Beige 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 2,
+          "unit_price": 222.85,
+          "full_unit_price": 222.85,
+          "sale_fee": 57.94
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000140,
+      "date_created": "2026-04-07T07:10:52.417298-05:00",
+      "date_closed": "2026-04-08T18:10:52.417298-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 182.53,
+      "paid_amount": 182.53,
+      "buyer": {
+        "id": 79720,
+        "nickname": "carrionsamuel",
+        "email": "ballesterosporfirio@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP595283",
+            "seller_sku": "MLA-bermuda-cargo-verde-32",
+            "title": "Bermuda Cargo Verde 32",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 167.53,
+          "full_unit_price": 167.53,
+          "sale_fee": 21.78
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000141,
+      "date_created": "2026-04-03T08:55:24.417316-05:00",
+      "date_closed": "2026-04-04T03:55:24.417316-05:00",
+      "status": "cancelled",
+      "currency_id": "PEN",
+      "total_amount": 411.94,
+      "paid_amount": 0,
+      "buyer": {
+        "id": 66034,
+        "nickname": "eabrego",
+        "email": "bespinosa@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP227498",
+            "seller_sku": "MLA-zapatilla-running-negra-41",
+            "title": "Zapatilla Running Negra 41",
+            "category_id": "Calzado"
+          },
+          "quantity": 1,
+          "unit_price": 391.94,
+          "full_unit_price": 391.94,
+          "sale_fee": 50.95
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "cancelled"
+      }
+    },
+    {
+      "id": 2000142,
+      "date_created": "2026-04-06T00:42:22.417331-05:00",
+      "date_closed": "2026-04-07T09:42:22.417331-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 232.25,
+      "paid_amount": 232.25,
+      "buyer": {
+        "id": 48609,
+        "nickname": "hernandezignacio",
+        "email": "figueroaalfonso@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP413755",
+            "seller_sku": "MLA-camisa-lino-beige-m",
+            "title": "Camisa Lino Beige M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 217.25,
+          "full_unit_price": 217.25,
+          "sale_fee": 28.24
+        }
+      ],
+      "shipping": {
+        "cost": 15.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000143,
+      "date_created": "2026-04-04T13:24:57.417349-05:00",
+      "date_closed": "2026-04-05T16:24:57.417349-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 210.22,
+      "paid_amount": 210.22,
+      "buyer": {
+        "id": 17169,
+        "nickname": "norma04",
+        "email": "lozadaarturo@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP975162",
+            "seller_sku": "MLA-camisa-oxford-azul-m",
+            "title": "Camisa Oxford Azul M",
+            "category_id": "Camisas"
+          },
+          "quantity": 1,
+          "unit_price": 200.22,
+          "full_unit_price": 200.22,
+          "sale_fee": 26.03
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000144,
+      "date_created": "2026-04-17T23:24:13.417365-05:00",
+      "date_closed": "2026-04-18T06:24:13.417365-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 288.03,
+      "paid_amount": 288.03,
+      "buyer": {
+        "id": 78101,
+        "nickname": "ines56",
+        "email": "modestoquiroz@example.net"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP648652",
+            "seller_sku": "MLA-jean-slim-azul-30",
+            "title": "Jean Slim Azul 30",
+            "category_id": "Pantalones"
+          },
+          "quantity": 1,
+          "unit_price": 278.03,
+          "full_unit_price": 278.03,
+          "sale_fee": 36.14
+        }
+      ],
+      "shipping": {
+        "cost": 10.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000145,
+      "date_created": "2026-04-01T03:49:14.417381-05:00",
+      "date_closed": "2026-04-01T09:49:14.417381-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 315.81,
+      "paid_amount": 315.81,
+      "buyer": {
+        "id": 75746,
+        "nickname": "ivonne71",
+        "email": "catalina54@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP719806",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 315.81,
+          "full_unit_price": 315.81,
+          "sale_fee": 41.06
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000146,
+      "date_created": "2026-04-09T14:39:08.417398-05:00",
+      "date_closed": "2026-04-11T12:39:08.417398-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 241.73,
+      "paid_amount": 241.73,
+      "buyer": {
+        "id": 93769,
+        "nickname": "portilloevelio",
+        "email": "ramirotijerina@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP815334",
+            "seller_sku": "MLA-hoodie-gris-l",
+            "title": "Hoodie Gris L",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 241.73,
+          "full_unit_price": 241.73,
+          "sale_fee": 31.42
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000147,
+      "date_created": "2026-03-29T22:33:41.417415-05:00",
+      "date_closed": "2026-03-31T09:33:41.417415-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 132.77,
+      "paid_amount": 132.77,
+      "buyer": {
+        "id": 68692,
+        "nickname": "jose-mariasaiz",
+        "email": "berta60@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP785880",
+            "seller_sku": "MLA-polo-deportivo-rojo-m",
+            "title": "Polo Deportivo Rojo M",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 112.77,
+          "full_unit_price": 112.77,
+          "sale_fee": 14.66
+        }
+      ],
+      "shipping": {
+        "cost": 20.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000148,
+      "date_created": "2026-04-03T04:11:14.417444-05:00",
+      "date_closed": "2026-04-04T00:11:14.417444-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 317.97,
+      "paid_amount": 317.97,
+      "buyer": {
+        "id": 46587,
+        "nickname": "madridwilfrido",
+        "email": "qescamilla@example.org"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP526737",
+            "seller_sku": "MLA-chompa-lana-negra-m",
+            "title": "Chompa Lana Negra M",
+            "category_id": "Casacas"
+          },
+          "quantity": 1,
+          "unit_price": 317.97,
+          "full_unit_price": 317.97,
+          "sale_fee": 41.34
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000149,
+      "date_created": "2026-04-05T12:34:07.417461-05:00",
+      "date_closed": "2026-04-07T09:34:07.417461-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 92.57,
+      "paid_amount": 92.57,
+      "buyer": {
+        "id": 72253,
+        "nickname": "bpedraza",
+        "email": null
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP864343",
+            "seller_sku": "MLA-polo-estampado-azul-l",
+            "title": "Polo Estampado Azul L",
+            "category_id": "Polos"
+          },
+          "quantity": 1,
+          "unit_price": 92.57,
+          "full_unit_price": 92.57,
+          "sale_fee": 12.03
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    },
+    {
+      "id": 2000150,
+      "date_created": "2026-03-28T18:05:55.417478-05:00",
+      "date_closed": "2026-03-29T19:05:55.417478-05:00",
+      "status": "paid",
+      "currency_id": "PEN",
+      "total_amount": 231.01,
+      "paid_amount": 231.01,
+      "buyer": {
+        "id": 36292,
+        "nickname": "wcervantes",
+        "email": "wilfridogalvan@example.com"
+      },
+      "order_items": [
+        {
+          "item": {
+            "id": "MLP151514",
+            "seller_sku": "MLA-mochila-urbana-gris",
+            "title": "Mochila Urbana Gris",
+            "category_id": "Accesorios"
+          },
+          "quantity": 1,
+          "unit_price": 231.01,
+          "full_unit_price": 231.01,
+          "sale_fee": 30.03
+        }
+      ],
+      "shipping": {
+        "cost": 0.0,
+        "status": "delivered"
+      }
+    }
+  ]
+}
