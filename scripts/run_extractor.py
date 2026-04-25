@@ -2,17 +2,27 @@
 
 Usage:
     python scripts/run_extractor.py shopify
+    python scripts/run_extractor.py pos
 """
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
-from retail_pipeline.extractors import shopify  # noqa: E402
+from retail_pipeline.extractors import (  # noqa: E402
+    amazon,
+    mercadolibre,
+    pos,
+    shopify,
+    tiendanube,
+)
 
 EXTRACTORS = {
-    "shopify": shopify.run,
-    # future: "mercadolibre": mercadolibre.run, etc.
+    "shopify":      shopify.run,
+    "mercadolibre": mercadolibre.run,
+    "amazon":       amazon.run,
+    "tiendanube":   tiendanube.run,
+    "pos":          pos.run,
 }
 
 
