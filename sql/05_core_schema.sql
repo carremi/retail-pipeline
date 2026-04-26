@@ -20,7 +20,7 @@ INSERT INTO core.dim_platform (platform_code, platform_name, platform_type) VALU
     ('shopify',      'Shopify',       'ecommerce'),
     ('mercadolibre', 'MercadoLibre',  'marketplace'),
     ('amazon',       'Amazon',        'marketplace'),
-    ('tiendanube',   'Tiendanube',    'marketplace'),
+    ('tiendanube',   'Tiendanube',    'ecommerce'),
     ('pos',          'Tienda Física', 'pos')
 ON CONFLICT (platform_code) DO NOTHING;
 

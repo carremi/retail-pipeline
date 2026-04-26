@@ -40,3 +40,6 @@ select = ["E", "F", "I", "W", "UP"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+markers = [
+    "integration: tests that hit the real database (deselect with '-m \"not integration\"')",
+]

@@ -4,15 +4,15 @@ services:
     container_name: retail_postgres
     restart: unless-stopped
     environment:
-      POSTGRES_DB: retail_pipeline
-      POSTGRES_USER: retail_user
-      POSTGRES_PASSWORD: retail_pass_dev
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
     ports:
       - "5432:5432"
     volumes:
       - ./postgres-data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U retail_user -d retail_pipeline"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-retail_user} -d ${POSTGRES_DB:-retail_pipeline}"]
       interval: 5s
       timeout: 5s
       retries: 5
@@ -22,8 +22,8 @@ services:
     container_name: retail_pgadmin
     restart: unless-stopped
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@retail.com
-      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL:-admin@retail.local}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:-admin}
       PGADMIN_CONFIG_SERVER_MODE: 'False'
     ports:
       - "5050:80"
@@ -32,3 +32,90 @@ services:
     depends_on:
       postgres:
         condition: service_healthy
+
+  # ---------- Application services ----------
+
+  app:
+    build: .
+    container_name: retail_app
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  # Runs on `docker compose up` — creates schemas and reference data
+  db-init:
+    build: .
+    container_name: retail_db_init
+    command: init-db
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  # ---------- Demo profile (sample data + pipeline run) ----------
+
+  generate-data:
+    build: .
+    container_name: retail_gen_data
+    command: generate-data
+    profiles: ["demo"]
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      db-init:
+        condition: service_completed_successfully
+
+  seed-reference:
+    build: .
+    container_name: retail_seed_ref
+    command: seed
+    profiles: ["demo"]
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
+    depends_on:
+      db-init:
+        condition: service_completed_successfully
+
+  pipeline:
+    build: .
+    container_name: retail_pipeline_run
+    command: pipeline
+    profiles: ["demo"]
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB:-retail_pipeline}
+      POSTGRES_USER: ${POSTGRES_USER:-retail_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-retail_pass_dev}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      generate-data:
+        condition: service_completed_successfully
+      seed-reference:
+        condition: service_completed_successfully

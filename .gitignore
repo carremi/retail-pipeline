@@ -1,4 +1,35 @@
-# Docker
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (contains secrets)
+.env
+
+# Docker volumes
 postgres-data/
 pgadmin-data/
 
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated data — re-create with: make gen-data
+data/drops/*.json
+data/drops/*.tsv
+data/drops/*.xlsx

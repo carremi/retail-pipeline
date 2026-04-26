@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+postgres-data/
+pgadmin-data/
+logs/
+.env
+.git/
+.DS_Store
+.pytest_cache/
+.ruff_cache/

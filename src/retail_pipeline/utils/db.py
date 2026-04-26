@@ -1,4 +1,5 @@
 """Database helpers: engine creation and SQL file execution."""
+from functools import lru_cache
 from pathlib import Path
 
 from sqlalchemy import create_engine, text
@@ -7,8 +8,9 @@ from sqlalchemy.engine import Engine
 from retail_pipeline.utils.config import config
 
 
+@lru_cache(maxsize=1)
 def get_engine() -> Engine:
-    """Return a SQLAlchemy engine for the project's Postgres database."""
+    """Return a shared SQLAlchemy engine (singleton) for the project's Postgres database."""
     return create_engine(config.pg_url, pool_pre_ping=True)
 
 
